@@ -3151,45 +3151,6 @@
     },
     {
       "anchor": [
-        -141.78,
-        268.94
-      ],
-      "district": "South Lamar",
-      "eaveHeight": 157.76,
-      "frontEdge": [
-        [
-          -141.78,
-          268.94
-        ],
-        [
-          -131.91,
-          270.72
-        ]
-      ],
-      "gableFront": false,
-      "id": "269021176",
-      "improvements": [
-        "source-material-coursing"
-      ],
-      "inference": [
-        "standard course spacing and bond orientation modeled from the recorded wall material"
-      ],
-      "roofRise": 2.97,
-      "sources": {
-        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-001_00.pdf",
-        "assessorDate": "08/20/2026",
-        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=34512&view=facts",
-        "propertyCardDate": "1-12-2009",
-        "sketch": null,
-        "sketchDate": null
-      },
-      "stories": 1,
-      "tile": "-1_0",
-      "wall": "stucco",
-      "wallPattern": "stucco"
-    },
-    {
-      "anchor": [
         -689.36,
         182.64
       ],
@@ -3421,45 +3382,6 @@
       "tile": "-1_0",
       "wall": "brick",
       "wallPattern": "brick-running-bond"
-    },
-    {
-      "anchor": [
-        -431.08,
-        143.73
-      ],
-      "district": "South Lamar",
-      "eaveHeight": 153.12,
-      "frontEdge": [
-        [
-          -417.16,
-          137.66
-        ],
-        [
-          -429.08,
-          134.97
-        ]
-      ],
-      "gableFront": false,
-      "id": "599822426",
-      "improvements": [
-        "source-material-coursing"
-      ],
-      "inference": [
-        "standard course spacing and bond orientation modeled from the recorded wall material"
-      ],
-      "roofRise": 1.34,
-      "sources": {
-        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-317_00.pdf",
-        "assessorDate": "08/20/2026",
-        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32086&view=facts",
-        "propertyCardDate": null,
-        "sketch": null,
-        "sketchDate": null
-      },
-      "stories": 1,
-      "tile": "-1_0",
-      "wall": "stucco",
-      "wallPattern": "stucco"
     },
     {
       "anchor": [
@@ -4126,45 +4048,6 @@
     },
     {
       "anchor": [
-        -349.0,
-        1023.12
-      ],
-      "district": "South Lamar",
-      "eaveHeight": 157.52,
-      "frontEdge": [
-        [
-          -347.21,
-          1010.37
-        ],
-        [
-          -349.0,
-          1023.12
-        ]
-      ],
-      "gableFront": false,
-      "id": "611309507",
-      "improvements": [
-        "source-material-coursing"
-      ],
-      "inference": [
-        "standard course spacing and bond orientation modeled from the recorded wall material"
-      ],
-      "roofRise": 2.06,
-      "sources": {
-        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-081_00.pdf",
-        "assessorDate": "08/20/2026",
-        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32173&view=facts",
-        "propertyCardDate": null,
-        "sketch": null,
-        "sketchDate": null
-      },
-      "stories": 2,
-      "tile": "-1_1",
-      "wall": "stucco",
-      "wallPattern": "stucco"
-    },
-    {
-      "anchor": [
         -357.73,
         1078.3
       ],
@@ -4630,45 +4513,6 @@
       "tile": "-1_1",
       "wall": "board",
       "wallPattern": "board-course"
-    },
-    {
-      "anchor": [
-        -465.37,
-        623.5
-      ],
-      "district": "South Lamar",
-      "eaveHeight": 152.03,
-      "frontEdge": [
-        [
-          -441.51,
-          619.96
-        ],
-        [
-          -464.16,
-          616.21
-        ]
-      ],
-      "gableFront": false,
-      "id": "611311333",
-      "improvements": [
-        "source-material-coursing"
-      ],
-      "inference": [
-        "standard course spacing and bond orientation modeled from the recorded wall material"
-      ],
-      "roofRise": 2.25,
-      "sources": {
-        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-149_00.pdf",
-        "assessorDate": "08/20/2026",
-        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32035&view=facts",
-        "propertyCardDate": null,
-        "sketch": null,
-        "sketchDate": null
-      },
-      "stories": 1,
-      "tile": "-1_1",
-      "wall": "stucco",
-      "wallPattern": "stucco"
     },
     {
       "anchor": [

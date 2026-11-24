@@ -1,5 +1,5 @@
 {
-  "commit": "58d05debdeb33fdbc7aa5f346c19a0bcb4828cf8",
+  "commit": "ed80fb4ea2805e10cd7b72f59fd1129b661a656f",
   "files": {
     "credits.html": "214b1f47e364b5af2be4c6adf1cd948e81cb958e42ce6348074063921a979a30",
     "data/aerial/-10_-1.jpg": "8a2cff178a8b5e9c70007e36bd2e45c1b589792f74b8e528ec5667ca01dce5f1",
@@ -2443,7 +2443,7 @@
     "data/illustration/wall-metal.png": "a2312ad49dd855a973923fe66b6257b8168e120c775c2e5b9b40d3339cc7f87f",
     "data/illustration/wall-painted.png": "197dfd5dda772bb36ff519ffbfe6f2a76c321dd745892c2a9107048e32c2b67f",
     "data/illustration/wall-stone.png": "348e666fbc461e7eaf49f5ba3b20b25af5c1ebf1c4b357c1171ab9ce94d02c0b",
-    "data/illustration/wall-stucco.png": "a46441e9bf5f6d7370b2df6104abd4dce0130b0c744c0c8e54f38dd72bf44e7d",
+    "data/illustration/wall-stucco.png": "79616e6c57ca43dee1a793487186636769774921a0460a03ba12a85d58189b94",
     "data/illustration/wood-grain.png": "52bdf0df14c9125ec04209c05f97f519e3d90cda36480e620ebd6a8205320088",
     "data/landrys.png": "bb19c70c639eb0a732346afd59dd6502aa7be25c9536ab6290f1ea4e57702224",
     "data/lighting/fixtures.json": "5c543125e7a07580fd5f4c883af1c15506636be8f4ae273d29780b2ba27c039f",
@@ -2451,7 +2451,7 @@
     "data/lighting/painterly-day.jpg": "3b802bebfe7f20fd3bd1b240a95316d9c7f178b6970049d02b8bbaff247962c3",
     "data/lighting/painterly-dusk.jpg": "8dd885d8aa74e320de5453886fab60a0396731909b418a65bbdc3bebac8bf885",
     "data/off-square.png": "36268561c6ca9f962cbab1e5909abe7f92dafa1ea99935f7bbd45c5d84cc4fb8",
-    "data/record-exteriors.json": "1a0327d7d17ba0e51298fa60b6ed8d4391be284300793f0a963ec582b5ddf6fb",
+    "data/record-exteriors.json": "b1b9d57b99958f0022208b2044c8d084a6753fb24fc4d72d034dad650d3f3f46",
     "data/road-art/asphalt.png": "7cc119e338edbc3f1ab11723aa0749438e5abba189e484f9dab8a65b9530fc3f",
     "data/road-art/concrete-walk.png": "c6e75a46cbac92bddf32f6d56428e2483f71323b7bbe96e721c15941b0eddf73",
     "data/road-art/parking.png": "ae419ddc37406070e000284eb63be9b7988ced05f673bc88c1ac6674cba3e4f8",
@@ -3316,15 +3316,15 @@
     "data/tree2.png": "0591f77fb03668ff6c08e272a6a532bae882d29fbafa60a0853c7cfa991a8aac",
     "data/tree3.png": "07b719a23a77d43ca0ff5ca40ef65e475fa25482e40c245985da2d9a86bf8807",
     "data/ventress-front.jpg": "beb660a432a6d580689a708582ffd629b62252e081c63f8afd7e966f66a53e41",
-    "game.js": "77dfd3c61ebe5dfa79884f6315c7b757d5358a0f06dd40c98881ba724a002081",
+    "game.js": "f2f5d46d77b654ffc8455b6bda2b4b6de2f23d97decc469e6e4ecc0ee7c618fa",
     "index.html": "d9524e543a553d45e31a3dffcccb7a5c32c509cfdcb26f77897bd20e9c5199de",
     "qa.html": "89c08424525b61ea30cf4989626c0ae91f87f85f9e25f6e6f2dc5bef03bc5f1e",
     "qa/controller.js": "31a0cad071258d96120756a430e447f435b9e50850c07313b6c6eb53e253e42a",
     "qa/cross.json": "b46251c79297218d100b174ad17f160998a26c358ca4be4ac514184070c40b24",
-    "qa/probe.js": "aa517c8fde297a77885e9b9ec7316230b1a924e9cc15d684c2e5beaab14be956",
+    "qa/probe.js": "f7e42bb81efa0f97a29fa1f1a9baa65c4021c3af88e1c765990e90eeb76a170e",
     "qa/verify.js": "8e30464fa8f6e2c41339f105bb53d58dca040b0fecbdf773e5044ba20e5c0613",
     "style.css": "f7deb9078e8b9623af48542c10f4ec131f08522ace7c94d2d856805f707f0940",
-    "tile-worker.js": "cd6f2b38e081429bf3ada901ea1a4ff422042354753a8221bf5e4b1ccad93288"
+    "tile-worker.js": "989c9d09d6897e341051673ba64906ad4522c9fc243e24bfb8e73e903cb97368"
   },
   "sourceRepository": "https://github.com/abrynild90/oxford-courier"
 }
