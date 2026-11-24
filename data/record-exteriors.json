@@ -1,0 +1,4714 @@
+{
+  "candidateFreezeSha256": "316efb411fbe019b76c48de97a4b097c069810051929d615fbbde97030e8ebd5",
+  "records": [
+    {
+      "anchor": [
+        584.0,
+        -831.04
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 150.74,
+      "frontEdge": [
+        [
+          584.0,
+          -831.04
+        ],
+        [
+          595.95,
+          -829.47
+        ]
+      ],
+      "gableFront": true,
+      "id": "627274293",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.5,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-043_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32286&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        684.39,
+        -834.1
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.39,
+      "frontEdge": [
+        [
+          685.46,
+          -824.7
+        ],
+        [
+          696.87,
+          -825.97
+        ]
+      ],
+      "gableFront": false,
+      "id": "627274556",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.99,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-049_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32296&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        762.9,
+        -848.25
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 149.07,
+      "frontEdge": [
+        [
+          762.87,
+          -836.01
+        ],
+        [
+          772.69,
+          -835.99
+        ]
+      ],
+      "gableFront": true,
+      "id": "627274560",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.06,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-053_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32303&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        800.34,
+        -829.55
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 149.31,
+      "frontEdge": [
+        [
+          800.34,
+          -829.55
+        ],
+        [
+          810.62,
+          -827.27
+        ]
+      ],
+      "gableFront": false,
+      "id": "627275334",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 9.63,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-055_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32307&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        592.76,
+        -748.52
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.76,
+      "frontEdge": [
+        [
+          594.84,
+          -759.64
+        ],
+        [
+          592.76,
+          -748.52
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157056",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.41,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-099_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32247&view=facts",
+        "propertyCardDate": "November 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        596.71,
+        -773.11
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 146.42,
+      "frontEdge": [
+        [
+          602.56,
+          -781.62
+        ],
+        [
+          596.71,
+          -773.11
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157057",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.56,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-098_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32246&view=facts",
+        "propertyCardDate": "November 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        606.65,
+        -698.92
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.71,
+      "frontEdge": [
+        [
+          606.65,
+          -698.92
+        ],
+        [
+          618.18,
+          -697.19
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157065",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.59,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-102_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32259&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        715.21,
+        -744.1
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.0,
+      "frontEdge": [
+        [
+          727.95,
+          -738.43
+        ],
+        [
+          722.72,
+          -748.12
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157576",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.79,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-092_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32253&view=facts",
+        "propertyCardDate": "September 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        706.64,
+        -761.09
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 143.85,
+      "frontEdge": [
+        [
+          720.35,
+          -754.43
+        ],
+        [
+          715.94,
+          -764.94
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157578",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.11,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-093_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32251&view=facts",
+        "propertyCardDate": "September 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        600.7,
+        -657.6
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 140.97,
+      "frontEdge": [
+        [
+          617.51,
+          -662.1
+        ],
+        [
+          602.14,
+          -665.05
+        ]
+      ],
+      "gableFront": true,
+      "id": "628408653",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.29,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-117_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32258&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        653.52,
+        -646.37
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 142.48,
+      "frontEdge": [
+        [
+          665.72,
+          -655.93
+        ],
+        [
+          655.25,
+          -657.53
+        ]
+      ],
+      "gableFront": false,
+      "id": "628408656",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.16,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-114_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32264&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        731.98,
+        -646.78
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.24,
+      "frontEdge": [
+        [
+          745.14,
+          -646.97
+        ],
+        [
+          731.98,
+          -646.78
+        ]
+      ],
+      "gableFront": false,
+      "id": "628408660",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.72,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-110_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32272&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        748.07,
+        -646.16
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.17,
+      "frontEdge": [
+        [
+          761.93,
+          -647.83
+        ],
+        [
+          748.07,
+          -646.16
+        ]
+      ],
+      "gableFront": true,
+      "id": "628408661",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.81,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-109_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32274&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        762.91,
+        -748.94
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.02,
+      "frontEdge": [
+        [
+          762.91,
+          -748.94
+        ],
+        [
+          768.29,
+          -739.52
+        ]
+      ],
+      "gableFront": false,
+      "id": "628911059",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.22,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-070_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32252&view=facts",
+        "propertyCardDate": "September 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "board",
+      "wallPattern": "wood-shingle"
+    },
+    {
+      "anchor": [
+        889.0,
+        -663.25
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 140.37,
+      "frontEdge": [
+        [
+          900.58,
+          -663.77
+        ],
+        [
+          889.0,
+          -663.25
+        ]
+      ],
+      "gableFront": false,
+      "id": "628911291",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.52,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-078_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32283&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        812.95,
+        -699.58
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.89,
+      "frontEdge": [
+        [
+          813.81,
+          -692.08
+        ],
+        [
+          824.7,
+          -693.31
+        ]
+      ],
+      "gableFront": true,
+      "id": "629081032",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.59,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-073_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32278&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        830.76,
+        -702.74
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.32,
+      "frontEdge": [
+        [
+          831.68,
+          -694.45
+        ],
+        [
+          841.83,
+          -695.56
+        ]
+      ],
+      "gableFront": true,
+      "id": "629081033",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.75,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-074_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32280&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        833.97,
+        -776.7
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 149.35,
+      "frontEdge": [
+        [
+          846.41,
+          -782.16
+        ],
+        [
+          835.88,
+          -784.67
+        ]
+      ],
+      "gableFront": true,
+      "id": "629081051",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.72,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-064_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32306&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        796.41,
+        -773.83
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 149.79,
+      "frontEdge": [
+        [
+          810.4,
+          -787.01
+        ],
+        [
+          800.09,
+          -789.42
+        ]
+      ],
+      "gableFront": true,
+      "id": "629081055",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.22,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-066_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32302&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        617.59,
+        -828.07
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 147.34,
+      "frontEdge": [
+        [
+          617.59,
+          -828.07
+        ],
+        [
+          628.19,
+          -827.05
+        ]
+      ],
+      "gableFront": true,
+      "id": "451755543",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.24,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-045_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32290&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        601.68,
+        -827.3
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 148.9,
+      "frontEdge": [
+        [
+          601.68,
+          -827.3
+        ],
+        [
+          612.28,
+          -826.27
+        ]
+      ],
+      "gableFront": false,
+      "id": "451755544",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.24,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-044_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32288&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "stone-joint"
+    },
+    {
+      "anchor": [
+        635.45,
+        -826.44
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 145.55,
+      "frontEdge": [
+        [
+          635.45,
+          -826.44
+        ],
+        [
+          645.33,
+          -826.01
+        ]
+      ],
+      "gableFront": false,
+      "id": "627274553",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.47,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-046_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32292&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        650.76,
+        -833.28
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.93,
+      "frontEdge": [
+        [
+          651.66,
+          -825.74
+        ],
+        [
+          661.9,
+          -826.97
+        ]
+      ],
+      "gableFront": true,
+      "id": "627274554",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.6,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-047_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32294&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        705.95,
+        -835.91
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.92,
+      "frontEdge": [
+        [
+          706.85,
+          -828.22
+        ],
+        [
+          717.59,
+          -829.46
+        ]
+      ],
+      "gableFront": true,
+      "id": "627274557",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.63,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-050_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=2145910751&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        725.04,
+        -830.48
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 145.76,
+      "frontEdge": [
+        [
+          725.04,
+          -830.48
+        ],
+        [
+          734.41,
+          -830.04
+        ]
+      ],
+      "gableFront": false,
+      "id": "627274558",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.22,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-051_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32299&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "board",
+      "wallPattern": "wood-shingle"
+    },
+    {
+      "anchor": [
+        852.04,
+        -818.87
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 147.66,
+      "frontEdge": [
+        [
+          852.04,
+          -818.87
+        ],
+        [
+          862.4,
+          -816.42
+        ]
+      ],
+      "gableFront": false,
+      "id": "627275331",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.45,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-058_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32312&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        835.28,
+        -822.5
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 148.51,
+      "frontEdge": [
+        [
+          835.28,
+          -822.5
+        ],
+        [
+          845.94,
+          -819.98
+        ]
+      ],
+      "gableFront": false,
+      "id": "627275332",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.49,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-057_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32311&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "board",
+      "wallPattern": "wood-shingle"
+    },
+    {
+      "anchor": [
+        817.67,
+        -825.09
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 148.98,
+      "frontEdge": [
+        [
+          817.67,
+          -825.09
+        ],
+        [
+          828.9,
+          -823.17
+        ]
+      ],
+      "gableFront": false,
+      "id": "627275333",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.56,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-056_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32309&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        582.64,
+        -707.87
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.43,
+      "frontEdge": [
+        [
+          582.64,
+          -707.87
+        ],
+        [
+          590.46,
+          -700.91
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157060",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.57,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-101_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32257&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        643.99,
+        -695.58
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 142.29,
+      "frontEdge": [
+        [
+          643.99,
+          -695.58
+        ],
+        [
+          655.91,
+          -693.23
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157067",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.56,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-104_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32263&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        661.27,
+        -692.82
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 142.32,
+      "frontEdge": [
+        [
+          661.27,
+          -692.82
+        ],
+        [
+          672.79,
+          -690.35
+        ]
+      ],
+      "gableFront": true,
+      "id": "628157069",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.65,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-105_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32265&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        679.61,
+        -689.39
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 142.24,
+      "frontEdge": [
+        [
+          679.61,
+          -689.39
+        ],
+        [
+          690.06,
+          -687.28
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157391",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.24,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-106_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32267&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        698.05,
+        -686.31
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 142.41,
+      "frontEdge": [
+        [
+          698.05,
+          -686.31
+        ],
+        [
+          709.7,
+          -684.66
+        ]
+      ],
+      "gableFront": true,
+      "id": "628157392",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.48,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-107_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32269&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        714.57,
+        -683.68
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.38,
+      "frontEdge": [
+        [
+          714.57,
+          -683.68
+        ],
+        [
+          725.67,
+          -682.69
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157396",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.19,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-108_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32271&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        731.15,
+        -716.58
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 143.97,
+      "frontEdge": [
+        [
+          742.69,
+          -709.57
+        ],
+        [
+          737.81,
+          -719.75
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157398",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.55,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-091_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32255&view=facts",
+        "propertyCardDate": "September 2018",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        695.44,
+        -779.78
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 144.06,
+      "frontEdge": [
+        [
+          709.33,
+          -781.65
+        ],
+        [
+          699.14,
+          -786.9
+        ]
+      ],
+      "gableFront": true,
+      "id": "628157580",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.69,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-094_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32293&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        642.45,
+        -777.97
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 143.63,
+      "frontEdge": [
+        [
+          652.82,
+          -778.01
+        ],
+        [
+          642.45,
+          -777.97
+        ]
+      ],
+      "gableFront": false,
+      "id": "628157585",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.72,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-096_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32289&view=facts",
+        "propertyCardDate": "Sept. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        570.62,
+        -651.55
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 140.04,
+      "frontEdge": [
+        [
+          590.49,
+          -663.35
+        ],
+        [
+          572.54,
+          -665.76
+        ]
+      ],
+      "gableFront": true,
+      "id": "628408356",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.01,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-118_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32256&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        620.95,
+        -652.63
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.64,
+      "frontEdge": [
+        [
+          632.97,
+          -659.89
+        ],
+        [
+          622.56,
+          -661.72
+        ]
+      ],
+      "gableFront": false,
+      "id": "628408654",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.94,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-116_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32260&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        672.1,
+        -645.15
+      ],
+      "district": "Avent Acres Neighborhood",
+      "eaveHeight": 141.4,
+      "frontEdge": [
+        [
+          689.19,
+          -650.86
+        ],
+        [
+          673.36,
+          -653.29
+        ]
+      ],
+      "gableFront": false,
+      "id": "628408657",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.14,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135L-21-113_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32266&view=facts",
+        "propertyCardDate": "Nov. 2018 (Avent Acres HD Survey)",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "1_-2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -28.94,
+        -440.26
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.14,
+      "frontEdge": [
+        [
+          -21.69,
+          -439.09
+        ],
+        [
+          -19.9,
+          -450.11
+        ]
+      ],
+      "gableFront": false,
+      "id": "625159045",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.54,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-113_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31568&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -47.37,
+        -411.1
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 161.17,
+      "frontEdge": [
+        [
+          -27.52,
+          -406.32
+        ],
+        [
+          -23.83,
+          -421.47
+        ]
+      ],
+      "gableFront": false,
+      "id": "625159046",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.92,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-111_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31566&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -47.72,
+        -386.78
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.75,
+      "frontEdge": [
+        [
+          -34.85,
+          -384.55
+        ],
+        [
+          -32.75,
+          -396.59
+        ]
+      ],
+      "gableFront": false,
+      "id": "625159049",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.9,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-110_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31563&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -31.96,
+        -262.07
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.53,
+      "frontEdge": [
+        [
+          -29.91,
+          -272.84
+        ],
+        [
+          -31.96,
+          -262.07
+        ]
+      ],
+      "gableFront": true,
+      "id": "625161151",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.3,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-127_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31555&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -7.84,
+        -390.97
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.95,
+      "frontEdge": [
+        [
+          -5.86,
+          -401.01
+        ],
+        [
+          -7.84,
+          -390.97
+        ]
+      ],
+      "gableFront": true,
+      "id": "625342606",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.93,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-121_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31564&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -1.55,
+        -409.72
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.21,
+      "frontEdge": [
+        [
+          0.8,
+          -421.89
+        ],
+        [
+          -1.55,
+          -409.72
+        ]
+      ],
+      "gableFront": true,
+      "id": "625342607",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.99,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-120_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31565&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        43.32,
+        -429.76
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.39,
+      "frontEdge": [
+        [
+          65.75,
+          -425.43
+        ],
+        [
+          68.26,
+          -438.31
+        ]
+      ],
+      "gableFront": false,
+      "id": "625342613",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.73,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-207_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31779&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        27.32,
+        -325.97
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.78,
+      "frontEdge": [
+        [
+          47.81,
+          -331.11
+        ],
+        [
+          48.88,
+          -336.56
+        ]
+      ],
+      "gableFront": false,
+      "id": "625342618",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.65,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-124_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31773&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -11.9,
+        -365.99
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.8,
+      "frontEdge": [
+        [
+          -9.92,
+          -376.49
+        ],
+        [
+          -11.9,
+          -365.99
+        ]
+      ],
+      "gableFront": false,
+      "id": "625342623",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.24,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-122_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31562&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -12.22,
+        -340.37
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.25,
+      "frontEdge": [
+        [
+          -10.77,
+          -348.42
+        ],
+        [
+          -12.22,
+          -340.37
+        ]
+      ],
+      "gableFront": false,
+      "id": "625342624",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.68,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-123_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31560&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        32.94,
+        -566.06
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.41,
+      "frontEdge": [
+        [
+          35.81,
+          -579.39
+        ],
+        [
+          32.94,
+          -566.06
+        ]
+      ],
+      "gableFront": false,
+      "id": "625344696",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.66,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135M-21-128_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31573&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-2",
+      "wall": "lap",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        226.96,
+        -486.32
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 156.41,
+      "frontEdge": [
+        [
+          239.39,
+          -483.93
+        ],
+        [
+          240.31,
+          -488.73
+        ]
+      ],
+      "gableFront": true,
+      "id": "627879273",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.9,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-254_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31599&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        224.51,
+        -474.81
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 156.92,
+      "frontEdge": [
+        [
+          236.04,
+          -472.86
+        ],
+        [
+          237.59,
+          -482.0
+        ]
+      ],
+      "gableFront": false,
+      "id": "627879274",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.95,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-253_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31597&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        157.3,
+        -463.44
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.96,
+      "frontEdge": [
+        [
+          157.3,
+          -463.44
+        ],
+        [
+          166.88,
+          -461.13
+        ]
+      ],
+      "gableFront": true,
+      "id": "627879284",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.07,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-250_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31551&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        149.9,
+        -358.46
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 161.03,
+      "frontEdge": [
+        [
+          149.9,
+          -358.46
+        ],
+        [
+          160.14,
+          -356.03
+        ]
+      ],
+      "gableFront": false,
+      "id": "627881238",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.21,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-237_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31723&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        193.03,
+        -365.41
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.25,
+      "frontEdge": [
+        [
+          206.99,
+          -362.87
+        ],
+        [
+          210.17,
+          -380.2
+        ]
+      ],
+      "gableFront": false,
+      "id": "627881243",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.7,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-239_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31588&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        207.44,
+        -388.98
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.44,
+      "frontEdge": [
+        [
+          216.06,
+          -387.52
+        ],
+        [
+          218.55,
+          -402.13
+        ]
+      ],
+      "gableFront": true,
+      "id": "627881246",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.12,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-240_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31589&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        202.44,
+        -413.14
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.11,
+      "frontEdge": [
+        [
+          224.56,
+          -412.05
+        ],
+        [
+          226.41,
+          -421.12
+        ]
+      ],
+      "gableFront": true,
+      "id": "627882386",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.1,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-241_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31591&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        258.97,
+        -454.27
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.01,
+      "frontEdge": [
+        [
+          260.58,
+          -462.95
+        ],
+        [
+          258.97,
+          -454.27
+        ]
+      ],
+      "gableFront": true,
+      "id": "627883596",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.51,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-259_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31596&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        244.85,
+        -394.25
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 157.05,
+      "frontEdge": [
+        [
+          246.24,
+          -401.13
+        ],
+        [
+          244.85,
+          -394.25
+        ]
+      ],
+      "gableFront": false,
+      "id": "627883601",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.11,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-262_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31592&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        310.93,
+        -323.38
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.06,
+      "frontEdge": [
+        [
+          310.93,
+          -323.38
+        ],
+        [
+          322.35,
+          -321.85
+        ]
+      ],
+      "gableFront": false,
+      "id": "627884213",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.07,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-293_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31729&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        365.71,
+        -416.38
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 156.58,
+      "frontEdge": [
+        [
+          367.91,
+          -429.16
+        ],
+        [
+          365.71,
+          -416.38
+        ]
+      ],
+      "gableFront": true,
+      "id": "627884216",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.63,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-298_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31622&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        251.17,
+        -120.32
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 165.41,
+      "frontEdge": [
+        [
+          272.77,
+          -116.08
+        ],
+        [
+          274.73,
+          -125.95
+        ]
+      ],
+      "gableFront": false,
+      "id": "627885136",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.01,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-275_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=2145882074&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        220.34,
+        -277.59
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.42,
+      "frontEdge": [
+        [
+          223.18,
+          -289.97
+        ],
+        [
+          220.34,
+          -277.59
+        ]
+      ],
+      "gableFront": false,
+      "id": "628413584",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.67,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-266_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31584&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        219.33,
+        -256.8
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.47,
+      "frontEdge": [
+        [
+          221.25,
+          -266.35
+        ],
+        [
+          219.33,
+          -256.8
+        ]
+      ],
+      "gableFront": true,
+      "id": "628413586",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.79,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-267_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31581&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        287.02,
+        -290.74
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.17,
+      "frontEdge": [
+        [
+          296.63,
+          -301.82
+        ],
+        [
+          288.81,
+          -302.96
+        ]
+      ],
+      "gableFront": true,
+      "id": "628413602",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.66,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-288_01.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31728&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        268.69,
+        -288.96
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.57,
+      "frontEdge": [
+        [
+          278.26,
+          -304.88
+        ],
+        [
+          270.73,
+          -305.78
+        ]
+      ],
+      "gableFront": true,
+      "id": "628413603",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.59,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-290_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31726&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        350.44,
+        -282.25
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 158.89,
+      "frontEdge": [
+        [
+          350.85,
+          -287.18
+        ],
+        [
+          350.44,
+          -282.25
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414448",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.07,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-301_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31615&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        333.35,
+        -231.23
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.08,
+      "frontEdge": [
+        [
+          335.05,
+          -243.12
+        ],
+        [
+          333.35,
+          -231.23
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414452",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.2,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-302_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31611&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        313.96,
+        -202.35
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.41,
+      "frontEdge": [
+        [
+          315.81,
+          -212.38
+        ],
+        [
+          313.96,
+          -202.35
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414455",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.97,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-303_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31610&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        313.65,
+        -188.32
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.69,
+      "frontEdge": [
+        [
+          315.1,
+          -196.1
+        ],
+        [
+          313.65,
+          -188.32
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414456",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.04,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-305_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31609&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        309.55,
+        -163.89
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 163.06,
+      "frontEdge": [
+        [
+          309.55,
+          -163.89
+        ],
+        [
+          318.44,
+          -162.34
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414458",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 4.55,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-306_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31760&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        332.49,
+        -163.38
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.6,
+      "frontEdge": [
+        [
+          332.49,
+          -163.38
+        ],
+        [
+          341.38,
+          -161.82
+        ]
+      ],
+      "gableFront": false,
+      "id": "628414460",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.9,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-307_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31761&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        446.4,
+        -52.7
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 163.75,
+      "frontEdge": [
+        [
+          448.51,
+          -70.96
+        ],
+        [
+          446.4,
+          -52.7
+        ]
+      ],
+      "gableFront": false,
+      "id": "629632577",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.86,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-049_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31626&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        244.4,
+        124.73
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 156.16,
+      "frontEdge": [
+        [
+          244.4,
+          124.73
+        ],
+        [
+          255.39,
+          126.99
+        ]
+      ],
+      "gableFront": false,
+      "id": "629641415",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.05,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-161_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31812&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_0",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        243.31,
+        -37.55
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.71,
+      "frontEdge": [
+        [
+          256.21,
+          -43.3
+        ],
+        [
+          245.11,
+          -45.72
+        ]
+      ],
+      "gableFront": false,
+      "id": "629642069",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.76,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-060_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31795&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        279.39,
+        -25.38
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 160.97,
+      "frontEdge": [
+        [
+          292.72,
+          -30.99
+        ],
+        [
+          281.5,
+          -33.78
+        ]
+      ],
+      "gableFront": false,
+      "id": "629642072",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.75,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-058_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31797&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        326.3,
+        -16.75
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 159.59,
+      "frontEdge": [
+        [
+          341.59,
+          -21.92
+        ],
+        [
+          328.31,
+          -25.11
+        ]
+      ],
+      "gableFront": true,
+      "id": "629642077",
+      "improvements": [
+        "source-material-coursing",
+        "gable-front-infill-and-rake"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.46,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-056_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31802&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        379.52,
+        -13.4
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 154.44,
+      "frontEdge": [
+        [
+          391.53,
+          -19.89
+        ],
+        [
+          381.42,
+          -22.08
+        ]
+      ],
+      "gableFront": false,
+      "id": "629642084",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.87,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-054_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31804&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        296.45,
+        -115.62
+      ],
+      "district": "North Lamar",
+      "eaveHeight": 162.6,
+      "frontEdge": [
+        [
+          307.6,
+          -137.76
+        ],
+        [
+          301.29,
+          -139.04
+        ]
+      ],
+      "gableFront": false,
+      "id": "629642473",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.61,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135P-21-318_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31759&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "0_-1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -141.78,
+        268.94
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 157.76,
+      "frontEdge": [
+        [
+          -141.78,
+          268.94
+        ],
+        [
+          -131.91,
+          270.72
+        ]
+      ],
+      "gableFront": false,
+      "id": "269021176",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.97,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-001_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=34512&view=facts",
+        "propertyCardDate": "1-12-2009",
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "stucco",
+      "wallPattern": "stucco"
+    },
+    {
+      "anchor": [
+        -689.36,
+        182.64
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.18,
+      "frontEdge": [
+        [
+          -675.47,
+          185.64
+        ],
+        [
+          -673.11,
+          174.84
+        ]
+      ],
+      "gableFront": false,
+      "id": "318874199",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.32,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-342_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32141&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-2_0",
+      "wall": "block",
+      "wallPattern": "block-joint"
+    },
+    {
+      "anchor": [
+        -525.78,
+        -26.11
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 157.37,
+      "frontEdge": [
+        [
+          -525.78,
+          -26.11
+        ],
+        [
+          -507.3,
+          -22.89
+        ]
+      ],
+      "gableFront": false,
+      "id": "421471587",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.02,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-282_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32119&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 2,
+      "tile": "-2_-1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -207.26,
+        691.08
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.08,
+      "frontEdge": [
+        [
+          -205.7,
+          680.56
+        ],
+        [
+          -207.26,
+          691.08
+        ]
+      ],
+      "gableFront": false,
+      "id": "451772522",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.24,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-121_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32210&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -273.51,
+        120.11
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 155.75,
+      "frontEdge": [
+        [
+          -270.02,
+          103.56
+        ],
+        [
+          -273.51,
+          120.11
+        ]
+      ],
+      "gableFront": false,
+      "id": "599812976",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.52,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-239_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32161&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -181.2,
+        258.88
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.24,
+      "frontEdge": [
+        [
+          -181.2,
+          258.88
+        ],
+        [
+          -166.77,
+          261.24
+        ]
+      ],
+      "gableFront": false,
+      "id": "599817367",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.93,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-231_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32103&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "block",
+      "wallPattern": "block-joint"
+    },
+    {
+      "anchor": [
+        -420.4,
+        105.19
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.55,
+      "frontEdge": [
+        [
+          -420.4,
+          105.19
+        ],
+        [
+          -403.12,
+          108.7
+        ]
+      ],
+      "gableFront": false,
+      "id": "599817414",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.11,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-315_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32084&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -431.08,
+        143.73
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.12,
+      "frontEdge": [
+        [
+          -417.16,
+          137.66
+        ],
+        [
+          -429.08,
+          134.97
+        ]
+      ],
+      "gableFront": false,
+      "id": "599822426",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.34,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-317_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32086&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "stucco",
+      "wallPattern": "stucco"
+    },
+    {
+      "anchor": [
+        -409.57,
+        147.33
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 149.57,
+      "frontEdge": [
+        [
+          -392.51,
+          140.44
+        ],
+        [
+          -408.34,
+          138.29
+        ]
+      ],
+      "gableFront": false,
+      "id": "599822430",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.92,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/135N-21-316_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32087&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_0",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -542.69,
+        1214.96
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 146.69,
+      "frontEdge": [
+        [
+          -516.76,
+          1211.09
+        ],
+        [
+          -539.94,
+          1204.83
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308711",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.2,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-167_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31837&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-2_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -514.65,
+        1219.96
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 148.44,
+      "frontEdge": [
+        [
+          -499.57,
+          1216.78
+        ],
+        [
+          -513.09,
+          1213.54
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308712",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 0.92,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-166_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31838&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -490.07,
+        1226.68
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 147.78,
+      "frontEdge": [
+        [
+          -477.17,
+          1220.73
+        ],
+        [
+          -488.01,
+          1218.13
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308713",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.85,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-165_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31840&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -455.21,
+        1245.92
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 150.45,
+      "frontEdge": [
+        [
+          -438.83,
+          1237.78
+        ],
+        [
+          -447.89,
+          1235.05
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308714",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.62,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-164_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31841&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -424.99,
+        1235.95
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 150.14,
+      "frontEdge": [
+        [
+          -408.22,
+          1229.31
+        ],
+        [
+          -422.89,
+          1226.19
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308715",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.1,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-163_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31842&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -389.37,
+        1237.27
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 152.13,
+      "frontEdge": [
+        [
+          -384.52,
+          1220.19
+        ],
+        [
+          -389.37,
+          1237.27
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308716",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.11,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-162_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32187&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -381.48,
+        1211.33
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.81,
+      "frontEdge": [
+        [
+          -378.66,
+          1199.76
+        ],
+        [
+          -381.48,
+          1211.33
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308717",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.62,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-161_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32185&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -429.59,
+        1196.6
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.91,
+      "frontEdge": [
+        [
+          -420.31,
+          1198.69
+        ],
+        [
+          -416.38,
+          1181.44
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308718",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.44,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-187_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32186&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -498.6,
+        1169.94
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 151.42,
+      "frontEdge": [
+        [
+          -498.6,
+          1169.94
+        ],
+        [
+          -484.44,
+          1173.77
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308719",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.86,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-185_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31836&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -476.31,
+        1174.95
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.18,
+      "frontEdge": [
+        [
+          -476.31,
+          1174.95
+        ],
+        [
+          -461.14,
+          1178.76
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308720",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.96,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-186_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31839&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -430.58,
+        1136.42
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 159.77,
+      "frontEdge": [
+        [
+          -411.94,
+          1162.63
+        ],
+        [
+          -407.16,
+          1139.55
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308878",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 0.47,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-188_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32183&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -416.32,
+        1108.61
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 159.74,
+      "frontEdge": [
+        [
+          -402.63,
+          1111.1
+        ],
+        [
+          -400.45,
+          1099.14
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308879",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.16,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-189_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32180&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -413.64,
+        1083.68
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 157.51,
+      "frontEdge": [
+        [
+          -397.89,
+          1086.84
+        ],
+        [
+          -395.44,
+          1074.71
+        ]
+      ],
+      "gableFront": false,
+      "id": "611308880",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.37,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-190_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32178&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -415.33,
+        952.22
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 155.25,
+      "frontEdge": [
+        [
+          -398.12,
+          938.18
+        ],
+        [
+          -405.01,
+          937.22
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309499",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 4.41,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-086_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32046&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -384.39,
+        968.97
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.48,
+      "frontEdge": [
+        [
+          -367.49,
+          945.49
+        ],
+        [
+          -377.11,
+          944.23
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309501",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.87,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-085_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32045&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -389.04,
+        995.08
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 155.32,
+      "frontEdge": [
+        [
+          -378.31,
+          996.36
+        ],
+        [
+          -374.51,
+          978.04
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309504",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.35,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-083_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32171&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -349.0,
+        1023.12
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 157.52,
+      "frontEdge": [
+        [
+          -347.21,
+          1010.37
+        ],
+        [
+          -349.0,
+          1023.12
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309507",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.06,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-081_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32173&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 2,
+      "tile": "-1_1",
+      "wall": "stucco",
+      "wallPattern": "stucco"
+    },
+    {
+      "anchor": [
+        -357.73,
+        1078.3
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 157.99,
+      "frontEdge": [
+        [
+          -355.39,
+          1064.25
+        ],
+        [
+          -357.73,
+          1078.3
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309512",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.78,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-155_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32176&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -359.63,
+        1097.8
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 158.41,
+      "frontEdge": [
+        [
+          -357.98,
+          1086.41
+        ],
+        [
+          -359.63,
+          1097.8
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309515",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 5.88,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-156_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32177&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -373.57,
+        1165.38
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 159.9,
+      "frontEdge": [
+        [
+          -371.78,
+          1157.3
+        ],
+        [
+          -373.57,
+          1165.38
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309520",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.26,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-159_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32182&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    },
+    {
+      "anchor": [
+        -368.96,
+        1140.22
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 160.95,
+      "frontEdge": [
+        [
+          -366.61,
+          1129.33
+        ],
+        [
+          -368.96,
+          1140.22
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309522",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.03,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-158_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32181&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -298.01,
+        1152.1
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 159.04,
+      "frontEdge": [
+        [
+          -279.27,
+          1148.27
+        ],
+        [
+          -276.93,
+          1132.03
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309724",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.78,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-152_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32032&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_2",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -283.21,
+        1071.11
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 160.33,
+      "frontEdge": [
+        [
+          -264.25,
+          1074.05
+        ],
+        [
+          -262.37,
+          1061.98
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309726",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.57,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138E-28-153_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32031&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 2,
+      "tile": "-1_2",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -243.91,
+        985.87
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 158.49,
+      "frontEdge": [
+        [
+          -226.16,
+          989.46
+        ],
+        [
+          -223.96,
+          978.66
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309729",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 0.96,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-080_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32027&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 2,
+      "tile": "-1_1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -496.99,
+        872.53
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 152.76,
+      "frontEdge": [
+        [
+          -492.49,
+          876.89
+        ],
+        [
+          -481.23,
+          878.51
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309730",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 3.46,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-088_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32049&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -406.24,
+        810.65
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 154.74,
+      "frontEdge": [
+        [
+          -405.69,
+          826.52
+        ],
+        [
+          -391.45,
+          826.05
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309973",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 4.19,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-131_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31883&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -377.22,
+        836.51
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.57,
+      "frontEdge": [
+        [
+          -377.22,
+          836.51
+        ],
+        [
+          -370.24,
+          837.85
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309974",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.44,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-132_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31963&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -358.75,
+        839.56
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 153.07,
+      "frontEdge": [
+        [
+          -358.75,
+          839.56
+        ],
+        [
+          -348.8,
+          841.67
+        ]
+      ],
+      "gableFront": false,
+      "id": "611309975",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.63,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-133_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=31964&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "brick",
+      "wallPattern": "brick-running-bond"
+    },
+    {
+      "anchor": [
+        -279.94,
+        797.66
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 156.36,
+      "frontEdge": [
+        [
+          -261.74,
+          800.73
+        ],
+        [
+          -260.5,
+          794.46
+        ]
+      ],
+      "gableFront": false,
+      "id": "611311108",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 1.06,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-136_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32217&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "board",
+      "wallPattern": "board-course"
+    },
+    {
+      "anchor": [
+        -465.37,
+        623.5
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 152.03,
+      "frontEdge": [
+        [
+          -441.51,
+          619.96
+        ],
+        [
+          -464.16,
+          616.21
+        ]
+      ],
+      "gableFront": false,
+      "id": "611311333",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.25,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-149_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32035&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "stucco",
+      "wallPattern": "stucco"
+    },
+    {
+      "anchor": [
+        -388.35,
+        655.74
+      ],
+      "district": "South Lamar",
+      "eaveHeight": 151.78,
+      "frontEdge": [
+        [
+          -364.18,
+          646.6
+        ],
+        [
+          -379.92,
+          643.64
+        ]
+      ],
+      "gableFront": false,
+      "id": "611311337",
+      "improvements": [
+        "source-material-coursing"
+      ],
+      "inference": [
+        "standard course spacing and bond orientation modeled from the recorded wall material"
+      ],
+      "roofRise": 2.83,
+      "sources": {
+        "assessor": "https://dl.agd.cc/prc/ms/lafayette/138D-28-146_00.pdf",
+        "assessorDate": "08/20/2026",
+        "propertyCard": "https://www.apps.mdah.ms.gov/Public/prop.aspx?id=32039&view=facts",
+        "propertyCardDate": null,
+        "sketch": null,
+        "sketchDate": null
+      },
+      "stories": 1,
+      "tile": "-1_1",
+      "wall": "lap",
+      "wallPattern": "horizontal-lap"
+    }
+  ],
+  "schema": "record-exteriors-v1"
+}
