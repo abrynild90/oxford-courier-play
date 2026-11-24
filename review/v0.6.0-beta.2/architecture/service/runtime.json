@@ -1,0 +1,218 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+  "errors": [],
+  "stations": [
+    {
+      "id": 271770601,
+      "tile": "-6_1",
+      "camera": [
+        -3057.8530031781725,
+        826.9850466762172,
+        -2.8812176955298585
+      ],
+      "materials": [
+        "door",
+        "wall-brick",
+        "wall-lap",
+        "wall-board",
+        "wall-service-green",
+        "service-cream",
+        "service-flashing",
+        "service-steel",
+        "glass-sash",
+        "reveal",
+        "frame",
+        "ledge",
+        "ink",
+        "hardware",
+        "surface-metal"
+      ],
+      "fallback": false,
+      "failed": []
+    },
+    {
+      "id": 272129191,
+      "tile": "-3_1",
+      "camera": [
+        -1371.90656,
+        946.5761200000001,
+        -1.536821067860579
+      ],
+      "materials": [
+        "door",
+        "wall-brick",
+        "wall-lap",
+        "wall-service-green",
+        "service-cream",
+        "service-flashing",
+        "glass-sash",
+        "glass-shop",
+        "reveal",
+        "frame",
+        "ledge",
+        "ink",
+        "hardware",
+        "surface-membrane"
+      ],
+      "fallback": false,
+      "failed": []
+    },
+    {
+      "id": 271952906,
+      "tile": "-4_-1",
+      "camera": [
+        -1833.3086,
+        -414.7557200000001,
+        3.0953118242349964
+      ],
+      "materials": [
+        "door",
+        "wall-brick",
+        "wall-lap",
+        "wall-service-buff",
+        "service-cream",
+        "service-flashing",
+        "service-steel",
+        "glass-sash",
+        "glass-shop",
+        "reveal",
+        "frame",
+        "ledge",
+        "ink",
+        "hardware",
+        "surface-membrane"
+      ],
+      "fallback": false,
+      "failed": []
+    }
+  ],
+  "walls": [
+    {
+      "label": "square",
+      "id": 188828391,
+      "areas": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.6646026164943919,
+        1.9288511984049137,
+        2.55583362112327,
+        2.55583362112327
+      ],
+      "drive": {
+        "start": [
+          -22.995349203039115,
+          31.368222687520944
+        ],
+        "end": [
+          -16.585441402583786,
+          32.188844391491756
+        ],
+        "initialArea": 0,
+        "maxArea": 0,
+        "collisions": [
+          {
+            "position": [
+              -16.647251005948505,
+              32.18093128203465
+            ],
+            "street": "North Lamar Boulevard",
+            "speed": 6.860998528500209,
+            "kind": "mapped building"
+          }
+        ],
+        "finalSpeed": 0
+      }
+    },
+    {
+      "label": "avent",
+      "id": 628408932,
+      "areas": [
+        0,
+        0,
+        0,
+        0,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.4562609904096462,
+        0.45627358817728236,
+        0.4562955159926787,
+        0.4562955159926787,
+        0.4562955159926787,
+        0.4562955159926787,
+        0.4562955159926787
+      ],
+      "drive": {
+        "start": [
+          556.7239966799682,
+          -637.4048365005368
+        ],
+        "end": [
+          565.7164905652669,
+          -635.4953074636911
+        ],
+        "initialArea": 0,
+        "maxArea": 0,
+        "collisions": [
+          {
+            "position": [
+              565.6539729102217,
+              -635.5085828997543
+            ],
+            "street": "Avent Street",
+            "speed": 8.266207368402625,
+            "kind": "mapped building"
+          }
+        ],
+        "finalSpeed": 0
+      }
+    }
+  ],
+  "bundle": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+  "roofMaterials": {
+    "metal": {
+      "pixels": [
+        256,
+        256
+      ],
+      "roughness": 0.62
+    },
+    "membrane": {
+      "pixels": [
+        256,
+        256
+      ],
+      "roughness": 0.94
+    },
+    "shingle": {
+      "pixels": [
+        256,
+        256
+      ],
+      "roughness": 0.94
+    },
+    "tile": {
+      "pixels": [
+        256,
+        256
+      ],
+      "roughness": 0.94
+    }
+  }
+}
