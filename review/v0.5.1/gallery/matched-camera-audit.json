@@ -1,0 +1,584 @@
+{
+  "pairs": 32,
+  "maxCameraErrorM": 0.0,
+  "maxOrientationErrorDegrees": 2.4148365394514667e-06,
+  "allBuffers": true,
+  "checks": [
+    {
+      "station": "square-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.9419949054718018,
+      "fractionPixelsRGBDifferenceOver8": 0.029397204426324985,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "square-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.5167291164398193,
+      "fractionPixelsRGBDifferenceOver8": 0.038507389341875364,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "square-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 3.177159547805786,
+      "fractionPixelsRGBDifferenceOver8": 0.022850538730343622,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "square-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.3830277919769287,
+      "fractionPixelsRGBDifferenceOver8": 0.018000145602795573,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "grove-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.8167928457260132,
+      "fractionPixelsRGBDifferenceOver8": 0.0118611677344205,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "grove-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.3657466173171997,
+      "fractionPixelsRGBDifferenceOver8": 0.005281741409435061,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "grove-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.8383921384811401,
+      "fractionPixelsRGBDifferenceOver8": 0.011941249271986022,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "grove-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.2343180179595947,
+      "fractionPixelsRGBDifferenceOver8": 0.002032069015725102,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "south-lamar-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 5.242222785949707,
+      "fractionPixelsRGBDifferenceOver8": 0.07498907979033198,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "south-lamar-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 3.5313925743103027,
+      "fractionPixelsRGBDifferenceOver8": 0.05888450058241118,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "south-lamar-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 5.399855613708496,
+      "fractionPixelsRGBDifferenceOver8": 0.06999854397204426,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "south-lamar-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 3.329110622406006,
+      "fractionPixelsRGBDifferenceOver8": 0.03978960396039604,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "jackson-west-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 2.4148365394514667e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.75632643699646,
+      "fractionPixelsRGBDifferenceOver8": 0.023813337216074548,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "jackson-west-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 2.4148365394514667e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.1100265979766846,
+      "fractionPixelsRGBDifferenceOver8": 0.017162929528246943,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "jackson-west-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 2.4148365394514667e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.7596919536590576,
+      "fractionPixelsRGBDifferenceOver8": 0.01661327897495632,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "jackson-west-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 2.4148365394514667e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.8146837949752808,
+      "fractionPixelsRGBDifferenceOver8": 0.009288548340128131,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "avent-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.911017894744873,
+      "fractionPixelsRGBDifferenceOver8": 0.036332447582993595,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "avent-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.7069547176361084,
+      "fractionPixelsRGBDifferenceOver8": 0.03418207629586488,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "avent-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.9679524898529053,
+      "fractionPixelsRGBDifferenceOver8": 0.03557258299359348,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "avent-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 1.7075472925031877e-06,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.4655237197875977,
+      "fractionPixelsRGBDifferenceOver8": 0.03253130460104834,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "apartment-court-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 5.142750263214111,
+      "fractionPixelsRGBDifferenceOver8": 0.08776845515433897,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "apartment-court-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 3.478874921798706,
+      "fractionPixelsRGBDifferenceOver8": 0.07785745486313338,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "apartment-court-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 4.378647327423096,
+      "fractionPixelsRGBDifferenceOver8": 0.07188046010483401,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "apartment-court-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.8484835624694824,
+      "fractionPixelsRGBDifferenceOver8": 0.05239789603960396,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "lake-patsy-pier-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 5.93418025970459,
+      "fractionPixelsRGBDifferenceOver8": 0.16588253494467095,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "lake-patsy-pier-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 7.061441898345947,
+      "fractionPixelsRGBDifferenceOver8": 0.15801816394874782,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "lake-patsy-pier-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 5.729836463928223,
+      "fractionPixelsRGBDifferenceOver8": 0.16559860949330227,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "lake-patsy-pier-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 6.555902481079102,
+      "fractionPixelsRGBDifferenceOver8": 0.14763486458940012,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "woodbine-drive",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.128870964050293,
+      "fractionPixelsRGBDifferenceOver8": 0.02265397495631916,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "woodbine-drive",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.7006018161773682,
+      "fractionPixelsRGBDifferenceOver8": 0.02208248398369249,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "woodbine-walk",
+      "light": "day",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 2.3710577487945557,
+      "fractionPixelsRGBDifferenceOver8": 0.013908707047175306,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    },
+    {
+      "station": "woodbine-walk",
+      "light": "dusk",
+      "positionErrorM": 0.0,
+      "angleErrorDeg": 0.0,
+      "capturePixels": [
+        1360,
+        808
+      ],
+      "buffer": [
+        1836,
+        1090
+      ],
+      "meanAbsoluteRGBDifference": 1.3770086765289307,
+      "fractionPixelsRGBDifferenceOver8": 0.0014123471170646477,
+      "originalPointBlocked": false,
+      "candidatePointBlocked": false
+    }
+  ]
+}
