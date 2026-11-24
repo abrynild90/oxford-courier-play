@@ -1,0 +1,35 @@
+{
+  "source": {
+    "id": "3273781",
+    "name": "Vaught-Hemingway Stadium",
+    "file": "stadium.glb",
+    "source": "sources/blender/models/Vaught-Hemingway Stadium.blend",
+    "x": -1441.47,
+    "z": 508.22,
+    "yaw": -0.60003
+  },
+  "shots": [
+    [
+      "bowl",
+      -0.73,
+      205,
+      126,
+      8
+    ],
+    [
+      "roofline",
+      1.8,
+      200,
+      66,
+      19
+    ],
+    [
+      "gate",
+      2.96,
+      173,
+      3,
+      3
+    ]
+  ],
+  "editedPixels": false
+}

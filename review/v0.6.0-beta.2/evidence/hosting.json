@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+  "source": "31743c600c0e7b38a5e1f2b074afbadf495fdf53",
+  "verified": {
+    "index.html": "aca134cec36826b33ee58e8c9439ac4d08e14b9ad18711b4931ffe6bc35c3ddc",
+    "game.js": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+    "tile-worker.js": "35f3850200fbb89649b045ec700e23a65fef4dec9384a1c642ccef7f92a527fb",
+    "data/blender/blocks.json": "9a27ee42de0acbf02b0e9d68f3c6c529c9f1061819976f215700636d2a48e09d",
+    "data/blender/paris-yates.glb": "70706757cefcc90800f7bdb3b13bce04cba26959abaa1159a94fd0bb5af45294",
+    "data/blender/neilsons.glb": "fe581e3b96979055131b1f7c6bec80f7e03264297d1d001bd6a2b5d0eaea399a",
+    "data/architecture/metal-roof-normal.jpg": "32d4df9e1a84b9b051618c5a9854b3e6344893894955c7a7bd1965451bbb4f28"
+  },
+  "runtimeFiles": 3372
+}

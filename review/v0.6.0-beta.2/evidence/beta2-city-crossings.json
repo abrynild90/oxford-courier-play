@@ -1,0 +1,140 @@
+[
+  {
+    "source": "crossings/east-west/cross-city-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 355.6239000000954,
+          "meters": 12220.308615012826,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -6599.723169392961,
+            1261.2553476676192
+          ],
+          "error": 2.9845636724165177
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "crossingDirection": "east to west",
+      "stagedStart": [
+        3716.68,
+        -540.76
+      ],
+      "runtime": {
+        "frames": 34959,
+        "meanFPS": 98.29345202363429,
+        "medianMS": 8.300000000017462,
+        "p99MS": 27.199999999982538,
+        "maxMS": 72.39999999999418,
+        "streamingFrames": 2097,
+        "maxStreamingFrameMS": 72.39999999999418,
+        "metersDriven": 12217.319326689141,
+        "metersWalked": 0,
+        "collisions": 1,
+        "collisionLog": [
+          {
+            "position": [
+              -729.8163067039752,
+              -890.5033361131224
+            ],
+            "street": "",
+            "speed": 3.6378727483809414,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 210,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.2 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "crossings/west-east/cross-city-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 344.151,
+          "meters": 12070.60887960692,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            3714.7440057974754,
+            -538.3206133558347
+          ],
+          "error": 3.1142705007658282
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "crossingDirection": "west to east",
+      "stagedStart": [
+        -6598.18,
+        1263.81
+      ],
+      "runtime": {
+        "frames": 39352,
+        "meanFPS": 114.3337282755168,
+        "medianMS": 8,
+        "p99MS": 23.80000000000291,
+        "maxMS": 60.39999999999418,
+        "streamingFrames": 2545,
+        "maxStreamingFrameMS": 60.39999999999418,
+        "metersDriven": 12063.719819295768,
+        "metersWalked": 0,
+        "collisions": 3,
+        "collisionLog": [
+          {
+            "position": [
+              -5699.556575178092,
+              542.0587714068357
+            ],
+            "street": "State Highway 6",
+            "speed": 21.035808037324532,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -592.906679742722,
+              -961.6087621886527
+            ],
+            "street": "",
+            "speed": 5.216200511566734,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              1854.0694361096303,
+              -644.0527588727299
+            ],
+            "street": "",
+            "speed": 7.311289235695065,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 192,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.2 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  }
+]

@@ -1,0 +1,2468 @@
+[
+  {
+    "source": "sources/blender/flat-roof-corrections.json",
+    "report": {
+      "source": "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/MS_MississippiDelta_A1_2018/ept.json",
+      "surveyYear": 2018,
+      "baselineGameRevision": "e7528afcdfe9b87addb034a68e3eb6854c68e6db",
+      "method": "Fit a single eave offset on spatially interleaved 4 m cells. Require at least 18 surveyed cells, 5 in each subset, an absolute offset between 0.5 m and 4 m, and 85th percentile residual under 0.35 m on held-out cells and under 0.45 m on fitting cells. Preserve footprint, terrain and roof shape.",
+      "records": [
+        {
+          "key": "-1_0_321045855_12",
+          "tile": "-1_0",
+          "index": 12,
+          "id": "321045855",
+          "anchor": [
+            -80.72,
+            172.69
+          ],
+          "baseHeightM": 4.15,
+          "baseEaveM": null,
+          "offsetM": 0.65,
+          "trainingSamples": 44,
+          "heldOutSamples": 23,
+          "heldOutP85BeforeM": 0.916,
+          "heldOutP85AfterM": 0.266
+        },
+        {
+          "key": "-1_0_599497825_27",
+          "tile": "-1_0",
+          "index": 27,
+          "id": "599497825",
+          "anchor": [
+            -37.71,
+            279.26
+          ],
+          "baseHeightM": 12.78,
+          "baseEaveM": 163.34,
+          "offsetM": -0.98,
+          "trainingSamples": 19,
+          "heldOutSamples": 10,
+          "heldOutP85BeforeM": 1.016,
+          "heldOutP85AfterM": 0.312
+        },
+        {
+          "key": "-4_0_188827026_11",
+          "tile": "-4_0",
+          "index": 11,
+          "id": "188827026",
+          "anchor": [
+            -1892.72,
+            31.95
+          ],
+          "baseHeightM": 8.24,
+          "baseEaveM": 164.24,
+          "offsetM": -1.94,
+          "trainingSamples": 48,
+          "heldOutSamples": 29,
+          "heldOutP85BeforeM": 1.97,
+          "heldOutP85AfterM": 0.08
+        }
+      ]
+    }
+  },
+  {
+    "source": "sources/blender/roof-relief.json",
+    "report": {
+      "source": "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/MS_MississippiDelta_A1_2018/ept.json",
+      "surveyYear": 2018,
+      "method": "First returns inside the exterior perimeter, with color and flatness screening. A quarter of returns were held out of the fitted elevation. Bounds and visible surface color are approximations. No equipment identity or current condition inferred.",
+      "examined": 470,
+      "outcomes": {
+        "raised returns inconsistent or too sparse": 53,
+        "outside flat-roof analysis": 249,
+        "no supported raised surfaces": 42,
+        "accepted": 32,
+        "main roof/eave mismatch": 90,
+        "too few non-ground, non-green returns": 3,
+        "insufficient interior area": 1
+      },
+      "buildings": [
+        {
+          "key": "-1_-1_599911619_31",
+          "id": "599911619",
+          "tile": "-1_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -9.18,
+                  -129.27
+                ],
+                [
+                  -11.1,
+                  -130.12
+                ],
+                [
+                  -12.01,
+                  -128.08
+                ],
+                [
+                  -10.1,
+                  -127.23
+                ]
+              ],
+              "roofBaseM": 164.28,
+              "topM": 165.43,
+              "surfaceRGB": [
+                232,
+                233,
+                228
+              ],
+              "trainingReturns": 29,
+              "heldOutReturns": 9,
+              "heldOutP80VerticalErrorM": 0.166
+            }
+          ]
+        },
+        {
+          "key": "-1_-1_599911627_38",
+          "id": "599911627",
+          "tile": "-1_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -19.95,
+                  -45.06
+                ],
+                [
+                  -12.64,
+                  -43.18
+                ],
+                [
+                  -11.67,
+                  -46.97
+                ],
+                [
+                  -18.98,
+                  -48.85
+                ]
+              ],
+              "roofBaseM": 166.01,
+              "topM": 169.15,
+              "surfaceRGB": [
+                162,
+                170,
+                173
+              ],
+              "trainingReturns": 160,
+              "heldOutReturns": 55,
+              "heldOutP80VerticalErrorM": 0.084
+            },
+            {
+              "contourXZ": [
+                [
+                  -13.34,
+                  -29.31
+                ],
+                [
+                  -10.57,
+                  -28.81
+                ],
+                [
+                  -10.29,
+                  -30.39
+                ],
+                [
+                  -13.06,
+                  -30.88
+                ]
+              ],
+              "roofBaseM": 166.01,
+              "topM": 168.99,
+              "surfaceRGB": [
+                198,
+                208,
+                210
+              ],
+              "trainingReturns": 28,
+              "heldOutReturns": 15,
+              "heldOutP80VerticalErrorM": 0.096
+            }
+          ]
+        },
+        {
+          "key": "-1_0_479826747_26",
+          "id": "479826747",
+          "tile": "-1_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -10.6,
+                  187.55
+                ],
+                [
+                  -8.9,
+                  187.93
+                ],
+                [
+                  -8.44,
+                  185.89
+                ],
+                [
+                  -10.14,
+                  185.51
+                ]
+              ],
+              "roofBaseM": 157.41,
+              "topM": 158.12,
+              "surfaceRGB": [
+                203,
+                204,
+                198
+              ],
+              "trainingReturns": 20,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.018
+            }
+          ]
+        },
+        {
+          "key": "-1_0_599810051_39",
+          "id": "599810051",
+          "tile": "-1_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -93.58,
+                  90.7
+                ],
+                [
+                  -92.36,
+                  85.15
+                ],
+                [
+                  -95.42,
+                  84.47
+                ],
+                [
+                  -96.64,
+                  90.03
+                ]
+              ],
+              "roofBaseM": 158.87,
+              "topM": 159.57,
+              "surfaceRGB": [
+                233,
+                233,
+                230
+              ],
+              "trainingReturns": 37,
+              "heldOutReturns": 8,
+              "heldOutP80VerticalErrorM": 0.066
+            }
+          ]
+        },
+        {
+          "key": "-1_0_599827683_69",
+          "id": "599827683",
+          "tile": "-1_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -6.66,
+                  135.79
+                ],
+                [
+                  -9.1,
+                  135.44
+                ],
+                [
+                  -9.35,
+                  137.14
+                ],
+                [
+                  -6.91,
+                  137.5
+                ]
+              ],
+              "roofBaseM": 158.87,
+              "topM": 160.58,
+              "surfaceRGB": [
+                224,
+                231,
+                224
+              ],
+              "trainingReturns": 27,
+              "heldOutReturns": 7,
+              "heldOutP80VerticalErrorM": 0.074
+            }
+          ]
+        },
+        {
+          "key": "-2_0_318264954_5",
+          "id": "318264954",
+          "tile": "-2_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -617.73,
+                  256.72
+                ],
+                [
+                  -622.55,
+                  256.16
+                ],
+                [
+                  -622.91,
+                  259.24
+                ],
+                [
+                  -618.09,
+                  259.8
+                ]
+              ],
+              "roofBaseM": 157.04,
+              "topM": 159.18,
+              "surfaceRGB": [
+                202,
+                201,
+                196
+              ],
+              "trainingReturns": 27,
+              "heldOutReturns": 9,
+              "heldOutP80VerticalErrorM": 0.035
+            }
+          ]
+        },
+        {
+          "key": "-3_-1_187869327_0",
+          "id": "187869327",
+          "tile": "-3_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1460.85,
+                  -26.93
+                ],
+                [
+                  -1450.83,
+                  -32.96
+                ],
+                [
+                  -1454.36,
+                  -38.83
+                ],
+                [
+                  -1464.38,
+                  -32.8
+                ]
+              ],
+              "roofBaseM": 163.5,
+              "topM": 166.3,
+              "surfaceRGB": [
+                221,
+                224,
+                221
+              ],
+              "trainingReturns": 136,
+              "heldOutReturns": 41,
+              "heldOutP80VerticalErrorM": 0.05
+            },
+            {
+              "contourXZ": [
+                [
+                  -1400.73,
+                  -35.61
+                ],
+                [
+                  -1426.37,
+                  -73.82
+                ],
+                [
+                  -1427.46,
+                  -73.09
+                ],
+                [
+                  -1401.81,
+                  -34.89
+                ]
+              ],
+              "roofBaseM": 163.5,
+              "topM": 164.35,
+              "surfaceRGB": [
+                206,
+                206,
+                201
+              ],
+              "trainingReturns": 121,
+              "heldOutReturns": 26,
+              "heldOutP80VerticalErrorM": 0.11
+            }
+          ]
+        },
+        {
+          "key": "-3_-1_318280064_5",
+          "id": "318280064",
+          "tile": "-3_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1151.34,
+                  -8.83
+                ],
+                [
+                  -1122.36,
+                  -50.77
+                ],
+                [
+                  -1140.75,
+                  -63.48
+                ],
+                [
+                  -1169.73,
+                  -21.54
+                ]
+              ],
+              "roofBaseM": 169.58,
+              "topM": 171.28,
+              "surfaceRGB": [
+                193,
+                194,
+                189
+              ],
+              "trainingReturns": 416,
+              "heldOutReturns": 112,
+              "heldOutP80VerticalErrorM": 0.166
+            },
+            {
+              "contourXZ": [
+                [
+                  -1161.73,
+                  -17.55
+                ],
+                [
+                  -1152.87,
+                  -36.64
+                ],
+                [
+                  -1160.05,
+                  -39.97
+                ],
+                [
+                  -1168.91,
+                  -20.89
+                ]
+              ],
+              "roofBaseM": 169.58,
+              "topM": 171.25,
+              "surfaceRGB": [
+                197,
+                199,
+                191
+              ],
+              "trainingReturns": 86,
+              "heldOutReturns": 12,
+              "heldOutP80VerticalErrorM": 0.138
+            }
+          ]
+        },
+        {
+          "key": "-3_-1_318284665_21",
+          "id": "318284665",
+          "tile": "-3_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1328.61,
+                  -414.39
+                ],
+                [
+                  -1331.43,
+                  -404.99
+                ],
+                [
+                  -1330.66,
+                  -404.76
+                ],
+                [
+                  -1327.84,
+                  -414.16
+                ]
+              ],
+              "roofBaseM": 152.01,
+              "topM": 152.99,
+              "surfaceRGB": [
+                201,
+                163,
+                157
+              ],
+              "trainingReturns": 23,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.042
+            },
+            {
+              "contourXZ": [
+                [
+                  -1331.93,
+                  -403.07
+                ],
+                [
+                  -1336.37,
+                  -388.38
+                ],
+                [
+                  -1335.37,
+                  -388.08
+                ],
+                [
+                  -1330.93,
+                  -402.77
+                ]
+              ],
+              "roofBaseM": 152.01,
+              "topM": 152.97,
+              "surfaceRGB": [
+                202,
+                160,
+                161
+              ],
+              "trainingReturns": 30,
+              "heldOutReturns": 6,
+              "heldOutP80VerticalErrorM": 0.05
+            }
+          ]
+        },
+        {
+          "key": "-3_0_188504265_2",
+          "id": "188504265",
+          "tile": "-3_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1360.92,
+                  211.61
+                ],
+                [
+                  -1370.39,
+                  210.12
+                ],
+                [
+                  -1371.43,
+                  216.7
+                ],
+                [
+                  -1361.96,
+                  218.2
+                ]
+              ],
+              "roofBaseM": 165.06,
+              "topM": 170.09,
+              "surfaceRGB": [
+                205,
+                210,
+                205
+              ],
+              "trainingReturns": 108,
+              "heldOutReturns": 31,
+              "heldOutP80VerticalErrorM": 0.07
+            }
+          ]
+        },
+        {
+          "key": "-3_0_318274354_10",
+          "id": "318274354",
+          "tile": "-3_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1452.7,
+                  241.7
+                ],
+                [
+                  -1440.79,
+                  243.4
+                ],
+                [
+                  -1439.14,
+                  231.84
+                ],
+                [
+                  -1451.05,
+                  230.14
+                ]
+              ],
+              "roofBaseM": 161.47,
+              "topM": 165.16,
+              "surfaceRGB": [
+                214,
+                216,
+                208
+              ],
+              "trainingReturns": 229,
+              "heldOutReturns": 76,
+              "heldOutP80VerticalErrorM": 0.05
+            }
+          ]
+        },
+        {
+          "key": "-3_0_318275096_13",
+          "id": "318275096",
+          "tile": "-3_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1198.9,
+                  238.29
+                ],
+                [
+                  -1196.9,
+                  226.52
+                ],
+                [
+                  -1202.5,
+                  225.57
+                ],
+                [
+                  -1204.5,
+                  237.34
+                ]
+              ],
+              "roofBaseM": 162.57,
+              "topM": 166.24,
+              "surfaceRGB": [
+                193,
+                197,
+                193
+              ],
+              "trainingReturns": 120,
+              "heldOutReturns": 39,
+              "heldOutP80VerticalErrorM": 0.194
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_188827022_10",
+          "id": "188827022",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1691.88,
+                  -476.15
+                ],
+                [
+                  -1692.11,
+                  -468.86
+                ],
+                [
+                  -1684.05,
+                  -468.61
+                ],
+                [
+                  -1683.83,
+                  -475.9
+                ]
+              ],
+              "roofBaseM": 133.44,
+              "topM": 137.0,
+              "surfaceRGB": [
+                98,
+                121,
+                150
+              ],
+              "trainingReturns": 120,
+              "heldOutReturns": 36,
+              "heldOutP80VerticalErrorM": 0.05
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_188827023_11",
+          "id": "188827023",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1646.51,
+                  -487.25
+                ],
+                [
+                  -1662.24,
+                  -487.85
+                ],
+                [
+                  -1662.85,
+                  -472.01
+                ],
+                [
+                  -1647.12,
+                  -471.41
+                ]
+              ],
+              "roofBaseM": 164.04,
+              "topM": 168.98,
+              "surfaceRGB": [
+                212,
+                211,
+                207
+              ],
+              "trainingReturns": 453,
+              "heldOutReturns": 175,
+              "heldOutP80VerticalErrorM": 0.134
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_188827024_12",
+          "id": "188827024",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1713.13,
+                  -472.9
+                ],
+                [
+                  -1712.74,
+                  -488.75
+                ],
+                [
+                  -1728.2,
+                  -489.14
+                ],
+                [
+                  -1728.59,
+                  -473.29
+                ]
+              ],
+              "roofBaseM": 164.15,
+              "topM": 169.01,
+              "surfaceRGB": [
+                212,
+                214,
+                209
+              ],
+              "trainingReturns": 438,
+              "heldOutReturns": 168,
+              "heldOutP80VerticalErrorM": 0.13
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_318276286_21",
+          "id": "318276286",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1635.74,
+                  -91.23
+                ],
+                [
+                  -1638.62,
+                  -94.87
+                ],
+                [
+                  -1640.72,
+                  -93.21
+                ],
+                [
+                  -1637.84,
+                  -89.57
+                ]
+              ],
+              "roofBaseM": 158.04,
+              "topM": 160.43,
+              "surfaceRGB": [
+                207,
+                218,
+                217
+              ],
+              "trainingReturns": 25,
+              "heldOutReturns": 6,
+              "heldOutP80VerticalErrorM": 0.04
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_566413556_28",
+          "id": "566413556",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1908.39,
+                  -417.99
+                ],
+                [
+                  -1909.26,
+                  -411.41
+                ],
+                [
+                  -1906.17,
+                  -411.0
+                ],
+                [
+                  -1905.3,
+                  -417.59
+                ]
+              ],
+              "roofBaseM": 169.2,
+              "topM": 172.76,
+              "surfaceRGB": [
+                226,
+                227,
+                215
+              ],
+              "trainingReturns": 93,
+              "heldOutReturns": 30,
+              "heldOutP80VerticalErrorM": 0.118
+            }
+          ]
+        },
+        {
+          "key": "-4_-1_-5430_38",
+          "id": "-5430",
+          "tile": "-4_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1739.67,
+                  -282.1
+                ],
+                [
+                  -1736.52,
+                  -288.8
+                ],
+                [
+                  -1742.65,
+                  -291.67
+                ],
+                [
+                  -1745.79,
+                  -284.97
+                ]
+              ],
+              "roofBaseM": 167.31,
+              "topM": 171.53,
+              "surfaceRGB": [
+                160,
+                166,
+                168
+              ],
+              "trainingReturns": 71,
+              "heldOutReturns": 23,
+              "heldOutP80VerticalErrorM": 0.09
+            }
+          ]
+        },
+        {
+          "key": "-4_0_188498461_2",
+          "id": "188498461",
+          "tile": "-4_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1893.72,
+                  172.26
+                ],
+                [
+                  -1874.13,
+                  175.13
+                ],
+                [
+                  -1872.07,
+                  161.07
+                ],
+                [
+                  -1891.66,
+                  158.2
+                ]
+              ],
+              "roofBaseM": 166.33,
+              "topM": 170.37,
+              "surfaceRGB": [
+                214,
+                215,
+                209
+              ],
+              "trainingReturns": 1177,
+              "heldOutReturns": 387,
+              "heldOutP80VerticalErrorM": 0.078
+            }
+          ]
+        },
+        {
+          "key": "-4_0_188498900_6",
+          "id": "188498900",
+          "tile": "-4_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1726.18,
+                  123.26
+                ],
+                [
+                  -1722.58,
+                  123.65
+                ],
+                [
+                  -1722.04,
+                  118.66
+                ],
+                [
+                  -1725.64,
+                  118.26
+                ]
+              ],
+              "roofBaseM": 166.99,
+              "topM": 167.94,
+              "surfaceRGB": [
+                215,
+                217,
+                209
+              ],
+              "trainingReturns": 37,
+              "heldOutReturns": 9,
+              "heldOutP80VerticalErrorM": 0.07
+            },
+            {
+              "contourXZ": [
+                [
+                  -1754.88,
+                  100.55
+                ],
+                [
+                  -1754.86,
+                  102.99
+                ],
+                [
+                  -1752.7,
+                  102.98
+                ],
+                [
+                  -1752.71,
+                  100.53
+                ]
+              ],
+              "roofBaseM": 166.99,
+              "topM": 167.92,
+              "surfaceRGB": [
+                210,
+                213,
+                204
+              ],
+              "trainingReturns": 15,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.045
+            }
+          ]
+        },
+        {
+          "key": "-4_0_969209391_30",
+          "id": "969209391",
+          "tile": "-4_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1554.48,
+                  27.12
+                ],
+                [
+                  -1558.79,
+                  20.5
+                ],
+                [
+                  -1559.23,
+                  20.79
+                ],
+                [
+                  -1554.93,
+                  27.41
+                ]
+              ],
+              "roofBaseM": 166.75,
+              "topM": 167.82,
+              "surfaceRGB": [
+                158,
+                162,
+                169
+              ],
+              "trainingReturns": 15,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.172
+            }
+          ]
+        },
+        {
+          "key": "-4_0_1472847862_33",
+          "id": "1472847862",
+          "tile": "-4_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1618.27,
+                  463.12
+                ],
+                [
+                  -1636.33,
+                  451.54
+                ],
+                [
+                  -1636.73,
+                  452.16
+                ],
+                [
+                  -1618.67,
+                  463.75
+                ]
+              ],
+              "roofBaseM": 159.18,
+              "topM": 160.22,
+              "surfaceRGB": [
+                184,
+                189,
+                189
+              ],
+              "trainingReturns": 32,
+              "heldOutReturns": 7,
+              "heldOutP80VerticalErrorM": 0.167
+            }
+          ]
+        },
+        {
+          "key": "-4_1_1421445207_11",
+          "id": "1421445207",
+          "tile": "-4_1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -1673.27,
+                  776.84
+                ],
+                [
+                  -1674.13,
+                  766.31
+                ],
+                [
+                  -1674.81,
+                  766.37
+                ],
+                [
+                  -1673.95,
+                  776.9
+                ]
+              ],
+              "roofBaseM": 142.73,
+              "topM": 143.72,
+              "surfaceRGB": [
+                226,
+                193,
+                174
+              ],
+              "trainingReturns": 19,
+              "heldOutReturns": 6,
+              "heldOutP80VerticalErrorM": 0.12
+            }
+          ]
+        },
+        {
+          "key": "-5_2_596122286_0",
+          "id": "596122286",
+          "tile": "-5_2",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -2041.38,
+                  1402.77
+                ],
+                [
+                  -2043.06,
+                  1404.53
+                ],
+                [
+                  -2040.62,
+                  1406.85
+                ],
+                [
+                  -2038.95,
+                  1405.1
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.74,
+              "surfaceRGB": [
+                216,
+                219,
+                212
+              ],
+              "trainingReturns": 44,
+              "heldOutReturns": 17,
+              "heldOutP80VerticalErrorM": 0.084
+            },
+            {
+              "contourXZ": [
+                [
+                  -2057.86,
+                  1395.44
+                ],
+                [
+                  -2054.71,
+                  1399.33
+                ],
+                [
+                  -2052.83,
+                  1397.81
+                ],
+                [
+                  -2055.98,
+                  1393.92
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.82,
+              "surfaceRGB": [
+                219,
+                219,
+                217
+              ],
+              "trainingReturns": 66,
+              "heldOutReturns": 19,
+              "heldOutP80VerticalErrorM": 0.074
+            },
+            {
+              "contourXZ": [
+                [
+                  -2023.77,
+                  1431.37
+                ],
+                [
+                  -2020.26,
+                  1434.81
+                ],
+                [
+                  -2018.34,
+                  1432.86
+                ],
+                [
+                  -2021.85,
+                  1429.41
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.83,
+              "surfaceRGB": [
+                224,
+                226,
+                223
+              ],
+              "trainingReturns": 54,
+              "heldOutReturns": 19,
+              "heldOutP80VerticalErrorM": 0.094
+            },
+            {
+              "contourXZ": [
+                [
+                  -2009.63,
+                  1444.67
+                ],
+                [
+                  -2011.59,
+                  1442.92
+                ],
+                [
+                  -2012.73,
+                  1444.2
+                ],
+                [
+                  -2010.77,
+                  1445.95
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.49,
+              "surfaceRGB": [
+                215,
+                217,
+                216
+              ],
+              "trainingReturns": 25,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.16
+            },
+            {
+              "contourXZ": [
+                [
+                  -2061.87,
+                  1400.16
+                ],
+                [
+                  -2059.06,
+                  1402.77
+                ],
+                [
+                  -2057.53,
+                  1401.11
+                ],
+                [
+                  -2060.33,
+                  1398.51
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.72,
+              "surfaceRGB": [
+                220,
+                220,
+                218
+              ],
+              "trainingReturns": 46,
+              "heldOutReturns": 16,
+              "heldOutP80VerticalErrorM": 0.04
+            },
+            {
+              "contourXZ": [
+                [
+                  -2029.0,
+                  1436.24
+                ],
+                [
+                  -2026.43,
+                  1440.04
+                ],
+                [
+                  -2024.3,
+                  1438.61
+                ],
+                [
+                  -2026.87,
+                  1434.8
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.0,
+              "surfaceRGB": [
+                223,
+                225,
+                222
+              ],
+              "trainingReturns": 55,
+              "heldOutReturns": 16,
+              "heldOutP80VerticalErrorM": 0.14
+            },
+            {
+              "contourXZ": [
+                [
+                  -2067.37,
+                  1405.37
+                ],
+                [
+                  -2065.26,
+                  1407.29
+                ],
+                [
+                  -2063.89,
+                  1405.78
+                ],
+                [
+                  -2065.99,
+                  1403.86
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.9,
+              "surfaceRGB": [
+                218,
+                218,
+                216
+              ],
+              "trainingReturns": 42,
+              "heldOutReturns": 11,
+              "heldOutP80VerticalErrorM": 0.07
+            },
+            {
+              "contourXZ": [
+                [
+                  -2075.13,
+                  1396.43
+                ],
+                [
+                  -2078.54,
+                  1392.66
+                ],
+                [
+                  -2080.31,
+                  1394.26
+                ],
+                [
+                  -2076.91,
+                  1398.03
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.15,
+              "surfaceRGB": [
+                221,
+                221,
+                219
+              ],
+              "trainingReturns": 106,
+              "heldOutReturns": 41,
+              "heldOutP80VerticalErrorM": 0.13
+            },
+            {
+              "contourXZ": [
+                [
+                  -2029.76,
+                  1443.39
+                ],
+                [
+                  -2032.9,
+                  1440.15
+                ],
+                [
+                  -2034.64,
+                  1441.83
+                ],
+                [
+                  -2031.5,
+                  1445.08
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.15,
+              "surfaceRGB": [
+                220,
+                222,
+                219
+              ],
+              "trainingReturns": 50,
+              "heldOutReturns": 23,
+              "heldOutP80VerticalErrorM": 0.115
+            },
+            {
+              "contourXZ": [
+                [
+                  -2021.84,
+                  1453.08
+                ],
+                [
+                  -2022.47,
+                  1454.24
+                ],
+                [
+                  -2020.48,
+                  1455.32
+                ],
+                [
+                  -2019.85,
+                  1454.16
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.75,
+              "surfaceRGB": [
+                219,
+                220,
+                215
+              ],
+              "trainingReturns": 21,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.142
+            },
+            {
+              "contourXZ": [
+                [
+                  -2036.15,
+                  1450.07
+                ],
+                [
+                  -2039.45,
+                  1446.83
+                ],
+                [
+                  -2041.13,
+                  1448.54
+                ],
+                [
+                  -2037.83,
+                  1451.78
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.35,
+              "surfaceRGB": [
+                225,
+                227,
+                224
+              ],
+              "trainingReturns": 57,
+              "heldOutReturns": 19,
+              "heldOutP80VerticalErrorM": 0.078
+            },
+            {
+              "contourXZ": [
+                [
+                  -2029.01,
+                  1464.78
+                ],
+                [
+                  -2032.05,
+                  1461.47
+                ],
+                [
+                  -2033.7,
+                  1462.98
+                ],
+                [
+                  -2030.66,
+                  1466.29
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.42,
+              "surfaceRGB": [
+                224,
+                225,
+                224
+              ],
+              "trainingReturns": 52,
+              "heldOutReturns": 18,
+              "heldOutP80VerticalErrorM": 0.06
+            },
+            {
+              "contourXZ": [
+                [
+                  -2048.71,
+                  1455.77
+                ],
+                [
+                  -2046.33,
+                  1457.97
+                ],
+                [
+                  -2044.81,
+                  1456.33
+                ],
+                [
+                  -2047.19,
+                  1454.13
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.28,
+              "surfaceRGB": [
+                223,
+                225,
+                222
+              ],
+              "trainingReturns": 41,
+              "heldOutReturns": 17,
+              "heldOutP80VerticalErrorM": 0.098
+            },
+            {
+              "contourXZ": [
+                [
+                  -2072.87,
+                  1436.72
+                ],
+                [
+                  -2075.41,
+                  1436.06
+                ],
+                [
+                  -2075.86,
+                  1437.81
+                ],
+                [
+                  -2073.32,
+                  1438.46
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.94,
+              "surfaceRGB": [
+                219,
+                219,
+                217
+              ],
+              "trainingReturns": 47,
+              "heldOutReturns": 14,
+              "heldOutP80VerticalErrorM": 0.158
+            },
+            {
+              "contourXZ": [
+                [
+                  -2049.21,
+                  1461.22
+                ],
+                [
+                  -2052.77,
+                  1457.47
+                ],
+                [
+                  -2054.58,
+                  1459.2
+                ],
+                [
+                  -2051.02,
+                  1462.94
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.13,
+              "surfaceRGB": [
+                222,
+                222,
+                220
+              ],
+              "trainingReturns": 71,
+              "heldOutReturns": 21,
+              "heldOutP80VerticalErrorM": 0.11
+            },
+            {
+              "contourXZ": [
+                [
+                  -2038.74,
+                  1472.75
+                ],
+                [
+                  -2039.74,
+                  1470.95
+                ],
+                [
+                  -2041.01,
+                  1471.66
+                ],
+                [
+                  -2040.0,
+                  1473.46
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.77,
+              "surfaceRGB": [
+                217,
+                218,
+                213
+              ],
+              "trainingReturns": 26,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.082
+            },
+            {
+              "contourXZ": [
+                [
+                  -2046.16,
+                  1474.63
+                ],
+                [
+                  -2042.68,
+                  1477.74
+                ],
+                [
+                  -2041.06,
+                  1475.91
+                ],
+                [
+                  -2044.54,
+                  1472.81
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.08,
+              "surfaceRGB": [
+                224,
+                226,
+                221
+              ],
+              "trainingReturns": 54,
+              "heldOutReturns": 20,
+              "heldOutP80VerticalErrorM": 0.052
+            },
+            {
+              "contourXZ": [
+                [
+                  -2051.87,
+                  1467.0
+                ],
+                [
+                  -2054.83,
+                  1463.74
+                ],
+                [
+                  -2056.59,
+                  1465.34
+                ],
+                [
+                  -2053.63,
+                  1468.6
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.05,
+              "surfaceRGB": [
+                222,
+                223,
+                220
+              ],
+              "trainingReturns": 63,
+              "heldOutReturns": 23,
+              "heldOutP80VerticalErrorM": 0.12
+            },
+            {
+              "contourXZ": [
+                [
+                  -2105.1,
+                  1418.9
+                ],
+                [
+                  -2102.19,
+                  1421.88
+                ],
+                [
+                  -2100.59,
+                  1420.31
+                ],
+                [
+                  -2103.5,
+                  1417.34
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.03,
+              "surfaceRGB": [
+                219,
+                221,
+                218
+              ],
+              "trainingReturns": 21,
+              "heldOutReturns": 8,
+              "heldOutP80VerticalErrorM": 0.048
+            },
+            {
+              "contourXZ": [
+                [
+                  -2089.22,
+                  1433.09
+                ],
+                [
+                  -2091.97,
+                  1429.05
+                ],
+                [
+                  -2093.76,
+                  1430.27
+                ],
+                [
+                  -2091.0,
+                  1434.31
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 157.02,
+              "surfaceRGB": [
+                217,
+                219,
+                216
+              ],
+              "trainingReturns": 22,
+              "heldOutReturns": 8,
+              "heldOutP80VerticalErrorM": 0.098
+            },
+            {
+              "contourXZ": [
+                [
+                  -2077.59,
+                  1444.35
+                ],
+                [
+                  -2081.17,
+                  1440.86
+                ],
+                [
+                  -2082.89,
+                  1442.63
+                ],
+                [
+                  -2079.31,
+                  1446.12
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.99,
+              "surfaceRGB": [
+                220,
+                220,
+                218
+              ],
+              "trainingReturns": 122,
+              "heldOutReturns": 42,
+              "heldOutP80VerticalErrorM": 0.136
+            },
+            {
+              "contourXZ": [
+                [
+                  -2066.56,
+                  1456.51
+                ],
+                [
+                  -2069.1,
+                  1452.77
+                ],
+                [
+                  -2071.24,
+                  1454.22
+                ],
+                [
+                  -2068.69,
+                  1457.96
+                ]
+              ],
+              "roofBaseM": 154.97,
+              "topM": 156.99,
+              "surfaceRGB": [
+                223,
+                225,
+                222
+              ],
+              "trainingReturns": 73,
+              "heldOutReturns": 26,
+              "heldOutP80VerticalErrorM": 0.09
+            }
+          ]
+        },
+        {
+          "key": "-6_-2_309459600_0",
+          "id": "309459600",
+          "tile": "-6_-2",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  -2526.63,
+                  -588.84
+                ],
+                [
+                  -2527.31,
+                  -585.6
+                ],
+                [
+                  -2524.91,
+                  -585.1
+                ],
+                [
+                  -2524.23,
+                  -588.33
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 141.24,
+              "surfaceRGB": [
+                224,
+                226,
+                225
+              ],
+              "trainingReturns": 17,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.056
+            },
+            {
+              "contourXZ": [
+                [
+                  -2570.93,
+                  -561.5
+                ],
+                [
+                  -2566.57,
+                  -561.81
+                ],
+                [
+                  -2566.72,
+                  -564.0
+                ],
+                [
+                  -2571.09,
+                  -563.69
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 141.64,
+              "surfaceRGB": [
+                224,
+                224,
+                222
+              ],
+              "trainingReturns": 21,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.092
+            },
+            {
+              "contourXZ": [
+                [
+                  -2663.82,
+                  -514.2
+                ],
+                [
+                  -2657.55,
+                  -517.98
+                ],
+                [
+                  -2658.34,
+                  -519.3
+                ],
+                [
+                  -2664.62,
+                  -515.52
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 140.64,
+              "surfaceRGB": [
+                148,
+                165,
+                180
+              ],
+              "trainingReturns": 22,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.169
+            },
+            {
+              "contourXZ": [
+                [
+                  -2650.96,
+                  -519.88
+                ],
+                [
+                  -2652.17,
+                  -522.03
+                ],
+                [
+                  -2654.02,
+                  -520.98
+                ],
+                [
+                  -2652.8,
+                  -518.84
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 140.8,
+              "surfaceRGB": [
+                63,
+                77,
+                116
+              ],
+              "trainingReturns": 12,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.22
+            },
+            {
+              "contourXZ": [
+                [
+                  -2562.99,
+                  -550.45
+                ],
+                [
+                  -2558.6,
+                  -549.92
+                ],
+                [
+                  -2558.39,
+                  -551.7
+                ],
+                [
+                  -2562.78,
+                  -552.23
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 141.8,
+              "surfaceRGB": [
+                219,
+                223,
+                220
+              ],
+              "trainingReturns": 20,
+              "heldOutReturns": 6,
+              "heldOutP80VerticalErrorM": 0.1
+            },
+            {
+              "contourXZ": [
+                [
+                  -2455.82,
+                  -592.27
+                ],
+                [
+                  -2454.26,
+                  -594.96
+                ],
+                [
+                  -2456.21,
+                  -596.09
+                ],
+                [
+                  -2457.78,
+                  -593.4
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 141.07,
+              "surfaceRGB": [
+                223,
+                224,
+                218
+              ],
+              "trainingReturns": 16,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.012
+            },
+            {
+              "contourXZ": [
+                [
+                  -2509.62,
+                  -554.1
+                ],
+                [
+                  -2512.3,
+                  -554.42
+                ],
+                [
+                  -2512.54,
+                  -552.46
+                ],
+                [
+                  -2509.85,
+                  -552.14
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 141.97,
+              "surfaceRGB": [
+                222,
+                229,
+                228
+              ],
+              "trainingReturns": 15,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.06
+            },
+            {
+              "contourXZ": [
+                [
+                  -2721.31,
+                  -437.06
+                ],
+                [
+                  -2725.49,
+                  -439.65
+                ],
+                [
+                  -2726.78,
+                  -437.56
+                ],
+                [
+                  -2722.6,
+                  -434.98
+                ]
+              ],
+              "roofBaseM": 139.83,
+              "topM": 142.33,
+              "surfaceRGB": [
+                193,
+                187,
+                189
+              ],
+              "trainingReturns": 31,
+              "heldOutReturns": 4,
+              "heldOutP80VerticalErrorM": 0.068
+            }
+          ]
+        },
+        {
+          "key": "0_-1_451755571_2",
+          "id": "451755571",
+          "tile": "0_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  62.27,
+                  -111.76
+                ],
+                [
+                  60.34,
+                  -102.66
+                ],
+                [
+                  63.6,
+                  -101.97
+                ],
+                [
+                  65.53,
+                  -111.07
+                ]
+              ],
+              "roofBaseM": 164.37,
+              "topM": 165.59,
+              "surfaceRGB": [
+                145,
+                156,
+                161
+              ],
+              "trainingReturns": 134,
+              "heldOutReturns": 53,
+              "heldOutP80VerticalErrorM": 0.118
+            }
+          ]
+        },
+        {
+          "key": "0_-1_451755576_3",
+          "id": "451755576",
+          "tile": "0_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  13.69,
+                  -199.0
+                ],
+                [
+                  10.71,
+                  -185.92
+                ],
+                [
+                  11.32,
+                  -185.78
+                ],
+                [
+                  14.31,
+                  -198.86
+                ]
+              ],
+              "roofBaseM": 158.39,
+              "topM": 159.08,
+              "surfaceRGB": [
+                103,
+                113,
+                124
+              ],
+              "trainingReturns": 26,
+              "heldOutReturns": 7,
+              "heldOutP80VerticalErrorM": 0.188
+            }
+          ]
+        },
+        {
+          "key": "0_-1_599838206_14",
+          "id": "599838206",
+          "tile": "0_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  79.95,
+                  -237.86
+                ],
+                [
+                  75.75,
+                  -238.84
+                ],
+                [
+                  75.43,
+                  -237.49
+                ],
+                [
+                  79.64,
+                  -236.51
+                ]
+              ],
+              "roofBaseM": 168.61,
+              "topM": 169.45,
+              "surfaceRGB": [
+                227,
+                230,
+                225
+              ],
+              "trainingReturns": 15,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.096
+            },
+            {
+              "contourXZ": [
+                [
+                  96.08,
+                  -213.26
+                ],
+                [
+                  103.07,
+                  -211.52
+                ],
+                [
+                  103.68,
+                  -213.97
+                ],
+                [
+                  96.69,
+                  -215.71
+                ]
+              ],
+              "roofBaseM": 168.61,
+              "topM": 171.05,
+              "surfaceRGB": [
+                221,
+                227,
+                227
+              ],
+              "trainingReturns": 83,
+              "heldOutReturns": 29,
+              "heldOutP80VerticalErrorM": 0.154
+            },
+            {
+              "contourXZ": [
+                [
+                  112.88,
+                  -212.21
+                ],
+                [
+                  105.71,
+                  -213.86
+                ],
+                [
+                  105.15,
+                  -211.43
+                ],
+                [
+                  112.32,
+                  -209.77
+                ]
+              ],
+              "roofBaseM": 168.61,
+              "topM": 171.08,
+              "surfaceRGB": [
+                208,
+                212,
+                211
+              ],
+              "trainingReturns": 86,
+              "heldOutReturns": 32,
+              "heldOutP80VerticalErrorM": 0.125
+            }
+          ]
+        },
+        {
+          "key": "0_-1_599913002_17",
+          "id": "599913002",
+          "tile": "0_-1",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  4.42,
+                  -159.79
+                ],
+                [
+                  0.08,
+                  -160.66
+                ],
+                [
+                  -0.2,
+                  -159.3
+                ],
+                [
+                  4.15,
+                  -158.43
+                ]
+              ],
+              "roofBaseM": 165.21,
+              "topM": 166.02,
+              "surfaceRGB": [
+                158,
+                164,
+                173
+              ],
+              "trainingReturns": 26,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.087
+            }
+          ]
+        },
+        {
+          "key": "0_0_479826749_14",
+          "id": "479826749",
+          "tile": "0_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  99.87,
+                  144.45
+                ],
+                [
+                  100.68,
+                  138.73
+                ],
+                [
+                  97.91,
+                  138.33
+                ],
+                [
+                  97.09,
+                  144.05
+                ]
+              ],
+              "roofBaseM": 164,
+              "topM": 165.37,
+              "surfaceRGB": [
+                241,
+                243,
+                238
+              ],
+              "trainingReturns": 75,
+              "heldOutReturns": 24,
+              "heldOutP80VerticalErrorM": 0.08
+            }
+          ]
+        },
+        {
+          "key": "0_0_479826750_15",
+          "id": "479826750",
+          "tile": "0_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  128.8,
+                  161.68
+                ],
+                [
+                  127.57,
+                  167.56
+                ],
+                [
+                  128.53,
+                  167.77
+                ],
+                [
+                  129.77,
+                  161.89
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 164.02,
+              "surfaceRGB": [
+                90,
+                113,
+                129
+              ],
+              "trainingReturns": 41,
+              "heldOutReturns": 18,
+              "heldOutP80VerticalErrorM": 0.116
+            },
+            {
+              "contourXZ": [
+                [
+                  145.66,
+                  165.76
+                ],
+                [
+                  146.19,
+                  160.24
+                ],
+                [
+                  142.55,
+                  159.89
+                ],
+                [
+                  142.02,
+                  165.4
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 164.88,
+              "surfaceRGB": [
+                190,
+                209,
+                208
+              ],
+              "trainingReturns": 183,
+              "heldOutReturns": 67,
+              "heldOutP80VerticalErrorM": 0.108
+            },
+            {
+              "contourXZ": [
+                [
+                  131.03,
+                  156.92
+                ],
+                [
+                  133.88,
+                  141.87
+                ],
+                [
+                  132.62,
+                  141.63
+                ],
+                [
+                  129.78,
+                  156.68
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 164.0,
+              "surfaceRGB": [
+                96,
+                110,
+                129
+              ],
+              "trainingReturns": 103,
+              "heldOutReturns": 40,
+              "heldOutP80VerticalErrorM": 0.142
+            },
+            {
+              "contourXZ": [
+                [
+                  153.5,
+                  158.76
+                ],
+                [
+                  155.44,
+                  149.41
+                ],
+                [
+                  146.72,
+                  147.6
+                ],
+                [
+                  144.78,
+                  156.96
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 163.6,
+              "surfaceRGB": [
+                209,
+                215,
+                215
+              ],
+              "trainingReturns": 272,
+              "heldOutReturns": 91,
+              "heldOutP80VerticalErrorM": 0.17
+            },
+            {
+              "contourXZ": [
+                [
+                  149.33,
+                  145.05
+                ],
+                [
+                  150.25,
+                  139.47
+                ],
+                [
+                  147.02,
+                  138.93
+                ],
+                [
+                  146.1,
+                  144.52
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 164.88,
+              "surfaceRGB": [
+                77,
+                99,
+                118
+              ],
+              "trainingReturns": 231,
+              "heldOutReturns": 93,
+              "heldOutP80VerticalErrorM": 0.198
+            },
+            {
+              "contourXZ": [
+                [
+                  135.13,
+                  130.63
+                ],
+                [
+                  133.71,
+                  137.31
+                ],
+                [
+                  134.76,
+                  137.53
+                ],
+                [
+                  136.18,
+                  130.86
+                ]
+              ],
+              "roofBaseM": 162.63,
+              "topM": 164.03,
+              "surfaceRGB": [
+                93,
+                104,
+                128
+              ],
+              "trainingReturns": 50,
+              "heldOutReturns": 20,
+              "heldOutP80VerticalErrorM": 0.13
+            }
+          ]
+        },
+        {
+          "key": "0_0_790036967_158",
+          "id": "790036967",
+          "tile": "0_0",
+          "features": [
+            {
+              "contourXZ": [
+                [
+                  22.62,
+                  283.76
+                ],
+                [
+                  22.06,
+                  286.16
+                ],
+                [
+                  23.59,
+                  286.51
+                ],
+                [
+                  24.14,
+                  284.11
+                ]
+              ],
+              "roofBaseM": 150.79,
+              "topM": 152.64,
+              "surfaceRGB": [
+                222,
+                219,
+                226
+              ],
+              "trainingReturns": 15,
+              "heldOutReturns": 5,
+              "heldOutP80VerticalErrorM": 0.054
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+    "mode": "campus",
+    "steps": [
+      "Driving campus"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 266,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "drive": {
+      "duration": 136.273,
+      "meters": 1635.5672437350072,
+      "stationaryQueuePasses": 0,
+      "finish": [
+        -1336.194256924072,
+        148.19323484238728
+      ],
+      "error": 3.1964548635268586
+    },
+    "performance": {
+      "frames": 8186,
+      "meanFPS": 60.07015278042767,
+      "p95MS": 18,
+      "p99MS": 19,
+      "slowest": {
+        "ms": 133,
+        "p": [
+          -3.9868940457377846,
+          -2.4454143925402185
+        ],
+        "tile": "-1_-1"
+      }
+    },
+    "collisions": 0,
+    "collisionLog": [],
+    "tileFailures": [],
+    "distance": 1633.165905742277,
+    "walked": 0,
+    "bufferEnd": [
+      1836,
+      1090
+    ]
+  },
+  {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+    "mode": "residential",
+    "steps": [
+      "Driving residential"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 254,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "drive": {
+      "duration": 154.302,
+      "meters": 1735.3300106786487,
+      "stationaryQueuePasses": 0,
+      "finish": [
+        -230.1595384277289,
+        1726.5207727077707
+      ],
+      "error": 3.0663705918808617
+    },
+    "performance": {
+      "frames": 9217,
+      "meanFPS": 59.73350961102254,
+      "p95MS": 18,
+      "p99MS": 19,
+      "slowest": {
+        "ms": 685,
+        "p": [
+          -205.09396029611227,
+          1038.109760348297
+        ],
+        "tile": "-1_2"
+      }
+    },
+    "collisions": 2,
+    "collisionLog": [
+      {
+        "position": [
+          -217.46245673684155,
+          1099.9275579860357
+        ],
+        "street": "South Lamar Boulevard",
+        "speed": 13.907519945086042,
+        "kind": "pedestrian"
+      },
+      {
+        "position": [
+          -254.29500925405833,
+          1279.3978030675005
+        ],
+        "street": "South Lamar Boulevard",
+        "speed": 8.946918044368266,
+        "kind": "traffic"
+      }
+    ],
+    "tileFailures": [],
+    "distance": 1734.621283654247,
+    "walked": 0,
+    "bufferEnd": [
+      1836,
+      1090
+    ]
+  }
+]

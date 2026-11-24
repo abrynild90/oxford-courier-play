@@ -1,0 +1,1161 @@
+[
+  {
+    "source": "architecture/courthouse/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "188828391",
+      "target": {
+        "id": "188828391",
+        "name": "Lafayette County Courthouse",
+        "file": "courthouse.glb",
+        "source": "sources/blender/models/Courthouse.blend",
+        "x": -9.64,
+        "z": 45.69,
+        "yaw": -0.168
+      },
+      "frames": [
+        {
+          "location": [
+            -4.44701557681878,
+            96.42492793707898
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -4.44701557681878,
+              96.42492793707898
+            ],
+            "score": 0,
+            "d": 51
+          }
+        },
+        {
+          "location": [
+            -20.852855562475668,
+            75.66118399621641
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -20.852855562475668,
+              75.66118399621641
+            ],
+            "score": 0,
+            "d": 32
+          }
+        },
+        {
+          "location": [
+            -24.808944653605227,
+            -3.0019204601324176
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -24.808944653605227,
+              -3.0019204601324176
+            ],
+            "score": 0.08792631919799489,
+            "d": 51
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/square-books/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "599810022",
+      "target": {
+        "id": "599810022",
+        "name": "Square Books",
+        "file": "square-books.glb",
+        "source": "sources/blender/models/Square Books.blend",
+        "x": -32.15,
+        "z": 111.74,
+        "yaw": 2.9465926535897933
+      },
+      "frames": [
+        {
+          "location": [
+            -29.811647401947823,
+            75.81602322783316
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -29.811647401947823,
+              75.81602322783316
+            ],
+            "score": 0.058800000000000005,
+            "d": 36
+          }
+        },
+        {
+          "location": [
+            -21.63434417106997,
+            85.78964388515082
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -21.63434417106997,
+              85.78964388515082
+            ],
+            "score": 0,
+            "d": 28
+          }
+        },
+        {
+          "location": [
+            -27.304748803735475,
+            147.41244792336371
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -27.304748803735475,
+              147.41244792336371
+            ],
+            "score": 0,
+            "d": 36
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/lyceum/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "187869639",
+      "target": {
+        "id": "187869639",
+        "name": "The Lyceum",
+        "file": "lyceum.glb",
+        "source": "sources/blender/models/Lyceum.blend",
+        "x": -1605,
+        "z": 109,
+        "yaw": 1.4212398378823943
+      },
+      "frames": [
+        {
+          "location": [
+            -1537.0130030983576,
+            110.32975647998656
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1537.0130030983576,
+              110.32975647998656
+            ],
+            "score": 0.058800000000000005,
+            "d": 68
+          }
+        },
+        {
+          "location": [
+            -1571.055510791082,
+            120.99048173951563
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1571.055510791082,
+              120.99048173951563
+            ],
+            "score": 0,
+            "d": 36
+          }
+        },
+        {
+          "location": [
+            -1671.8959652210951,
+            121.20368129451256
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1671.8959652210951,
+              121.20368129451256
+            ],
+            "score": 0,
+            "d": 68
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/neilsons/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "451755565",
+      "target": {
+        "id": "451755565",
+        "name": "Neilson\u2019s Department Store",
+        "file": "neilsons.glb",
+        "source": "sources/blender/models/Neilsons.blend",
+        "x": 65.85,
+        "z": 79.46,
+        "yaw": 0,
+        "bakedCoarse": true,
+        "coarseStepM": 0.65,
+        "reviewView": {
+          "centerXZ": [
+            42.2,
+            79.1
+          ],
+          "frontYaw": -1.758,
+          "distances": [
+            39,
+            24,
+            12
+          ]
+        }
+      },
+      "frames": [
+        {
+          "location": [
+            3.333600670618793,
+            82.32536868730935
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Neilson\u2019s Department Store",
+          "meshes": 15,
+          "triangles": 61908,
+          "materials": [
+            "Neilson \u00b7 deep blue sign field",
+            "Neilson red brick shell",
+            "Neilson \u00b7 dark green marble bulkhead",
+            "Neilson \u00b7 display textile muted blue",
+            "Neilson \u00b7 display textile muted rust",
+            "Neilson \u00b7 display textile muted cream",
+            "Neilson \u00b7 dark stained double doors",
+            "Neilson \u00b7 shaded warm shop glass",
+            "Neilson \u00b7 muted gold letters",
+            "Neilson \u00b7 display interior",
+            "Neilson \u00b7 painted iron",
+            "Neilson \u00b7 flat built-up roof",
+            "Neilson painted white stucco",
+            "Neilson \u00b7 cream molded trim",
+            "Neilson \u00b7 warm illuminated displays"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              3.333600670618793,
+              82.32536868730935
+            ],
+            "score": 0,
+            "d": 39
+          }
+        },
+        {
+          "location": [
+            19.88724276189952,
+            70.26026785283658
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Neilson\u2019s Department Store",
+          "meshes": 15,
+          "triangles": 61908,
+          "materials": [
+            "Neilson \u00b7 deep blue sign field",
+            "Neilson red brick shell",
+            "Neilson \u00b7 dark green marble bulkhead",
+            "Neilson \u00b7 display textile muted blue",
+            "Neilson \u00b7 display textile muted rust",
+            "Neilson \u00b7 display textile muted cream",
+            "Neilson \u00b7 dark stained double doors",
+            "Neilson \u00b7 shaded warm shop glass",
+            "Neilson \u00b7 muted gold letters",
+            "Neilson \u00b7 display interior",
+            "Neilson \u00b7 painted iron",
+            "Neilson \u00b7 flat built-up roof",
+            "Neilson painted white stucco",
+            "Neilson \u00b7 cream molded trim",
+            "Neilson \u00b7 warm illuminated displays"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              19.88724276189952,
+              70.26026785283658
+            ],
+            "score": 0,
+            "d": 24
+          }
+        },
+        {
+          "location": [
+            73.18114718379707,
+            55.411004259869856
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Neilson\u2019s Department Store",
+          "meshes": 15,
+          "triangles": 61908,
+          "materials": [
+            "Neilson \u00b7 deep blue sign field",
+            "Neilson red brick shell",
+            "Neilson \u00b7 dark green marble bulkhead",
+            "Neilson \u00b7 display textile muted blue",
+            "Neilson \u00b7 display textile muted rust",
+            "Neilson \u00b7 display textile muted cream",
+            "Neilson \u00b7 dark stained double doors",
+            "Neilson \u00b7 shaded warm shop glass",
+            "Neilson \u00b7 muted gold letters",
+            "Neilson \u00b7 display interior",
+            "Neilson \u00b7 painted iron",
+            "Neilson \u00b7 flat built-up roof",
+            "Neilson painted white stucco",
+            "Neilson \u00b7 cream molded trim",
+            "Neilson \u00b7 warm illuminated displays"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              73.18114718379707,
+              55.411004259869856
+            ],
+            "score": 0.2142,
+            "d": 39
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/barnard/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "16256538",
+      "target": {
+        "id": "16256538",
+        "name": "Barnard Observatory",
+        "file": "barnard.glb",
+        "source": "sources/blender/models/Barnard.blend",
+        "x": -1354.865,
+        "z": -73.11,
+        "yaw": 0
+      },
+      "frames": [
+        {
+          "location": [
+            -1320.8875159189038,
+            -21.24931570525841
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1320.8875159189038,
+              -21.24931570525841
+            ],
+            "score": 0.13019999999999998,
+            "d": 62
+          }
+        },
+        {
+          "location": [
+            -1360.7196257442715,
+            -42.66786871136462
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1360.7196257442715,
+              -42.66786871136462
+            ],
+            "score": 0,
+            "d": 31
+          }
+        },
+        {
+          "location": [
+            -1374.955667760482,
+            -131.76462529876
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1374.955667760482,
+              -131.76462529876
+            ],
+            "score": 0,
+            "d": 62
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/ventress/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "318274467",
+      "target": {
+        "id": "318274467",
+        "name": "Ventress Hall",
+        "file": "ventress.glb",
+        "source": "sources/blender/models/Ventress.blend",
+        "x": -1385.86,
+        "z": 115.96,
+        "yaw": -0.148
+      },
+      "frames": [
+        {
+          "location": [
+            -1380.0185159769976,
+            163.60322684715015
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1380.0185159769976,
+              163.60322684715015
+            ],
+            "score": 0,
+            "d": 48
+          }
+        },
+        {
+          "location": [
+            -1395.4764265956912,
+            143.319172859019
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1395.4764265956912,
+              143.319172859019
+            ],
+            "score": 0,
+            "d": 29
+          }
+        },
+        {
+          "location": [
+            -1394.5478512691477,
+            68.75278402272417
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1394.5478512691477,
+              68.75278402272417
+            ],
+            "score": 0,
+            "d": 48
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/pavilion/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "313153529",
+      "target": {
+        "id": "313153529",
+        "name": "Grove Pavilion",
+        "file": "grove-pavilion.glb",
+        "source": "sources/blender/models/Grove Pavilion.blend",
+        "x": -1340.0263,
+        "z": 96.5502,
+        "yaw": -1.0484
+      },
+      "frames": [
+        {
+          "location": [
+            -1362.494813850478,
+            119.33541198828027
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1362.494813850478,
+              119.33541198828027
+            ],
+            "score": 0,
+            "d": 32
+          }
+        },
+        {
+          "location": [
+            -1357.9862991852451,
+            102.75007332660861
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1357.9862991852451,
+              102.75007332660861
+            ],
+            "score": 0,
+            "d": 19
+          }
+        },
+        {
+          "location": [
+            -1327.3177743976264,
+            67.18196244624448
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1327.3177743976264,
+              67.18196244624448
+            ],
+            "score": 0.13019999999999998,
+            "d": 32
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/paris-yates/runtime-check.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/",
+      "id": "188498471",
+      "target": {
+        "id": "188498471",
+        "name": "Paris-Yates Chapel",
+        "file": "paris-yates.glb",
+        "source": "sources/blender/models/Paris-Yates Chapel.blend",
+        "x": -1919.875,
+        "z": 67.14,
+        "yaw": 0,
+        "bakedCoarse": true,
+        "coarseStepM": 0.8,
+        "reviewView": {
+          "centerXZ": [
+            -1923,
+            76
+          ],
+          "frontYaw": -0.09,
+          "distances": [
+            57,
+            33,
+            19
+          ]
+        },
+        "groundCollision": {
+          "tile": "-4_0",
+          "replaceAnchors": [
+            [
+              -1938.64,
+              66.44
+            ],
+            [
+              -1941.52,
+              59.12
+            ]
+          ],
+          "supports": [
+            [
+              [
+                -1939.681320140676,
+                64.86344215907266
+              ],
+              [
+                -1938.9634421590724,
+                64.91867985932396
+              ],
+              [
+                -1939.0186798593238,
+                65.63655784092734
+              ],
+              [
+                -1939.7365578409274,
+                65.58132014067604
+              ]
+            ],
+            [
+              [
+                -1934.7813201406761,
+                65.16344215907266
+              ],
+              [
+                -1934.0634421590726,
+                65.21867985932396
+              ],
+              [
+                -1934.118679859324,
+                65.93655784092734
+              ],
+              [
+                -1934.8365578409275,
+                65.88132014067604
+              ]
+            ],
+            [
+              [
+                -1934.831320140676,
+                60.26344215907265
+              ],
+              [
+                -1934.1134421590725,
+                60.318679859323964
+              ],
+              [
+                -1934.168679859324,
+                61.036557840927344
+              ],
+              [
+                -1934.8865578409275,
+                60.98132014067603
+              ]
+            ],
+            [
+              [
+                -1939.681320140676,
+                59.91344215907265
+              ],
+              [
+                -1938.9634421590724,
+                59.96867985932396
+              ],
+              [
+                -1939.0186798593238,
+                60.68655784092734
+              ],
+              [
+                -1939.7365578409274,
+                60.63132014067603
+              ]
+            ]
+          ]
+        }
+      },
+      "frames": [
+        {
+          "location": [
+            -1912.795314314728,
+            132.07909048892293
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Paris-Yates Chapel",
+          "meshes": 11,
+          "triangles": 4483,
+          "materials": [
+            "Warm pale stone trim",
+            "Paris-Yates red brick",
+            "Painted pale cornice and sash",
+            "Dark bronze clock and finial",
+            "Paris-Yates brick variation",
+            "Muted red-brown chapel roof",
+            "Deep window reveals",
+            "Wood chapel doors",
+            "Stained glass jewel tones",
+            "Dark stained glass",
+            "Carillon bells"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1912.795314314728,
+              132.07909048892293
+            ],
+            "score": 0,
+            "d": 57
+          }
+        },
+        {
+          "location": [
+            -1932.1197364026157,
+            107.71482946425544
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Paris-Yates Chapel",
+          "meshes": 11,
+          "triangles": 4483,
+          "materials": [
+            "Warm pale stone trim",
+            "Paris-Yates red brick",
+            "Painted pale cornice and sash",
+            "Dark bronze clock and finial",
+            "Paris-Yates brick variation",
+            "Muted red-brown chapel roof",
+            "Deep window reveals",
+            "Wood chapel doors",
+            "Stained glass jewel tones",
+            "Dark stained glass",
+            "Carillon bells"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1932.1197364026157,
+              107.71482946425544
+            ],
+            "score": 0,
+            "d": 33
+          }
+        },
+        {
+          "location": [
+            -1936.5490497063468,
+            20.633735433434317
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Paris-Yates Chapel",
+          "meshes": 11,
+          "triangles": 4483,
+          "materials": [
+            "Warm pale stone trim",
+            "Paris-Yates red brick",
+            "Painted pale cornice and sash",
+            "Dark bronze clock and finial",
+            "Paris-Yates brick variation",
+            "Muted red-brown chapel roof",
+            "Deep window reveals",
+            "Wood chapel doors",
+            "Stained glass jewel tones",
+            "Dark stained glass",
+            "Carillon bells"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1936.5490497063468,
+              20.633735433434317
+            ],
+            "score": 0,
+            "d": 57
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  }
+]

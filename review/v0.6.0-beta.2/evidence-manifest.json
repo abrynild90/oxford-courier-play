@@ -1,0 +1,373 @@
+{
+  "version": "v0.6.0-beta.2",
+  "allowlist": [
+    "architecture/assets.json",
+    "architecture/barnard/runtime-check.json",
+    "architecture/block-runtime.json",
+    "architecture/courthouse/runtime-check.json",
+    "architecture/identity-status.json",
+    "architecture/lyceum/runtime-check.json",
+    "architecture/neilsons/runtime-check.json",
+    "architecture/paris-yates/runtime-check.json",
+    "architecture/pavilion/runtime-check.json",
+    "architecture/service/runtime.json",
+    "architecture/square-books/runtime-check.json",
+    "architecture/stadium/overview-cameras.json",
+    "architecture/ventress/runtime-check.json",
+    "arrivals/mechanical-report.json",
+    "arrivals/visual-review.json",
+    "backend/network-connectivity.json",
+    "backend/offline-launches.json",
+    "backend/payload.json",
+    "backend/retry/soak.json",
+    "backend/soak.json",
+    "buildings/generated-geometry.json",
+    "cache/overnight/pages/review/v0.6.0-beta.1/scorecard-data.json",
+    "crossings/east-west/cross-city-accelerated-playtest.json",
+    "crossings/west-east/cross-city-accelerated-playtest.json",
+    "motion/manual-review.json",
+    "motion/motion-visual-0.6.0-beta.2-final/capture-report.json",
+    "native/run-1-performance.json",
+    "native/run-2-performance.json",
+    "native/run-3-performance.json",
+    "recognition/score.json",
+    "release/clean-ci.json",
+    "release/hosting.json",
+    "release/public-assets.json",
+    "release/verified-archives.json",
+    "scenes/after/checks.json",
+    "scenes/after/render-check.json",
+    "scenes/before/checks.json",
+    "scenes/before/render-check.json",
+    "scenes/matched-camera-audit.json",
+    "shift-retries/park-grove-square/shift-accelerated-playtest.json",
+    "shift-retries/square-park-grove/shift-accelerated-playtest.json",
+    "shifts/one/shift-accelerated-playtest.json",
+    "shifts/three/shift-accelerated-playtest.json",
+    "shifts/two/shift-accelerated-playtest.json",
+    "sources/blender/campus-inventory.json",
+    "sources/blender/campus-part-reconciliation.json",
+    "sources/blender/campus-reference-status.json",
+    "sources/blender/flat-roof-corrections.json",
+    "sources/blender/reconstruction-ledger.json",
+    "sources/blender/roof-relief.json",
+    "sources/blender/service-exteriors.json",
+    "sources/blender/square-inventory.json",
+    "verification/overnight/0.4-performance.json",
+    "verification/overnight/v051/report/evidence/chrome-performance.json",
+    "verification/overnight/v051/report/evidence/safari-performance.json",
+    "verification/overnight/v051/web/cold-start.json",
+    "web/chrome-campus.json",
+    "web/chrome-cross.json",
+    "web/chrome-handoff.json",
+    "web/chrome-residential.json",
+    "web/chrome-shift.json",
+    "web/cold-start.json",
+    "web/retry/chrome-cross.json",
+    "web/safari-campus.json",
+    "web/safari-handoff.json",
+    "web/safari-residential.json",
+    "web/safari-shift.json"
+  ],
+  "copiedEvidence": [
+    {
+      "file": "evidence/assets.json",
+      "sources": [
+        "architecture/assets.json"
+      ],
+      "sha256": "2f213ddaa1b07a47667be4edc153b2a50624df6bc5f2f45076c519d3a85bc4ce"
+    },
+    {
+      "file": "evidence/beta2-city-crossings.json",
+      "sources": [
+        "crossings/east-west/cross-city-accelerated-playtest.json",
+        "crossings/west-east/cross-city-accelerated-playtest.json"
+      ],
+      "sha256": "cca0ad08f2a2c8d2f76a1c71d5f93148fb5616e1a6001a01243173a90d462bcc"
+    },
+    {
+      "file": "evidence/beta2-hosted-route-reports.json",
+      "sources": [
+        "web/chrome-handoff.json",
+        "web/safari-handoff.json",
+        "web/chrome-shift.json",
+        "web/safari-shift.json",
+        "web/chrome-cross.json"
+      ],
+      "sha256": "6ccddfeea9cc340bb459361346645da46c662483ecd26c52b50f4da21d977edb"
+    },
+    {
+      "file": "evidence/beta2-shift-attempts.json",
+      "sources": [
+        "shifts/one/shift-accelerated-playtest.json",
+        "shifts/two/shift-accelerated-playtest.json",
+        "shifts/three/shift-accelerated-playtest.json"
+      ],
+      "sha256": "27c39980d990e763825fa3665dc288a48880950011abdc89e282b0c85befd71b"
+    },
+    {
+      "file": "evidence/block-runtime.json",
+      "sources": [
+        "architecture/block-runtime.json"
+      ],
+      "sha256": "08aaf50beb818900722a803de3fdf2b630b05e8282e69dad363b7d81feafe4d9"
+    },
+    {
+      "file": "evidence/capture-report.json",
+      "sources": [
+        "motion/motion-visual-0.6.0-beta.2-final/capture-report.json"
+      ],
+      "sha256": "52dce085ccc453b6f82eae74a2fc26bdd6d94ce37d941a9777f07e21993c2fcf"
+    },
+    {
+      "file": "evidence/chrome-campus.json",
+      "sources": [
+        "web/chrome-campus.json"
+      ],
+      "sha256": "ef3bec522cdc72c8448739702be0d5356b274babbdca06d61f9c9d536b6fef51"
+    },
+    {
+      "file": "evidence/chrome-performance-v051.json",
+      "sources": [
+        "verification/overnight/v051/report/evidence/chrome-performance.json"
+      ],
+      "sha256": "9acfdb50ce0c33e2327f0b57e84f35df0b2f1deea7441700e8f4a051b3476fda"
+    },
+    {
+      "file": "evidence/chrome-residential.json",
+      "sources": [
+        "web/chrome-residential.json"
+      ],
+      "sha256": "89ba4c349eb387b4004917758af9118f290251f9695c95abc1d84ccda55a1b40"
+    },
+    {
+      "file": "evidence/clean-ci.json",
+      "sources": [
+        "release/clean-ci.json"
+      ],
+      "sha256": "4b5a608862749af3c8d3c4eb395d66cce4847a3080575d0b44621dcc8149ae34"
+    },
+    {
+      "file": "evidence/cold-start-v051.json",
+      "sources": [
+        "verification/overnight/v051/web/cold-start.json"
+      ],
+      "sha256": "c5c2bfe7f58723a1c639831e8a27e67888389c13220d5c8e37b349381bbc0834"
+    },
+    {
+      "file": "evidence/cold-start.json",
+      "sources": [
+        "web/cold-start.json"
+      ],
+      "sha256": "2fdbcf5c80b6cf97f75dcfcea18bf4bfa6239cad574aa1b96987fb264d59be58"
+    },
+    {
+      "file": "evidence/generated-geometry.json",
+      "sources": [
+        "buildings/generated-geometry.json"
+      ],
+      "sha256": "51c8336ab54ba0400a24a98b678891880fcbd60fe72e2e4bce05b352a7b2eb76"
+    },
+    {
+      "file": "evidence/hosting.json",
+      "sources": [
+        "release/hosting.json"
+      ],
+      "sha256": "5d7e08f942fa96dbd43e96cb1facd25b0aa91e275e7865fa1e41c1e0e7752d57"
+    },
+    {
+      "file": "evidence/initial-soak.json",
+      "sources": [
+        "backend/soak.json"
+      ],
+      "sha256": "abf79203dbfd60b9ae0dc92bd85a88176675c52faf195faffeded28029657882"
+    },
+    {
+      "file": "evidence/manual-review.json",
+      "sources": [
+        "motion/manual-review.json"
+      ],
+      "sha256": "e749882f52499e468b558254ae865f3dbf2657d353ea3025e8aad417f785aa64"
+    },
+    {
+      "file": "evidence/mechanical-report.json",
+      "sources": [
+        "arrivals/mechanical-report.json"
+      ],
+      "sha256": "a980a8d96e1598a6d391656c29e4c6c85f1e15dc0542506360e193f5091cc331"
+    },
+    {
+      "file": "evidence/native-0.4-baseline.json",
+      "sources": [
+        "verification/overnight/0.4-performance.json"
+      ],
+      "sha256": "e23f73ae0fd820502e6cd79a471a31d1fc2b7d68419290604bcedd052c861faf"
+    },
+    {
+      "file": "evidence/network-connectivity.json",
+      "sources": [
+        "backend/network-connectivity.json"
+      ],
+      "sha256": "e66fba9894d17a8746ac76acccf90f11271d319d0205b135d91154f0cf5f44aa"
+    },
+    {
+      "file": "evidence/new-landmark-runtime.json",
+      "sources": [
+        "architecture/courthouse/runtime-check.json",
+        "architecture/square-books/runtime-check.json",
+        "architecture/lyceum/runtime-check.json",
+        "architecture/neilsons/runtime-check.json",
+        "architecture/barnard/runtime-check.json",
+        "architecture/ventress/runtime-check.json",
+        "architecture/pavilion/runtime-check.json",
+        "architecture/paris-yates/runtime-check.json"
+      ],
+      "sha256": "3b41e83d2accbfa01f22bd2abee3b4e699027da3fea0160097bf6ae3a03a1192"
+    },
+    {
+      "file": "evidence/offline-launches.json",
+      "sources": [
+        "backend/offline-launches.json"
+      ],
+      "sha256": "83ea532b2d1661ce8ab68889eb010c35c26924dfa9ed4f691adde08c2cdf9b03"
+    },
+    {
+      "file": "evidence/overview-cameras.json",
+      "sources": [
+        "architecture/stadium/overview-cameras.json"
+      ],
+      "sha256": "09251641509d75c5c277c63450ab63fbc4a155025fcd7a9cefed8a94141ad8ce"
+    },
+    {
+      "file": "evidence/payload.json",
+      "sources": [
+        "backend/payload.json"
+      ],
+      "sha256": "46f8494436796067a2d81eb3263b45d68db51f0d9d5e9a79c53babc26b9d65dd"
+    },
+    {
+      "file": "evidence/roof-correction-sources.json",
+      "sources": [
+        "sources/blender/flat-roof-corrections.json",
+        "sources/blender/roof-relief.json"
+      ],
+      "sha256": "d2cd0105c9df21818c94a2ab0ce1c6c37ec6ede8a7ee8ebc95953b458f92e7c7"
+    },
+    {
+      "file": "evidence/run-1-performance.json",
+      "sources": [
+        "native/run-1-performance.json"
+      ],
+      "sha256": "117f107ce67a09e81f961cd5ada05c925999b06207d9a2545cf7f2b932748b17"
+    },
+    {
+      "file": "evidence/run-2-performance.json",
+      "sources": [
+        "native/run-2-performance.json"
+      ],
+      "sha256": "89f0f3a78b45ad2589da26bdb0ad876fbca1a76a5378d5b392212f75d84e4f0b"
+    },
+    {
+      "file": "evidence/run-3-performance.json",
+      "sources": [
+        "native/run-3-performance.json"
+      ],
+      "sha256": "11de9d6a44c99ec181b898c69e80c0fdc450ee140deec9c15ac0bc88b53f0601"
+    },
+    {
+      "file": "evidence/runtime.json",
+      "sources": [
+        "architecture/service/runtime.json"
+      ],
+      "sha256": "909f94043b9f6193b068c5db5055f736f1ac30684f13dda6fba9ffac28c550db"
+    },
+    {
+      "file": "evidence/safari-campus.json",
+      "sources": [
+        "web/safari-campus.json"
+      ],
+      "sha256": "3d791060ed84a2c8330f3a98f389a153e857c21c0138c941f70a4a0361de70b8"
+    },
+    {
+      "file": "evidence/safari-performance-v051.json",
+      "sources": [
+        "verification/overnight/v051/report/evidence/safari-performance.json"
+      ],
+      "sha256": "48672ec6269a8f0cb08f87979997a3ccf2db0cbc3587e0e3fc402d6a8b890de6"
+    },
+    {
+      "file": "evidence/safari-residential.json",
+      "sources": [
+        "web/safari-residential.json"
+      ],
+      "sha256": "1c7d0830f1eae2c2a796faa69d06b314c17fa24b3f523517f61cc132094b5b61"
+    },
+    {
+      "file": "evidence/scenes/after-checks.json",
+      "sources": [
+        "scenes/after/checks.json"
+      ],
+      "sha256": "39bf341f52bc02bd5fb452b267bae9a20c9c1c7eda29422e334be37576147266"
+    },
+    {
+      "file": "evidence/scenes/after-render-check.json",
+      "sources": [
+        "scenes/after/render-check.json"
+      ],
+      "sha256": "7ce4bdd4be4fb62379c6ba0a845200486e9e9b6ef0ebcc84fab2d2388a5c43fe"
+    },
+    {
+      "file": "evidence/scenes/before-checks.json",
+      "sources": [
+        "scenes/before/checks.json"
+      ],
+      "sha256": "39bf341f52bc02bd5fb452b267bae9a20c9c1c7eda29422e334be37576147266"
+    },
+    {
+      "file": "evidence/scenes/before-render-check.json",
+      "sources": [
+        "scenes/before/render-check.json"
+      ],
+      "sha256": "a6fc30eec065b4f634b270fb3d419d5b2f24c8bf11a5cff6e943ad02a6aa053d"
+    },
+    {
+      "file": "evidence/scenes/matched-camera-audit.json",
+      "sources": [
+        "scenes/matched-camera-audit.json"
+      ],
+      "sha256": "43e0ebefd4c7dcf7fdb7a0d397ddd60326650170c3adcf6293531a1e1a6624a1"
+    },
+    {
+      "file": "evidence/score.json",
+      "sources": [
+        "recognition/score.json"
+      ],
+      "sha256": "c0a1c48bbcecf13282b93e57281e2a717f071094dd2b0c8668529a8e6d33ae93"
+    },
+    {
+      "file": "evidence/verified-archives.json",
+      "sources": [
+        "release/verified-archives.json"
+      ],
+      "sha256": "3be59a994c218c128f457663b0d483ec16b17169b4a0026ae2786a53c00ecc5b"
+    },
+    {
+      "file": "evidence/visual-review.json",
+      "sources": [
+        "arrivals/visual-review.json"
+      ],
+      "sha256": "728e3d5e61d2d020cffd56b201a23c5cfef1a7008a9f15f0ccbb1cc0d8663b7d"
+    },
+    {
+      "file": "evidence/whole-area-identity.json",
+      "sources": [
+        "sources/blender/square-inventory.json",
+        "sources/blender/campus-inventory.json",
+        "sources/blender/campus-part-reconciliation.json",
+        "sources/blender/campus-reference-status.json"
+      ],
+      "sha256": "c87676138f69439f6592b529fae9465617f39cd50c63492d067116da6c38b031"
+    }
+  ],
+  "omittedPartialInputs": []
+}

@@ -1,0 +1,96 @@
+{
+  "version": "0.6.0-beta.2",
+  "method": "AI visual review of twelve fixed native arrival screenshots. A visible door leaf with identifiable hardware, panels or a threshold counts.",
+  "rendererSha256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+  "fixedShotsReviewed": 12,
+  "fixedShotDoorClearlyVisible": 10,
+  "fixedShotDoorNotDiscernible": 2,
+  "mechanicalArrivalPasses": 12,
+  "mechanicalArrivalTotal": 12,
+  "rows": [
+    {
+      "buildingId": 318280244,
+      "buildingName": "Residential College North",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A green paneled door has a handle, a glazed upper sash and a step.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/mapped-campus-front-door-318280244.png"
+    },
+    {
+      "buildingId": 318280064,
+      "buildingName": "Lamar Hall",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "The foreground door is partly clipped on the left but its panels, hardware and step are clear.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/mapped-campus-front-door-318280064.png"
+    },
+    {
+      "buildingId": 318282634,
+      "buildingName": "Farley Hall",
+      "fixedShotDoor": "not-discernible",
+      "observation": "The camera looks across the lawn past a windowed side wall. The target entrance is outside the frame.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/mapped-campus-front-door-318282634.png"
+    },
+    {
+      "buildingId": 597935278,
+      "buildingName": "Taylor Bend Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "Front door and hardware are visible in the siding.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-apartment-frontage-597935278.png"
+    },
+    {
+      "buildingId": 313162830,
+      "buildingName": "Canterbury Crest Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A dark paneled door and threshold are clearly visible between windows.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-apartment-frontage-313162830.png"
+    },
+    {
+      "buildingId": 599496682,
+      "buildingName": "Solo Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "The entrance sits centrally against the striped siding.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-apartment-frontage-599496682.png"
+    },
+    {
+      "buildingId": 421471600,
+      "buildingName": "Rebel Bookstore",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A full-height glass door with hardware and a threshold sits between the shop windows.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-storefront-421471600.png"
+    },
+    {
+      "buildingId": 313154912,
+      "buildingName": "Chaney's Pharmacy",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A single glass door stands between merchandise windows, with a threshold at the bottom.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-storefront-313154912.png"
+    },
+    {
+      "buildingId": 318715778,
+      "buildingName": "CVS Pharmacy",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "The centered green door shows hardware and a raised threshold.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/named-storefront-318715778.png"
+    },
+    {
+      "buildingId": 628408932,
+      "buildingName": "OSM building 628408932",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "An arched fanlight distinguishes the front door between the low windows.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/surveyed-home-frontage-628408932.png"
+    },
+    {
+      "buildingId": 611315647,
+      "buildingName": "OSM building 611315647",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "The full-height glass door and small handle sit under the projecting porch roof.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/surveyed-home-frontage-611315647.png"
+    },
+    {
+      "buildingId": 629641758,
+      "buildingName": "1405 Jackson Avenue",
+      "fixedShotDoor": "not-discernible",
+      "observation": "A porch column, windows and the street are visible; the entrance is outside the frame.",
+      "fixedShot": "/Users/newfaculty/Desktop/Oxford/verification/overnight/v062/arrivals/access-arrivals-0.6.0-beta.2-final/surveyed-home-frontage-629641758.png"
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "landmarks": [
+    {
+      "id": "188828391",
+      "name": "Lafayette County Courthouse",
+      "source": {
+        "file": "sources/blender/models/Courthouse.blend",
+        "bytes": 738454,
+        "sha256": "aa1c685e008b45708f8cf1672d6873ff730909d5bd2c2dec803763b9f8ab3f38"
+      },
+      "runtime": {
+        "bytes": 726096,
+        "sha256": "766dff2e37d3e2995d9dacedc7cfb91274e03df30a9779054db0c120ae032071",
+        "triangles": 30100,
+        "meshGroups": 10,
+        "normalMappedMaterials": 4
+      }
+    },
+    {
+      "id": "599810022",
+      "name": "Square Books",
+      "source": {
+        "file": "sources/blender/models/Square Books.blend",
+        "bytes": 497157,
+        "sha256": "02bcab40e5414936753cd8cb59eb8ac61d7ed68548a74e38466eaaf3cf0f63f3"
+      },
+      "runtime": {
+        "bytes": 448880,
+        "sha256": "6b4bf659d760495e824cc8b08d56c45ed47a43f7edeae3e7383a52beb88e580b",
+        "triangles": 11840,
+        "meshGroups": 14,
+        "normalMappedMaterials": 4
+      }
+    },
+    {
+      "id": "187869639",
+      "name": "The Lyceum",
+      "source": {
+        "file": "sources/blender/models/Lyceum.blend",
+        "bytes": 1649057,
+        "sha256": "c00ca0fd33c8466fb16ccef7642bbd921cce2e662ab1e2c873b606a6f33a3b23"
+      },
+      "runtime": {
+        "bytes": 1589548,
+        "sha256": "f50ccbaa573ae38cd7d12c99a615282d5d378cbd8596279d2d532a6e709732d0",
+        "triangles": 61366,
+        "meshGroups": 10,
+        "normalMappedMaterials": 5
+      }
+    },
+    {
+      "id": "3273781",
+      "name": "Vaught-Hemingway Stadium",
+      "source": {
+        "file": "sources/blender/models/Vaught-Hemingway Stadium.blend",
+        "bytes": 1515090,
+        "sha256": "7f7608cdcba404d0e7e2ab385c63216666b37ca187acad9f0cddf818300d6d90"
+      },
+      "runtime": {
+        "bytes": 1521744,
+        "sha256": "2acc0c169c47231b2b09f35ea3549e515ccecac0c559e49bd1d9f175a8f3a0ea",
+        "triangles": 53543,
+        "meshGroups": 15,
+        "normalMappedMaterials": 3
+      }
+    },
+    {
+      "id": "318274467",
+      "name": "Ventress Hall",
+      "source": {
+        "file": "sources/blender/models/Ventress.blend",
+        "bytes": 818749,
+        "sha256": "19868c0e4bbac4ff9b75489a3aa12e24c510825001e5ce035a38a14338377010"
+      },
+      "runtime": {
+        "bytes": 725904,
+        "sha256": "4454c995b02f9e3cae72b89f3232d84241573fde79703659a836a488dfe5998f",
+        "triangles": 11909,
+        "meshGroups": 10,
+        "normalMappedMaterials": 4
+      }
+    },
+    {
+      "id": "16256538",
+      "name": "Barnard Observatory",
+      "source": {
+        "file": "sources/blender/models/Barnard.blend",
+        "bytes": 1306946,
+        "sha256": "730bc2953e9a1cb7cf72e0ce6b0aa7ce55c015f363d4e482e5706c3eddafba26"
+      },
+      "runtime": {
+        "bytes": 897852,
+        "sha256": "00d0e9b51354c9d94965d2dfcc2a41842ec053d5f2bd7af69f1fa6cc432e5c6a",
+        "triangles": 31447,
+        "meshGroups": 9,
+        "normalMappedMaterials": 3
+      }
+    },
+    {
+      "id": "313153529",
+      "name": "Grove Pavilion",
+      "source": {
+        "file": "sources/blender/models/Grove Pavilion.blend",
+        "bytes": 202037,
+        "sha256": "6d8b49dd4599e8b95cc8a84033f029f83d5130a44e6d5d4ea435d43dc5edd4ba"
+      },
+      "runtime": {
+        "bytes": 116260,
+        "sha256": "5909ddc27cb1cb4f393387d0ffda09177879ad14d93879e4923b0b87aa569a38",
+        "triangles": 268,
+        "meshGroups": 5,
+        "normalMappedMaterials": 1
+      }
+    },
+    {
+      "id": "451755565",
+      "name": "Neilson\u2019s Department Store",
+      "source": {
+        "file": "sources/blender/models/Neilsons.blend",
+        "bytes": 559782,
+        "sha256": "0f1adc0c928fe70bb87e8cce2674110279ced072b98d1f8ec720fb81705bd982"
+      },
+      "runtime": {
+        "bytes": 757460,
+        "sha256": "fe581e3b96979055131b1f7c6bec80f7e03264297d1d001bd6a2b5d0eaea399a",
+        "triangles": 61908,
+        "meshGroups": 15,
+        "normalMappedMaterials": 2
+      }
+    },
+    {
+      "id": "188498471",
+      "name": "Paris-Yates Chapel",
+      "source": {
+        "file": "sources/blender/models/Paris-Yates Chapel.blend",
+        "bytes": 671025,
+        "sha256": "31348d3ad5bb0269a64bbf7a52d0a42ac02a7db6990553850d75761df4fe974d"
+      },
+      "runtime": {
+        "bytes": 600220,
+        "sha256": "70706757cefcc90800f7bdb3b13bce04cba26959abaa1159a94fd0bb5af45294",
+        "triangles": 4483,
+        "meshGroups": 11,
+        "normalMappedMaterials": 4
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "tile": "-1_-1",
+      "footprintParts": 32,
+      "source": {
+        "file": "sources/blender/blocks/-1_-1.blend",
+        "bytes": 1688188,
+        "sha256": "46706e0f793133d4db501844303c803a6bf33186b47eabced18e4da4bfa1131c"
+      },
+      "runtime": {
+        "bytes": 1375464,
+        "sha256": "c2389592359ff0fba4c896d5eb10610ca406a03612692ec6b12dd835fe31db06",
+        "triangles": 82081,
+        "meshGroups": 15,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-1_0",
+      "footprintParts": 47,
+      "source": {
+        "file": "sources/blender/blocks/-1_0.blend",
+        "bytes": 1554503,
+        "sha256": "c0de05f72de3d075506c96be5e17de1550dcb83fe87a1f7d584a4d59515560aa"
+      },
+      "runtime": {
+        "bytes": 1385552,
+        "sha256": "90d76b0bd35329bdbf07c68f608580f7e105fe5ebc8ff0ae0159b092a99a14ff",
+        "triangles": 80255,
+        "meshGroups": 14,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-1_3",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-1_3.blend",
+        "bytes": 1583364,
+        "sha256": "cc66bf4c7d2e5a17ab71babf41420c31ed191674b9d89525b55ba5ff2183283a"
+      },
+      "runtime": {
+        "bytes": 1109776,
+        "sha256": "a3c1c4e5888b25ef3a6cc93229c75f5dfc0f0f196b13f854915d2308e02f384b",
+        "triangles": 73628,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-1_4",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-1_4.blend",
+        "bytes": 495277,
+        "sha256": "31ca726a6285b619dac605e8d418541d7f9dac7c59cbd726df8c6dc078afd4d4"
+      },
+      "runtime": {
+        "bytes": 291384,
+        "sha256": "eaae172bdb2286c12624d4dd0a044edbdc9e65a3c5c2bb1b0996188ed8d9d196",
+        "triangles": 19639,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-2_-1",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-2_-1.blend",
+        "bytes": 136461,
+        "sha256": "387e9fa5910c930f615cf68d595774337a008980901313b67e9bd6c126590d3b"
+      },
+      "runtime": {
+        "bytes": 41424,
+        "sha256": "2ffc285312ef0a75279cf293badfd30bb66059810c888bf8887d5d944b5ebbf8",
+        "triangles": 1548,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-2_0",
+      "footprintParts": 6,
+      "source": {
+        "file": "sources/blender/blocks/-2_0.blend",
+        "bytes": 1410019,
+        "sha256": "d4ead93d1939a4ecab221bbdab0698a0f063e95383c68308ed46bf7844e38139"
+      },
+      "runtime": {
+        "bytes": 835840,
+        "sha256": "59a5bc5115e09dd63230292dfdf1a5e96a3a9949a811eda3a9a473b0f7b23ea7",
+        "triangles": 66052,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-2_1",
+      "footprintParts": 2,
+      "source": {
+        "file": "sources/blender/blocks/-2_1.blend",
+        "bytes": 619856,
+        "sha256": "2c32e00aa218bc277d98b359e2073e2c88c44e89aba73621e2fd7c139ad85fef"
+      },
+      "runtime": {
+        "bytes": 330264,
+        "sha256": "b2323485aa1f5607c3b84c592e6e191ac6f2965e1bb5b338d4b622884ccf47a2",
+        "triangles": 25108,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_-1",
+      "footprintParts": 27,
+      "source": {
+        "file": "sources/blender/blocks/-3_-1.blend",
+        "bytes": 5364991,
+        "sha256": "d541923c88c7d8aab5582d3473738e8fd8271b127e8dadd902c2453afaaeca0f"
+      },
+      "runtime": {
+        "bytes": 3440348,
+        "sha256": "d6e450aae83e591b04d1bced8fb5949009747c7fc23298d62e07bd05af44ee70",
+        "triangles": 273741,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_-2",
+      "footprintParts": 10,
+      "source": {
+        "file": "sources/blender/blocks/-3_-2.blend",
+        "bytes": 720286,
+        "sha256": "d1a749482be1e680c4d7f0be8d62bbab4e9d20bd2ba4f88ab3524ac7f86e2d23"
+      },
+      "runtime": {
+        "bytes": 402756,
+        "sha256": "cdfe5212ee887bdb8094627cefdf232f58e83307245368eb9ec529c883951bdb",
+        "triangles": 31009,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_-6",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-3_-6.blend",
+        "bytes": 139784,
+        "sha256": "ed864a80bca739ff36e3b85645cdefa0664b64fc0401c8ef7290f0d2075d46ea"
+      },
+      "runtime": {
+        "bytes": 45268,
+        "sha256": "7185c01fd957a8c100750418e38dc9b7d241d4948eddfa64d9cc70bab678d92e",
+        "triangles": 1718,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_0",
+      "footprintParts": 21,
+      "source": {
+        "file": "sources/blender/blocks/-3_0.blend",
+        "bytes": 4278669,
+        "sha256": "26c681d1785ee47d7c8c86b8a35d902aaaea70570a76dbdb88a8f2ef6ce40b85"
+      },
+      "runtime": {
+        "bytes": 2672432,
+        "sha256": "8d6b52d6bbdb50d9c808d9b26e079559d899cfdb2519344929bebdd9d9b6ff23",
+        "triangles": 214622,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_1",
+      "footprintParts": 7,
+      "source": {
+        "file": "sources/blender/blocks/-3_1.blend",
+        "bytes": 518051,
+        "sha256": "bef7c0bc43c497947c15bd1dce01d3cd4f4ede54dd509e49aa64264a44597cb5"
+      },
+      "runtime": {
+        "bytes": 355008,
+        "sha256": "4ec0319b1bdfc2b6b3c6ef1cf6bc744405043d4ea463503638108f3573959b76",
+        "triangles": 24201,
+        "meshGroups": 14,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-3_2",
+      "footprintParts": 10,
+      "source": {
+        "file": "sources/blender/blocks/-3_2.blend",
+        "bytes": 594892,
+        "sha256": "5fb2f8dfd2626bad8f0c413621a58aa3dec691a41e2ae6eef64d7dc8de5ffff1"
+      },
+      "runtime": {
+        "bytes": 401868,
+        "sha256": "f4305c2972562e0f625d95540c7bf1d24dc18c0dcb7e3c2e4d9338533e63cf35",
+        "triangles": 28003,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_-1",
+      "footprintParts": 39,
+      "source": {
+        "file": "sources/blender/blocks/-4_-1.blend",
+        "bytes": 7384756,
+        "sha256": "791e84ca934c3c59c75a189b75cf5b7ed454d06bdde0217569922b1fc1205067"
+      },
+      "runtime": {
+        "bytes": 4451488,
+        "sha256": "d51395d47179042164c3bde2c87e21d3aab664b04d1118432b63fa6150f3c431",
+        "triangles": 378488,
+        "meshGroups": 15,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_-2",
+      "footprintParts": 5,
+      "source": {
+        "file": "sources/blender/blocks/-4_-2.blend",
+        "bytes": 364779,
+        "sha256": "4b5da986843dc88a9a02f86093b06821141597e4c2bf8cdd55aa3bdf42f141e1"
+      },
+      "runtime": {
+        "bytes": 193444,
+        "sha256": "ad7fe13317767c1a2ab88d6b79bd32869bb3b09236c4f844355ef97c05d2b760",
+        "triangles": 14425,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_-4",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-4_-4.blend",
+        "bytes": 136375,
+        "sha256": "21bd7fa814b29fac60281baea239193d477378ba260c6070b5fbe8803f808854"
+      },
+      "runtime": {
+        "bytes": 41720,
+        "sha256": "06d859b375e2650cc0fa1c9428e4efbbe138f999c186e083281f5165b27ea554",
+        "triangles": 1780,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_0",
+      "footprintParts": 31,
+      "source": {
+        "file": "sources/blender/blocks/-4_0.blend",
+        "bytes": 6506664,
+        "sha256": "4cac661098adeaa8f167732e7b0c835f66756c9b7a9dfdcf40355134f8a65f8b"
+      },
+      "runtime": {
+        "bytes": 4199428,
+        "sha256": "0514d602dd6dda501c2ca53a8b96fddb25db7fbcf9e665717fe3dc1b1a1faf55",
+        "triangles": 329270,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_1",
+      "footprintParts": 17,
+      "source": {
+        "file": "sources/blender/blocks/-4_1.blend",
+        "bytes": 1818538,
+        "sha256": "7e6cc255b1880467ef5fde1fcbb7a950c467680adea22b20f4d411d075155a71"
+      },
+      "runtime": {
+        "bytes": 1143780,
+        "sha256": "ac1fed29cee41f7eb1873d4816843e812b6a63169b0f432d0f2e2c6c5abb859e",
+        "triangles": 88436,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-4_2",
+      "footprintParts": 11,
+      "source": {
+        "file": "sources/blender/blocks/-4_2.blend",
+        "bytes": 1939911,
+        "sha256": "8998fa19b61600e16233f7ca7a2a24854d9b76c4f96cabab2c9a512846b4e4a2"
+      },
+      "runtime": {
+        "bytes": 1291060,
+        "sha256": "f5b790ffad3381a9448ac29d41f890fbf21319e190341c86dcd18dac38a9399f",
+        "triangles": 96845,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-5_-1",
+      "footprintParts": 16,
+      "source": {
+        "file": "sources/blender/blocks/-5_-1.blend",
+        "bytes": 1494684,
+        "sha256": "a0ec920c1ceb1fa289b5530ceff1b32c835bc7bf232ad026b89a40ffe587e4c7"
+      },
+      "runtime": {
+        "bytes": 959040,
+        "sha256": "d1b403703bcdc958be67ef98b8fca799fdd988abaf1c0b87a68853a9394787cc",
+        "triangles": 75232,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-5_-2",
+      "footprintParts": 3,
+      "source": {
+        "file": "sources/blender/blocks/-5_-2.blend",
+        "bytes": 204300,
+        "sha256": "f4591d1493a599f4f72ce9db5f8c45dbbc4cd084ad0dea8a73f614db0002ab91"
+      },
+      "runtime": {
+        "bytes": 100652,
+        "sha256": "20e861e29b321a0fb0d3aed3e59e4e454541d70b4b8fc17cf3219652d88e2d7a",
+        "triangles": 5610,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-5_0",
+      "footprintParts": 15,
+      "source": {
+        "file": "sources/blender/blocks/-5_0.blend",
+        "bytes": 2449667,
+        "sha256": "1d8f59e88fa2dae656cd4a9c64261abda2787b57cfd28a2b776618b76f9599f3"
+      },
+      "runtime": {
+        "bytes": 1566280,
+        "sha256": "7bbf07400f44e8c5200d822dae5a689005a8864e021a5c104681b046629bbd1e",
+        "triangles": 122603,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-5_1",
+      "footprintParts": 19,
+      "source": {
+        "file": "sources/blender/blocks/-5_1.blend",
+        "bytes": 1993577,
+        "sha256": "2ca9537afc94c81390804eee3cad72f5e5c40542eac26cbba036df72733bf80a"
+      },
+      "runtime": {
+        "bytes": 1203752,
+        "sha256": "01140aaf3efc5f5c58c294f980eabb82d0980b64da1289f909d2685a5b179e3e",
+        "triangles": 97390,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-5_2",
+      "footprintParts": 18,
+      "source": {
+        "file": "sources/blender/blocks/-5_2.blend",
+        "bytes": 1243335,
+        "sha256": "a48ba89d66406cccc6a87a93a46d18d24424f470c3acef5d3d2f1ba8612f6236"
+      },
+      "runtime": {
+        "bytes": 804132,
+        "sha256": "f4941465e282a347a0b9c00adfd285fb2675ac5da2360d59c903aefd084fb0e5",
+        "triangles": 63847,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-6_-1",
+      "footprintParts": 2,
+      "source": {
+        "file": "sources/blender/blocks/-6_-1.blend",
+        "bytes": 177124,
+        "sha256": "9afdafea9066e783916b3f9730573127c3e67262016ce12a3f79b4dff9299de2"
+      },
+      "runtime": {
+        "bytes": 70524,
+        "sha256": "6ec51d4cb8975936f03bdc8b1a4970cc704213ff861bbd86752da9806c55c8a0",
+        "triangles": 3689,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-6_-2",
+      "footprintParts": 1,
+      "source": {
+        "file": "sources/blender/blocks/-6_-2.blend",
+        "bytes": 551133,
+        "sha256": "03f074015c95f67015a2a48314829f4b38ebdee2083e80c637f871dd056159ef"
+      },
+      "runtime": {
+        "bytes": 304420,
+        "sha256": "b4fc4f7ae47ee38b7334cdce99e57aa5850cf7892e8a674d97859064ea4a3326",
+        "triangles": 21442,
+        "meshGroups": 9,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-6_0",
+      "footprintParts": 35,
+      "source": {
+        "file": "sources/blender/blocks/-6_0.blend",
+        "bytes": 2941446,
+        "sha256": "bae87674166d9b4406e1ae45ee254ab424cbfcf0392f4b030faa454a2ab5e0ff"
+      },
+      "runtime": {
+        "bytes": 1911520,
+        "sha256": "fe6ef166448e4bd76d3ef4d8bfee8e61499df77fc50a9a24b2e6f62c97cdb4a1",
+        "triangles": 159404,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-6_1",
+      "footprintParts": 27,
+      "source": {
+        "file": "sources/blender/blocks/-6_1.blend",
+        "bytes": 1980775,
+        "sha256": "afd5c66d250e23c2af1c765470025efecbf4e2d03b1d7fb24ea43e7d7f0f99b4"
+      },
+      "runtime": {
+        "bytes": 1225116,
+        "sha256": "87c4ebf0157d4bac7bf648fc4e76b501259eaff1172bd24388fd49fd181fb6c1",
+        "triangles": 101046,
+        "meshGroups": 15,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-6_2",
+      "footprintParts": 7,
+      "source": {
+        "file": "sources/blender/blocks/-6_2.blend",
+        "bytes": 267061,
+        "sha256": "ae8817b093c6e11f63072ae08fbb78091430cca982f16ff21c148aed5fab987d"
+      },
+      "runtime": {
+        "bytes": 148916,
+        "sha256": "b920a48c2411f0f716572fef1a61cde8a138a5663b327f412585a7bca9c0dca3",
+        "triangles": 9614,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-7_1",
+      "footprintParts": 6,
+      "source": {
+        "file": "sources/blender/blocks/-7_1.blend",
+        "bytes": 253299,
+        "sha256": "f02d45454ac955b81cfc62d0da40e407bdd4a7375be1fc8b100f3b5414ee62d7"
+      },
+      "runtime": {
+        "bytes": 133776,
+        "sha256": "f576c994455109d302cefade75703bc3de503508abc3ccf27fba8eaa4a12760c",
+        "triangles": 8536,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "-8_1",
+      "footprintParts": 4,
+      "source": {
+        "file": "sources/blender/blocks/-8_1.blend",
+        "bytes": 222588,
+        "sha256": "bbaa2028f513ed462430bd67f3cefec283aa74ae25fe07f8d61d8387516bb647"
+      },
+      "runtime": {
+        "bytes": 117216,
+        "sha256": "69bb928fecbfe99bf6487edd727c2aa37b5d3ad04f3e82d9a84f8ffbbd1f3457",
+        "triangles": 7341,
+        "meshGroups": 10,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "0_-1",
+      "footprintParts": 19,
+      "source": {
+        "file": "sources/blender/blocks/0_-1.blend",
+        "bytes": 1402555,
+        "sha256": "3786cd705a8bc11d188c1db1c60abbe9302c946f0af1217289dcce09e333c332"
+      },
+      "runtime": {
+        "bytes": 1170292,
+        "sha256": "b9582b0fe0ac10cf1df65da4b5b272ef465f4b9dc70a678945c5ae39147b0b30",
+        "triangles": 69804,
+        "meshGroups": 11,
+        "normalMappedMaterials": 0
+      }
+    },
+    {
+      "tile": "0_0",
+      "footprintParts": 24,
+      "source": {
+        "file": "sources/blender/blocks/0_0.blend",
+        "bytes": 2117103,
+        "sha256": "1f58b494b4a89065397eb7523b3f9b360df8e2ba90b309f969d39b12cbe076b4"
+      },
+      "runtime": {
+        "bytes": 1684800,
+        "sha256": "976301e288750d651d34af189fa070c953dff0d2ce1dad690928b151b139b65e",
+        "triangles": 102447,
+        "meshGroups": 13,
+        "normalMappedMaterials": 0
+      }
+    }
+  ],
+  "totalRegisteredBlockParts": 466
+}

@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "rendererSHA": "5925716153f890d0ea21f59464ea786617fe7b12af7400b491e833e08a55b321",
+      "route": "campus",
+      "light": "day",
+      "normalSimulationSpeed": true,
+      "drive": {
+        "duration": 141.34859999990462,
+        "meters": 1635.5672437350074,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1336.2165141507517,
+          148.15155045619306
+        ],
+        "error": 3.150525394702369
+      },
+      "frames": 16921,
+      "meanFPS": 119.68724712966227,
+      "medianMS": 8.30000000000291,
+      "p95MS": 9.400000000008731,
+      "longestStreamMS": 33.39999999999418,
+      "longestMS": 33.39999999999418,
+      "failed": [],
+      "loaded": 45,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "collisions": 0,
+      "peakProcessRSSMiB": 2089.34375
+    },
+    {
+      "rendererSHA": "5925716153f890d0ea21f59464ea786617fe7b12af7400b491e833e08a55b321",
+      "route": "residential",
+      "light": "dusk",
+      "normalSimulationSpeed": true,
+      "drive": {
+        "duration": 148.59159999990464,
+        "meters": 1735.3300106786487,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -230.16661967896783,
+          1726.491491393702
+        ],
+        "error": 3.0937170272457477
+      },
+      "frames": 17822,
+      "meanFPS": 119.90567402369783,
+      "medianMS": 8.30000000000291,
+      "p95MS": 9.400000000001455,
+      "longestStreamMS": 33.30000000000291,
+      "longestMS": 33.30000000000291,
+      "failed": [],
+      "loaded": 49,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "collisions": 0,
+      "peakProcessRSSMiB": 2036.6875
+    }
+  ],
+  "errors": []
+}

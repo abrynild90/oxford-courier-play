@@ -1,0 +1,424 @@
+[
+  {
+    "source": "web/chrome-handoff.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "mode": "handoff",
+      "steps": [
+        "Delivering to grove"
+      ],
+      "errors": [],
+      "failedRequests": [],
+      "resourceCount": 289,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "atlas": true,
+      "dayDusk": true,
+      "deliveries": [
+        {
+          "id": "grove",
+          "drive": {
+            "duration": 135.5655,
+            "meters": 1635.5672437350074,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1336.2595918640834,
+              148.17220214645846
+            ],
+            "error": 3.1601630078898606
+          },
+          "walk": {
+            "duration": 10.752900000095368,
+            "meters": 49.14230671337885,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1327.3661630993906,
+              107.05987861039523
+            ],
+            "error": 1.6762686829187423
+          },
+          "accepted": true
+        }
+      ],
+      "completed": [
+        "grove"
+      ],
+      "collisions": 0,
+      "collisionLog": [],
+      "tileFailures": [],
+      "distance": 1631.525801787785,
+      "walked": 45.5752999999996,
+      "bufferEnd": [
+        1836,
+        1090
+      ],
+      "browserVersion": "158.0.8127.38",
+      "networkFailures": [],
+      "consoleErrors": []
+    }
+  },
+  {
+    "source": "web/safari-handoff.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+      "mode": "handoff",
+      "steps": [
+        "Delivering to grove"
+      ],
+      "errors": [],
+      "failedRequests": [],
+      "resourceCount": 289,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "atlas": true,
+      "dayDusk": true,
+      "deliveries": [
+        {
+          "id": "grove",
+          "drive": {
+            "duration": 153.405,
+            "meters": 1635.5672437350072,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1336.1978083037616,
+              148.18989030438564
+            ],
+            "error": 3.1923241706710033
+          },
+          "walk": {
+            "duration": 10.799,
+            "meters": 48.42008757088124,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1328.6304139389124,
+              106.6258539740943
+            ],
+            "error": 1.6013965315648462
+          },
+          "accepted": true
+        }
+      ],
+      "completed": [
+        "grove"
+      ],
+      "collisions": 1,
+      "collisionLog": [
+        {
+          "position": [
+            -311.77020944023633,
+            250.77417917912513
+          ],
+          "street": "South 9th Street",
+          "speed": 4.34856622096552,
+          "kind": "traffic"
+        }
+      ],
+      "tileFailures": [],
+      "distance": 1631.2315604528235,
+      "walked": 45.76399999999927,
+      "bufferEnd": [
+        1836,
+        1090
+      ]
+    }
+  },
+  {
+    "source": "web/chrome-shift.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "mode": "shift",
+      "steps": [
+        "Delivering to grove",
+        "Delivering to square",
+        "Delivering to park"
+      ],
+      "errors": [],
+      "failedRequests": [],
+      "resourceCount": 610,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "atlas": true,
+      "dayDusk": true,
+      "deliveries": [
+        {
+          "id": "grove",
+          "drive": {
+            "duration": 135.7755,
+            "meters": 1635.5672437350074,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1336.2430264886768,
+              148.1496280362482
+            ],
+            "error": 3.142171232812755
+          },
+          "walk": {
+            "duration": 10.759800000190735,
+            "meters": 49.14401799761538,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1327.3440773461723,
+              107.01624865926246
+            ],
+            "error": 1.6363850809970877
+          },
+          "accepted": true
+        },
+        {
+          "id": "square",
+          "drive": {
+            "duration": 52.49719999980927,
+            "meters": 1749.9566728078341,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -48.82470654965074,
+              70.87880551921677
+            ],
+            "error": 3.170683451083622
+          },
+          "walk": {
+            "duration": 2.1704000000953676,
+            "meters": 31.230176552471885,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -32.820427749569646,
+              92.25259369568164
+            ],
+            "error": 1.410547028444442
+          },
+          "accepted": true
+        },
+        {
+          "id": "park",
+          "drive": {
+            "duration": 102.28340000009537,
+            "meters": 3327.269841720244,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -2633.497102158288,
+              -1090.4609826690694
+            ],
+            "error": 3.1730167761603747
+          },
+          "walk": {
+            "duration": 10.4085,
+            "meters": 136.30658137501825,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -2590.873189480356,
+              -1205.831687963659
+            ],
+            "error": 1.4585653509059118
+          },
+          "accepted": true
+        }
+      ],
+      "rateAfterFirst": 3,
+      "completed": [
+        "grove",
+        "square",
+        "park"
+      ],
+      "collisions": 0,
+      "collisionLog": [],
+      "tileFailures": [],
+      "distance": 6713.349090961161,
+      "walked": 273.97285000000414,
+      "bufferEnd": [
+        1836,
+        1090
+      ],
+      "browserVersion": "158.0.8127.38",
+      "networkFailures": [],
+      "consoleErrors": []
+    }
+  },
+  {
+    "source": "web/safari-shift.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+      "mode": "shift",
+      "steps": [
+        "Delivering to grove",
+        "Delivering to square",
+        "Delivering to park"
+      ],
+      "errors": [],
+      "failedRequests": [],
+      "resourceCount": 563,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "atlas": true,
+      "dayDusk": true,
+      "deliveries": [
+        {
+          "id": "grove",
+          "drive": {
+            "duration": 135.938,
+            "meters": 1635.5672437350072,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1336.3008264895975,
+              148.13872456951637
+            ],
+            "error": 3.1181229300704323
+          },
+          "walk": {
+            "duration": 10.756,
+            "meters": 49.11221847664136,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -1327.3769836814924,
+              106.97293741818287
+            ],
+            "error": 1.5886687508226454
+          },
+          "accepted": true
+        },
+        {
+          "id": "square",
+          "drive": {
+            "duration": 52.988,
+            "meters": 1750.015450508236,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -48.97327657787259,
+              70.72162056043466
+            ],
+            "error": 3.2125871535883843
+          },
+          "walk": {
+            "duration": 2.181,
+            "meters": 31.394760006407978,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -32.73292856722782,
+              92.34493341694349
+            ],
+            "error": 1.2846594020755775
+          },
+          "accepted": true
+        },
+        {
+          "id": "park",
+          "drive": {
+            "duration": 97.136,
+            "meters": 3327.3967189438818,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -2633.5931608449687,
+              -1090.4507796678831
+            ],
+            "error": 3.105214411867542
+          },
+          "walk": {
+            "duration": 10.396,
+            "meters": 136.36016061783738,
+            "stationaryQueuePasses": 0,
+            "finish": [
+              -2590.988898701409,
+              -1205.772291612547
+            ],
+            "error": 1.5764480728115862
+          },
+          "accepted": true
+        }
+      ],
+      "rateAfterFirst": 3,
+      "completed": [
+        "grove",
+        "square",
+        "park"
+      ],
+      "collisions": 1,
+      "collisionLog": [
+        {
+          "position": [
+            -2589.9413808557338,
+            -1089.7716831076857
+          ],
+          "street": "",
+          "speed": 4.8971636738514555,
+          "kind": "pedestrian"
+        }
+      ],
+      "tileFailures": [],
+      "distance": 6713.175263781376,
+      "walked": 274.3672499999997,
+      "bufferEnd": [
+        1836,
+        1090
+      ]
+    }
+  },
+  {
+    "source": "web/chrome-cross.json",
+    "report": {
+      "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "mode": "cross",
+      "steps": [
+        "Crossing to 3716.68,-540.76"
+      ],
+      "errors": [],
+      "failedRequests": [],
+      "resourceCount": 890,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+      "simulationRate": 3,
+      "legs": [
+        {
+          "duration": 337.68709999990466,
+          "meters": 12070.60887960692,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            3714.7385185185344,
+            -538.3214699284935
+          ],
+          "error": 3.117014477431058
+        }
+      ],
+      "collisions": 1,
+      "collisionLog": [
+        {
+          "position": [
+            -4340.066655276953,
+            424.8945560111674
+          ],
+          "street": "Jackson Avenue West",
+          "speed": 15.834869025286261,
+          "kind": "pedestrian"
+        }
+      ],
+      "tileFailures": [],
+      "distance": 12063.445675074527,
+      "walked": 0,
+      "bufferEnd": [
+        1836,
+        1090
+      ],
+      "browserVersion": "158.0.8127.38",
+      "networkFailures": [],
+      "consoleErrors": []
+    }
+  }
+]

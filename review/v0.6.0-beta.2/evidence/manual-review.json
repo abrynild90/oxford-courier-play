@@ -1,0 +1,62 @@
+{
+  "build": "0.6.0-beta.2-final",
+  "reviewer": "AI visual reviewer",
+  "stations": {
+    "apartment-court": {
+      "attempts": 1,
+      "frames_reviewed": 18,
+      "observations": "Initial frame is very close to tree foliage; subsequent frames move cleanly through the neighborhood. No building/traffic clipping, flicker, floating objects, or tree disappearance visible.",
+      "evidence_limitations": "Image sequence only; no live replay or frame-time telemetry."
+    },
+    "avent": {
+      "attempts": 2,
+      "frames_reviewed": 34,
+      "observations": "Attempt 0 reaches the known wall-collision stop and then repeats a nearly fixed view; no separate visual artifact observed. Attempt 1 proceeds through the neighborhood with stable trees/buildings and no visible clipping or flicker.",
+      "evidence_limitations": "Attempt 0 is blocked by the known collision behavior; attempt 1 has 16 start/motion/finish frames available."
+    },
+    "grove": {
+      "attempts": 1,
+      "frames_reviewed": 10,
+      "observations": "Roadside buildings, trees, and traffic remain visually stable during motion. The first view has unusual low/blank terrain at the far left edge, consistent with the starting camera angle; no progressive clipping or disappearance seen.",
+      "evidence_limitations": "Shorter sequence (10 frames) and contact-sheet review limit detection of brief one-frame flicker."
+    },
+    "jackson-west": {
+      "attempts": 1,
+      "frames_reviewed": 11,
+      "observations": "A large rectangular overhead-frame/sign structure is visible in the earliest views and is no longer visible later as the car advances; this appears to be a passing roadside object rather than flicker. No building/traffic clipping or tree disappearance visible.",
+      "evidence_limitations": "Short sequence and downsampled contact sheet; object identity cannot be confirmed."
+    },
+    "lake-patsy-pier": {
+      "attempts": 2,
+      "frames_reviewed": 36,
+      "observations": "Attempt 0 holds at the pier/shoreline view with stable water, trees, pier, car, and sidewalk; no visual artifact is confirmed. The report records one collision event, but this is not the known wall-block behavior. Retry attempt 1 follows a different open-park route; its large conifer and deciduous trees remain stable without clipping, flicker, floating objects, or disappearance.",
+      "evidence_limitations": "Camera movement is limited and the retry samples a different route/view; this does not exercise dense roadside geometry."
+    },
+    "south-lamar": {
+      "attempts": 1,
+      "frames_reviewed": 18,
+      "observations": "Drive progresses through intersections; a blue oncoming/passing car appears and moves consistently. Buildings and trees remain stable; no clipping, flicker, floating objects, or disappearance visible.",
+      "evidence_limitations": "Contact-sheet review cannot rule out very brief sub-frame artifacts."
+    },
+    "square": {
+      "attempts": 2,
+      "frames_reviewed": 29,
+      "observations": "Attempt 0 reaches the known wall-collision stop beside the courthouse and holds there; no separate visual defect observed. Attempt 1 completes a clean street traversal with stable building facades, traffic, and trees; no clipping/flicker/floating objects visible.",
+      "evidence_limitations": "Attempt 0 is blocked by known collision behavior; attempt 1 has 11 start/motion/finish frames available."
+    },
+    "woodbine": {
+      "attempts": 1,
+      "frames_reviewed": 12,
+      "observations": "Initial frame is close to a large tree/house edge, then the car moves into open roadway/field; trees, buildings, and traffic remain stable with no visible clipping, flicker, or disappearance.",
+      "evidence_limitations": "Short sequence (14 frames); contact-sheet review limits one-frame artifact detection."
+    }
+  },
+  "overall": {
+    "attempts_total": 11,
+    "frames_reviewed_total": 168,
+    "known_blocks": ["avent/attempt-0", "square/attempt-0"],
+    "capture_report": "capture-report.json present; renderer matched expected hash and acquisition reported no failed tiles.",
+    "acquisition_sampling": "JPEG screenshots at 700 ms intervals, quality 48, maximum 18 frames per attempt; sequences were visually reviewed as chronological contact sheets. This sampling can miss sub-700-ms flicker or transient clipping between captures, and downsampling can hide small floating props or fine LOD seams.",
+    "conclusion": "No additional confirmed motion-visual defects found beyond the two known wall-collision blocks at Avent attempt 0 and Square attempt 0. Lake Patsy attempt 0 reports one collision event but showed no confirmed visual defect and was superseded by a clean retry."
+  }
+}

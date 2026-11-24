@@ -1,0 +1,23 @@
+{
+  "commit": "31743c600c0e7b38a5e1f2b074afbadf495fdf53",
+  "tag": "v0.6.0-beta.2",
+  "bundleVersion": "0.6.0-beta.2",
+  "runtimeFilesCompared": 3372,
+  "runtimeHashesMatch": true,
+  "gameSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+  "workerSHA256": "35f3850200fbb89649b045ec700e23a65fef4dec9384a1c642ccef7f92a527fb",
+  "archives": {
+    "Oxford Courier Web.zip": {
+      "bytes": 139095143,
+      "sha256": "bb7f79035a8666cdc30c9163947cc5a38ba4704c172d8b33e2a7726b0bb75ab0"
+    },
+    "Oxford Courier for Mac.zip": {
+      "bytes": 252033433,
+      "sha256": "b6782563e5d2d814b69feecc75ff8d59a67089b704e2fce1f1dfe3cfbd14c16b"
+    },
+    "Oxford Courier Source.zip": {
+      "bytes": 205685545,
+      "sha256": "3147f2f1ca27a010287efd9fe37d9ad63554549ef0acde9ad250626378f2a40a"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.2/qa.html",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+  "mode": "campus",
+  "steps": [
+    "Driving campus"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "resourceCount": 289,
+  "buffer": [
+    1836,
+    1090
+  ],
+  "bundleSHA256": "508990ea0ecbe78e6389c3bfa50b51558f581235971199ac3090a718bc8086d7",
+  "drive": {
+    "duration": 152.24430000019075,
+    "meters": 1635.5672437350074,
+    "stationaryQueuePasses": 0,
+    "finish": [
+      -1336.2233254924874,
+      148.17583621837287
+    ],
+    "error": 3.1723795064390052
+  },
+  "performance": {
+    "frames": 18265,
+    "meanFPS": 119.9669228894811,
+    "p95MS": 9.099999999998545,
+    "p99MS": 9.900000000001455,
+    "slowest": {
+      "ms": 25,
+      "p": [
+        -514.8801688320228,
+        220.73576584709986
+      ],
+      "tile": "-2_0"
+    }
+  },
+  "collisions": 1,
+  "collisionLog": [
+    {
+      "position": [
+        -658.97227609682,
+        208.92548639645327
+      ],
+      "street": "South 5th Street",
+      "speed": 13.044955432315245,
+      "kind": "traffic"
+    }
+  ],
+  "tileFailures": [],
+  "distance": 1633.2101123326788,
+  "walked": 0,
+  "bufferEnd": [
+    1836,
+    1090
+  ],
+  "browserVersion": "158.0.8127.38",
+  "networkFailures": [],
+  "consoleErrors": []
+}
