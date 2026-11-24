@@ -1,0 +1,18 @@
+{
+  "capturedAtComposition": true,
+  "commands": [
+    "sysctl -n hw.model",
+    "sysctl -n machdep.cpu.brand_string",
+    "sysctl -n hw.optional.arm64"
+  ],
+  "hwModel": "Mac16,7",
+  "cpuBrand": "Apple M4 Pro",
+  "arm64": "1",
+  "baselineTag": "v0.4.0",
+  "baselineSourceCommit": "f3afe109fbde2e03f230f3fc1cde7df97128a206",
+  "baselineReport": "verification/overnight/0.4-performance.json",
+  "framebuffer": [
+    1836,
+    1090
+  ]
+}

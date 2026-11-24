@@ -1,0 +1,835 @@
+{
+  "format": "oxford-overnight-park-to-door-native-v1",
+  "version": "0.6.0-beta.1",
+  "captureId": "arrivals-12",
+  "port": 9642,
+  "startedAt": "2026-11-24T05:07:14.417Z",
+  "cases": [
+    {
+      "buildingId": 318280244,
+      "buildingName": "Residential College North",
+      "siteKind": "mapped campus front door",
+      "entranceNode": 11632209881,
+      "roadId": 318283888,
+      "roadName": "",
+      "source": "OSM mapped entrance node matched to facade for building 318280244; door station follows the imported profile.",
+      "drive": {
+        "duration": 3.963800000190735,
+        "meters": 18.007994560138123,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1112.3959133186502,
+          -284.31842183000106
+        ],
+        "error": 3.0556723075141576
+      },
+      "parkedAt": [
+        -1112.3959133186502,
+        -284.31842183000106
+      ],
+      "parkError": 3.0556723075141576,
+      "exited": true,
+      "walkStart": [
+        -1113.5922401207793,
+        -285.13775215563766
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 6.0942000002861025,
+        "meters": 27.723915386104284,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1093.352136628641,
+          -273.4254712011999
+        ],
+        "error": 1.6260062333323129
+      },
+      "approachError": 1.6260062333323129,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -1112.3959133186502,
+        -284.31842183000106
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 28,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -1096.9260071452916,
+          144.61845404703863,
+          -277.39760485741584
+        ],
+        "focus": [
+          -1090.31,
+          144.10396250000005,
+          -272.9
+        ],
+        "yaw": 0.9737519770858337,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318280244.png",
+      "pass": true
+    },
+    {
+      "buildingId": 318280064,
+      "buildingName": "Lamar Hall",
+      "siteKind": "mapped campus front door",
+      "entranceNode": 11194322000,
+      "roadId": 272310271,
+      "roadName": "",
+      "source": "OSM mapped entrance node matched to facade for building 318280064; door station follows the imported profile.",
+      "drive": {
+        "duration": 3.9662999997138977,
+        "meters": 18.000806546892104,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1194.0274982146996,
+          -15.239546521497429
+        ],
+        "error": 3.0911569540890698
+      },
+      "parkedAt": [
+        -1194.0274982146996,
+        -15.239546521497429
+      ],
+      "parkError": 3.0911569540890698,
+      "exited": true,
+      "walkStart": [
+        -1192.6012496566584,
+        -14.978175041252356
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 6.871800000190735,
+        "meters": 29.512571564092262,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1169.026826125327,
+          -6.797970394125547
+        ],
+        "error": 1.582165693943084
+      },
+      "approachError": 1.582165693943084,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -1194.0274982146996,
+        -15.239546521497429
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 27,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -1171.153828957792,
+          154.48771383920752,
+          -2.0930307561881234
+        ],
+        "focus": [
+          -1166.39,
+          152.793,
+          -8.52
+        ],
+        "yaw": 2.503731372201438,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318280064.png",
+      "pass": true
+    },
+    {
+      "buildingId": 318282634,
+      "buildingName": "Farley Hall",
+      "siteKind": "mapped campus front door",
+      "entranceNode": 11155506883,
+      "roadId": 13637642,
+      "roadName": "Sorority Row",
+      "source": "OSM entrance node 11155506883 is at the corner of the matched 3.88 m facade segment; door center is inset to fraction 0.72 so the 1.55 m leaf stays within the wall. Face assignment is inferred from the node and footprint. OSM entrance node 11155506883 at [-1266.87, -39.08] on the endpoint of this footprint face; contextual campus view https://map.olemiss.edu/ (media URL http://web6.olemiss.edu/images/?f=lib/FARLEY.JPG; undated, not georeferenced)",
+      "drive": {
+        "duration": 4.0945999999046325,
+        "meters": 19.419726821175512,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1299.4762831362611,
+          -38.540463923632814
+        ],
+        "error": 3.0631022575762934
+      },
+      "parkedAt": [
+        -1299.4762831362611,
+        -38.540463923632814
+      ],
+      "parkError": 3.0631022575762934,
+      "exited": true,
+      "walkStart": [
+        -1300.9242401980312,
+        -38.61740771656339
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 7.715799999713898,
+        "meters": 34.09009484781399,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1269.7101056740337,
+          -38.1377017173035
+        ],
+        "error": 1.6816691291803323
+      },
+      "approachError": 1.6816691291803323,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -1299.4762831362611,
+        -38.540463923632814
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 27,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -1269.0004444452447,
+          153.7239135916673,
+          -31.28926444347975
+        ],
+        "focus": [
+          -1267.95,
+          152.5500625,
+          -39.22
+        ],
+        "yaw": 3.009906830396778,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318282634.png",
+      "pass": true
+    },
+    {
+      "buildingId": 597935278,
+      "buildingName": "Taylor Bend Apartments",
+      "siteKind": "named apartment frontage",
+      "roadId": 577549640,
+      "roadName": "",
+      "source": "OSM named footprint Taylor Bend Apartments (597935278); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 3.9710999999046326,
+        "meters": 18.006905909885596,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -2091.0069703433924,
+          1865.076854073614
+        ],
+        "error": 3.0711522743740747
+      },
+      "parkedAt": [
+        -2091.0069703433924,
+        1865.076854073614
+      ],
+      "parkError": 3.0711522743740747,
+      "exited": true,
+      "walkStart": [
+        -2090.8496707744234,
+        1866.5182967001524
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 2.689,
+        "meters": 13.088711196692376,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -2092.7299664033703,
+          1876.4447460331596
+        ],
+        "error": 1.695990169061771
+      },
+      "approachError": 1.695990169061771,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -2091.0069703433924,
+        1865.076854073614
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 29,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -2092.727197629309,
+          157.06959564014892,
+          1871.9302822250647
+        ],
+        "focus": [
+          -2092.66,
+          155.9817375,
+          1879.93
+        ],
+        "yaw": 0.008399802440337771,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-597935278.png",
+      "pass": true
+    },
+    {
+      "buildingId": 313162830,
+      "buildingName": "Canterbury Crest Apartments",
+      "siteKind": "named apartment frontage",
+      "roadId": 471380236,
+      "roadName": "Tyler Cove",
+      "source": "OSM named footprint Canterbury Crest Apartments (313162830); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 1.8715,
+        "meters": 7.19221801671777,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          313.2914337704003,
+          255.81984042531647
+        ],
+        "error": 3.122721038102046
+      },
+      "parkedAt": [
+        313.2914337704003,
+        255.81984042531647
+      ],
+      "parkError": 3.122721038102046,
+      "exited": true,
+      "walkStart": [
+        312.2188856382289,
+        256.7956172974423
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 7.206299999713898,
+        "meters": 32.815147260129315,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          301.6523427907594,
+          229.446584674247
+        ],
+        "error": 1.6867326592272356
+      },
+      "approachError": 1.6867326592272356,
+      "destinationBlocked": false,
+      "parkedCar": [
+        313.2914337704003,
+        255.81984042531647
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          307.3871512780474,
+          140.05305981508167,
+          230.0727804986239
+        ],
+        "focus": [
+          299.96,
+          139.0332,
+          227.1
+        ],
+        "yaw": -1.951525536853141,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-313162830.png",
+      "pass": true
+    },
+    {
+      "buildingId": 599496682,
+      "buildingName": "Solo Apartments",
+      "siteKind": "named apartment frontage",
+      "roadId": 633049849,
+      "roadName": "University Avenue",
+      "source": "OSM named footprint Solo Apartments (599496682); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 4.178200000286102,
+        "meters": 19.685438616578445,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          185.94145089881698,
+          348.2100793172712
+        ],
+        "error": 3.084420991892684
+      },
+      "parkedAt": [
+        185.94145089881698,
+        348.2100793172712
+      ],
+      "parkError": 3.084420991892684,
+      "exited": true,
+      "walkStart": [
+        185.7876905612212,
+        349.6519037721139
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 5.126700000286102,
+        "meters": 22.887386721760315,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          178.95373357332187,
+          367.17871058108483
+        ],
+        "error": 1.6951416688478522
+      },
+      "approachError": 1.6951416688478522,
+      "destinationBlocked": false,
+      "parkedCar": [
+        185.94145089881698,
+        348.2100793172712
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          180.22435270005792,
+          145.3649156940133,
+          362.74547536221456
+        ],
+        "focus": [
+          178.87,
+          144.21518749999998,
+          370.63
+        ],
+        "yaw": -0.17011337383808914,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-599496682.png",
+      "pass": true
+    },
+    {
+      "buildingId": 421471600,
+      "buildingName": "Rebel Bookstore",
+      "siteKind": "named storefront",
+      "roadId": 633039156,
+      "roadName": "South 9th Street",
+      "source": "OSM named storefront Rebel Bookstore (421471600); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 4.0185,
+        "meters": 19.42376256254687,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -258.4857571756671,
+          -7.110295034505066
+        ],
+        "error": 3.1234581582058283
+      },
+      "parkedAt": [
+        -258.4857571756671,
+        -7.110295034505066
+      ],
+      "parkError": 3.1234581582058283,
+      "exited": true,
+      "walkStart": [
+        -259.92236877407976,
+        -7.306883730279426
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 3.525300000190735,
+        "meters": 16.17839402331459,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -271.8267991044874,
+          -13.412040074535655
+        ],
+        "error": 1.6083664940381508
+      },
+      "approachError": 1.6083664940381508,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -258.4857571756671,
+        -7.110295034505066
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 30,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -267.24278676180273,
+          155.6991807922179,
+          -11.675274068311026
+        ],
+        "focus": [
+          -275.1,
+          154.5007,
+          -13.18
+        ],
+        "yaw": -1.7600141551962274,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-421471600.png",
+      "pass": true
+    },
+    {
+      "buildingId": 313154912,
+      "buildingName": "Chaney's Pharmacy",
+      "siteKind": "named storefront",
+      "roadId": 599493636,
+      "roadName": "",
+      "source": "OSM named storefront Chaney’s Pharmacy (313154912); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 4.1485,
+        "meters": 18.003650773364058,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          744.3467607565069,
+          293.94660472758824
+        ],
+        "error": 3.1381239474227995
+      },
+      "parkedAt": [
+        744.3467607565069,
+        293.94660472758824
+      ],
+      "parkError": 3.1381239474227995,
+      "exited": true,
+      "walkStart": [
+        745.3087343954409,
+        295.0315502183832
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 1.5425,
+        "meters": 8.232809611043054,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          740.6914058785416,
+          292.71759979149994
+        ],
+        "error": 1.5919706177996527
+      },
+      "approachError": 1.5919706177996527,
+      "destinationBlocked": false,
+      "parkedCar": [
+        744.3467607565069,
+        293.94660472758824
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          742.4308,
+          131.1160905,
+          297.98560000000003
+        ],
+        "focus": [
+          738.13,
+          130.16237500000003,
+          291.24
+        ],
+        "yaw": -2.574004435173141,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-313154912.png",
+      "pass": true
+    },
+    {
+      "buildingId": 318715778,
+      "buildingName": "CVS Pharmacy",
+      "siteKind": "named storefront",
+      "roadId": 318715839,
+      "roadName": "",
+      "source": "OSM named storefront CVS Pharmacy (318715778); primary front from imported building profile, door point inferred",
+      "drive": {
+        "duration": 6.648199999809266,
+        "meters": 18.00305882413724,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -3605.461239588163,
+          294.3622601634474
+        ],
+        "error": 3.179120606559763
+      },
+      "parkedAt": [
+        -3605.461239588163,
+        294.3622601634474
+      ],
+      "parkError": 3.179120606559763,
+      "exited": true,
+      "walkStart": [
+        -3604.598419057625,
+        293.19691011643056
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 2.450199999809265,
+        "meters": 11.719116418562106,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -3603.7337959921483,
+          301.91235581059783
+        ],
+        "error": 1.5837197210645524
+      },
+      "approachError": 1.5837197210645524,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -3605.461239588163,
+        294.3622601634474
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 32,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -3605.9707006611443,
+          123.68103613352545,
+          297.58749921456007
+        ],
+        "focus": [
+          -3603.45,
+          122.43442500000002,
+          305.18
+        ],
+        "yaw": 0.3205489359514618,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-318715778.png",
+      "pass": true
+    },
+    {
+      "buildingId": 628408932,
+      "buildingName": "OSM building 628408932",
+      "siteKind": "surveyed home frontage",
+      "roadId": 13639395,
+      "roadName": "Avent Street",
+      "source": "202 Avent Street survey dated November 2018; https://www.apps.mdah.ms.gov/Public/prop.aspx?id=2145910736&view=facts matched to OSM building 628408932; door point inferred on documented front elevation",
+      "drive": {
+        "duration": 4.4478000001907345,
+        "meters": 19.44096627289313,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          552.7544547351587,
+          -635.3608874405145
+        ],
+        "error": 3.1268092879177023
+      },
+      "parkedAt": [
+        552.7544547351587,
+        -635.3608874405145
+      ],
+      "parkError": 3.1268092879177023,
+      "exited": true,
+      "walkStart": [
+        551.3192218669627,
+        -635.567301136887
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 3.355,
+        "meters": 15.409274298969512,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          564.4827015308044,
+          -635.8266373608437
+        ],
+        "error": 1.5969943771166775
+      },
+      "approachError": 1.5969943771166775,
+      "destinationBlocked": false,
+      "parkedCar": [
+        552.7544547351587,
+        -635.3608874405145
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          559.9277327292504,
+          139.0111894990379,
+          -636.5807732456392
+        ],
+        "focus": [
+          567.77,
+          137.9662625,
+          -635
+        ],
+        "yaw": 1.3718906976882472,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-628408932.png",
+      "pass": true
+    },
+    {
+      "buildingId": 611315647,
+      "buildingName": "OSM building 611315647",
+      "siteKind": "surveyed home frontage",
+      "roadId": 135659946,
+      "roadName": "Jefferson Avenue",
+      "source": "1006 Jefferson Avenue survey dated January 2000; https://www.oxfordms.net/documents/departments/planning/surveys/jefferson%20avenue/1006%20jefferson%20avenue.pdf matched to OSM building 611315647; door point inferred on documented front elevation",
+      "drive": {
+        "duration": 4.136400000095367,
+        "meters": 19.441284998029033,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -84.7809095477349,
+          -230.8587083965167
+        ],
+        "error": 3.1337349107363424
+      },
+      "parkedAt": [
+        -84.7809095477349,
+        -230.8587083965167
+      ],
+      "parkError": 3.1337349107363424,
+      "exited": true,
+      "walkStart": [
+        -84.97307290833596,
+        -229.42149816734266
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 3.0530999999046324,
+        "meters": 15.011603953631994,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -90.51299142026718,
+          -219.00648668024652
+        ],
+        "error": 1.6871106491790102
+      },
+      "approachError": 1.6871106491790102,
+      "destinationBlocked": false,
+      "parkedCar": [
+        -84.7809095477349,
+        -230.8587083965167
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          -89.90437884363338,
+          157.7487043255673,
+          -223.52757921932536
+        ],
+        "focus": [
+          -90.35,
+          156.33897499999998,
+          -215.54
+        ],
+        "yaw": -0.05573149039147195,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-611315647.png",
+      "pass": true
+    },
+    {
+      "buildingId": 629641758,
+      "buildingName": "1405 Jackson Avenue",
+      "siteKind": "surveyed home frontage",
+      "roadId": 629641757,
+      "roadName": "",
+      "source": "1405 Jackson Avenue survey dated January 2000; https://www.oxfordms.net/documents/departments/planning/surveys/jackson%20avenue/1405%20jackson%20avenue.pdf matched to OSM building 629641758; door point inferred on documented front elevation",
+      "drive": {
+        "duration": 3.719699999809265,
+        "meters": 15.886893436973125,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          198.94397522983357,
+          25.477972275041218
+        ],
+        "error": 3.076809897938708
+      },
+      "parkedAt": [
+        198.94397522983357,
+        25.477972275041218
+      ],
+      "parkError": 3.076809897938708,
+      "exited": true,
+      "walkStart": [
+        197.51429256285255,
+        25.23608909717631
+      ],
+      "exitBlocked": false,
+      "walk": {
+        "duration": 3.5855999999046326,
+        "meters": 17.19852894785169,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          211.4613081087172,
+          25.775177594893158
+        ],
+        "error": 1.6960891074695164
+      },
+      "approachError": 1.6960891074695164,
+      "destinationBlocked": false,
+      "parkedCar": [
+        198.94397522983357,
+        25.477972275041218
+      ],
+      "collisions": 0,
+      "failures": [],
+      "loads": 25,
+      "renderer": [
+        1836,
+        1090
+      ],
+      "arrivalCamera": {
+        "position": [
+          212.07280075867928,
+          157.56395171694874,
+          31.154394855645016
+        ],
+        "focus": [
+          213.24,
+          157.35025000000002,
+          23.24
+        ],
+        "yaw": 2.9951701030805022,
+        "distance": 8
+      },
+      "arrivalScreenshot": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-629641758.png",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "renderer": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "expectedRenderer": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "rendererMatchesPayload": true,
+  "passed": true,
+  "finishedAt": "2026-11-24T05:09:28.188Z"
+}

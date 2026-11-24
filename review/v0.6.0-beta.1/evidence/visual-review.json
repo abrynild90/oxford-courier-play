@@ -1,0 +1,113 @@
+{
+  "format": "oxford-arrival-visual-review-v1",
+  "version": "0.6.0-beta.1",
+  "rendererSha256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "reviewDate": "2026-11-24",
+  "method": "Visual review by an AI agent of all 12 fixed automatic arrival screenshots in the packaged 0.6.0 beta contact sheet plus targeted full-resolution review of the two previously reported cases. Clear means a door leaf/panel is recognizable as an entrance, not merely a dark storefront opening. Two supplemental oblique views were captured for Farley Hall and 1405 Jackson Avenue.",
+  "fixedShotsReviewed": 12,
+  "fixedShotDoorClearlyVisible": 8,
+  "fixedShotDoorNotDiscernible": 4,
+  "mechanicalArrivalPasses": 12,
+  "mechanicalArrivalTotal": 12,
+  "mechanicalReport": "verification/overnight/v060/arrivals/mechanical-report.json",
+  "contactSheet": "verification/overnight/v060/arrivals/visual-review-contact.png",
+  "rows": [
+    {
+      "buildingId": 318280244,
+      "buildingName": "Residential College North",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "The entrance door is distinct in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318280244.png"
+    },
+    {
+      "buildingId": 318280064,
+      "buildingName": "Lamar Hall",
+      "fixedShotDoor": "not-discernible",
+      "observation": "The fixed shot looks along a windowed side wall; no entrance door is discernible.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318280064.png"
+    },
+    {
+      "buildingId": 318282634,
+      "buildingName": "Farley Hall",
+      "fixedShotDoor": "not-discernible",
+      "observation": "The fixed shot shows side windows and no discernible door. An alternate view includes a doorway within a monochrome fa\u00e7ade image, but it is not clearly a separate modeled/collidable door.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/mapped-campus-front-door-318282634.png"
+    },
+    {
+      "buildingId": 597935278,
+      "buildingName": "Taylor Bend Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-597935278.png"
+    },
+    {
+      "buildingId": 313162830,
+      "buildingName": "Canterbury Crest Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-313162830.png"
+    },
+    {
+      "buildingId": 599496682,
+      "buildingName": "Solo Apartments",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-apartment-frontage-599496682.png"
+    },
+    {
+      "buildingId": 421471600,
+      "buildingName": "Rebel Bookstore",
+      "fixedShotDoor": "not-discernible",
+      "observation": "The fixed shot shows large dark storefront glazing/openings; a separate entrance door is not discernible.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-421471600.png"
+    },
+    {
+      "buildingId": 313154912,
+      "buildingName": "Chaney's Pharmacy",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct entrance panel is visible in the storefront in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-313154912.png"
+    },
+    {
+      "buildingId": 318715778,
+      "buildingName": "CVS Pharmacy",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/named-storefront-318715778.png"
+    },
+    {
+      "buildingId": 628408932,
+      "buildingName": "OSM building 628408932",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-628408932.png"
+    },
+    {
+      "buildingId": 611315647,
+      "buildingName": "OSM building 611315647",
+      "fixedShotDoor": "clearly-visible",
+      "observation": "A distinct door is visible in the fixed shot.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-611315647.png"
+    },
+    {
+      "buildingId": 629641758,
+      "buildingName": "1405 Jackson Avenue",
+      "fixedShotDoor": "not-discernible",
+      "observation": "The fixed shot shows porch/columns and windows without a discernible door. In alternate oblique view `alternate-angles/629641758-oblique-b.png`, a modeled door is visible on the frontage, so this is a fixed-shot framing issue rather than evidence that geometry is absent.",
+      "fixedShot": "verification/illustrated/access-arrivals-v060/access-arrivals-0.6.0-beta.1-arrivals-12/surveyed-home-frontage-629641758.png"
+    }
+  ],
+  "targetedFollowup": [
+    {
+      "buildingId": 318282634,
+      "fixedShot": "not-discernible",
+      "alternateAngle": "a doorway is visible only within a monochrome fa\u00e7ade image; no independently modeled door can be confirmed from the alternate captures. Keep the visual door defect unresolved."
+    },
+    {
+      "buildingId": 629641758,
+      "fixedShot": "not-discernible",
+      "alternateAngle": "the modeled door is discernible in `verification/overnight/v060/arrivals/alternate-angles/629641758-oblique-b.png`; confirms the door geometry exists, while the fixed arrival camera does not frame it."
+    }
+  ],
+  "limitations": "This review checks visibility from the saved camera poses. It does not establish door operation or historical accuracy beyond the individual source evidence."
+}

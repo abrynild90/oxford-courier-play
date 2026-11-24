@@ -1,0 +1,744 @@
+[
+  {
+    "source": "shifts/one/shift-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 144.31659999990464,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.1753584685473,
+            148.16076160133505
+          ],
+          "error": 3.1699046098587584
+        },
+        {
+          "kind": "walk",
+          "duration": 10.751400000095368,
+          "meters": 48.419258739530584,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1328.6814450304576,
+            106.6863924161993
+          ],
+          "error": 1.680573950279066
+        },
+        {
+          "kind": "walk",
+          "duration": 3.6559000000953676,
+          "meters": 45.128413622883734,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.565053811128,
+            146.68588069587918
+          ],
+          "error": 1.5254953770193862
+        },
+        {
+          "kind": "drive",
+          "duration": 53.591099999904635,
+          "meters": 1749.8881019973542,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.88806575393616,
+            70.929456302373
+          ],
+          "error": 3.251554683497829
+        },
+        {
+          "kind": "walk",
+          "duration": 2.1515,
+          "meters": 31.203917441640254,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -33.03180073925054,
+            92.11242575120663
+          ],
+          "error": 1.6499879428873996
+        },
+        {
+          "kind": "walk",
+          "duration": 2.3849000000953673,
+          "meters": 27.851900496944,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.98162768440919,
+            72.4355848785591
+          ],
+          "error": 1.509031849510874
+        },
+        {
+          "kind": "drive",
+          "duration": 102.95839999961854,
+          "meters": 3327.2083108703487,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.668978271441,
+            -1090.443687768663
+          ],
+          "error": 3.0535635708411406
+        },
+        {
+          "kind": "walk",
+          "duration": 10.454200000286102,
+          "meters": 137.12863769543804,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2589.601075532625,
+            -1205.594873160316
+          ],
+          "error": 1.4606581277871906
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "recordedLighting": "dusk",
+      "recordedCamera": "driver and walking",
+      "deliveryOrder": [
+        "grove",
+        "square",
+        "park"
+      ],
+      "clip": {
+        "frames": 1855,
+        "seconds": 155.04517483711243
+      },
+      "recordedLegTiming": {
+        "meanFPS": 46.10737356176286,
+        "maxFrameMS": 2445,
+        "maxStreamingFrameMS": 215.8000000000029,
+        "frames": 7264
+      },
+      "acceleratedAfterFirstDelivery": true,
+      "result": {
+        "start": 2.8101000000000003,
+        "score": 650,
+        "done": [
+          "grove",
+          "square",
+          "park"
+        ],
+        "hits": 0,
+        "duration": 678.5523222222962,
+        "penalty": 20,
+        "total": 630
+      },
+      "runtime": {
+        "frames": 21866,
+        "meanFPS": 65.64996194487999,
+        "medianMS": 13.10000000000582,
+        "p99MS": 44.40000000000873,
+        "maxMS": 2445,
+        "streamingFrames": 954,
+        "maxStreamingFrameMS": 215.8000000000029,
+        "metersDriven": 6721.256256740041,
+        "metersWalked": 273.95915555555564,
+        "collisions": 2,
+        "collisionLog": [
+          {
+            "position": [
+              -1340.7596558302328,
+              161.82991337770554
+            ],
+            "street": "University Avenue",
+            "speed": 2.8698068869433313,
+            "kind": "pedestrian"
+          },
+          {
+            "position": [
+              -2562.646533779559,
+              -1056.7793257608944
+            ],
+            "street": "",
+            "speed": 3.225467211046954,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 125,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "shifts/two/shift-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 22.883099999904633,
+          "meters": 153.20531563488484,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -49.05980873612646,
+            70.58827522346972
+          ],
+          "error": 3.2238903746900403
+        },
+        {
+          "kind": "walk",
+          "duration": 6.527099999904633,
+          "meters": 31.5141052685336,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -32.972895423438224,
+            92.00973528962646
+          ],
+          "error": 1.6968681356714417
+        },
+        {
+          "kind": "walk",
+          "duration": 2.3950999999046325,
+          "meters": 27.851900496943998,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -49.07519716792044,
+            72.23930114559558
+          ],
+          "error": 1.6510976347159496
+        },
+        {
+          "kind": "drive",
+          "duration": 100.7357999997139,
+          "meters": 3327.5116857660223,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.508876010858,
+            -1090.45959216045
+          ],
+          "error": 3.164517077831069
+        },
+        {
+          "kind": "walk",
+          "duration": 10.405300000190735,
+          "meters": 136.3129429924268,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2590.9150105650897,
+            -1205.7816696423445
+          ],
+          "error": 1.5236709600864635
+        },
+        {
+          "kind": "walk",
+          "duration": 10.381900000095367,
+          "meters": 133.88649090386255,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.890812759983,
+            -1091.9140017476968
+          ],
+          "error": 1.5037230223041909
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "deliveryOrder": [
+        "square",
+        "park",
+        "grove"
+      ],
+      "recordedLegTiming": {
+        "meanFPS": 101.68712019505531,
+        "maxFrameMS": 1108.5999999999985,
+        "maxStreamingFrameMS": 42.399999999999636,
+        "frames": 3007
+      },
+      "acceleratedAfterFirstDelivery": true,
+      "failure": "page.evaluate: Error: Driver stopped at {\"p\":[-2791.748893083133,-1211.5830512970476],\"stop\":1989.1916055531879,\"k\":0,\"speed\":0,\"angle\":9.56303067008677,\"input\":{\"gas\":1,\"brake\":0,\"steer\":-0.03592181312080433},\"nearby\":[]}\n    at driveTest (<anonymous>:48:11)\n    at async <anonymous>:381:23",
+      "runtime": {
+        "frames": 26113,
+        "meanFPS": 119.81215832108026,
+        "medianMS": 8,
+        "p99MS": 17.69999999999709,
+        "maxMS": 1108.5999999999985,
+        "streamingFrames": 830,
+        "maxStreamingFrameMS": 73.80000000000291,
+        "metersDriven": 3681.3280503522537,
+        "metersWalked": 314.97472500000595,
+        "collisions": 2,
+        "collisionLog": [
+          {
+            "position": [
+              -2636.2797893730435,
+              -1090.1939792097962
+            ],
+            "street": "",
+            "speed": 2.8235051582802413,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -2791.7451695243744,
+              -1211.5598695953431
+            ],
+            "speed": 2.718411352497444,
+            "kind": "static obstacle"
+          }
+        ],
+        "tileLoads": 85,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "shifts/three/shift-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 300.7255,
+          "meters": 3188.000375175371,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.6211430703934,
+            -1090.4498608936044
+          ],
+          "error": 3.08738105195051
+        },
+        {
+          "kind": "walk",
+          "duration": 31.244,
+          "meters": 136.37643903214166,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2591.050280031805,
+            -1205.7425092791157
+          ],
+          "error": 1.6384050348794796
+        },
+        {
+          "kind": "walk",
+          "duration": 10.377199999809266,
+          "meters": 133.85793293229872,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2634.005140588197,
+            -1091.9076995043783
+          ],
+          "error": 1.5074689162402608
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "deliveryOrder": [
+        "park",
+        "grove",
+        "square"
+      ],
+      "recordedLegTiming": {
+        "meanFPS": 97.67651349972932,
+        "maxFrameMS": 285.10000000000036,
+        "maxStreamingFrameMS": 285.10000000000036,
+        "frames": 32443
+      },
+      "acceleratedAfterFirstDelivery": true,
+      "failure": "page.evaluate: Error: Driver stopped at {\"p\":[-2808.2195074921488,-1221.6014867935744],\"stop\":2008.0736523417677,\"k\":0,\"speed\":0,\"angle\":3.3001194380598546,\"input\":{\"gas\":1,\"brake\":0,\"steer\":-0.03240966677237121},\"nearby\":[]}\n    at driveTest (<anonymous>:48:11)\n    at async <anonymous>:381:23",
+      "runtime": {
+        "frames": 42406,
+        "meanFPS": 103.64059399165286,
+        "medianMS": 8.10000000000582,
+        "p99MS": 32.5,
+        "maxMS": 285.10000000000036,
+        "streamingFrames": 541,
+        "maxStreamingFrameMS": 285.10000000000036,
+        "metersDriven": 3419.664478032976,
+        "metersWalked": 261.0384000000032,
+        "collisions": 3,
+        "collisionLog": [
+          {
+            "position": [
+              -2564.105370657327,
+              -1059.4262745570202
+            ],
+            "street": "",
+            "speed": 3.6980403908097563,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -2600.0114698161483,
+              -1093.0985141737713
+            ],
+            "street": "",
+            "speed": 4.564609661142785,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -2808.2163713012005,
+              -1221.5839720633257
+            ],
+            "speed": 2.7987774312024616,
+            "kind": "static obstacle"
+          }
+        ],
+        "tileLoads": 65,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "shift-retries/park-grove-square/shift-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 273.316,
+          "meters": 3188.000375175371,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.5024703971794,
+            -1090.462135752723
+          ],
+          "error": 3.1705262936903083
+        },
+        {
+          "kind": "walk",
+          "duration": 31.241900000095367,
+          "meters": 136.30920081739518,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2590.979082912082,
+            -1205.710949820826
+          ],
+          "error": 1.6187197759833143
+        },
+        {
+          "kind": "walk",
+          "duration": 10.356099999904632,
+          "meters": 133.81527366896148,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.885461957653,
+            -1092.0541645183303
+          ],
+          "error": 1.6374486635968049
+        },
+        {
+          "kind": "drive",
+          "duration": 103.8925,
+          "meters": 2856.8582277420005,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.309563167685,
+            148.19834424785265
+          ],
+          "error": 3.1743408918417826
+        },
+        {
+          "kind": "walk",
+          "duration": 3.6347000002861023,
+          "meters": 49.11976382288643,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1327.2452929870597,
+            106.731572442435
+          ],
+          "error": 1.3780066162690512
+        },
+        {
+          "kind": "walk",
+          "duration": 3.7422000002861022,
+          "meters": 45.86661525668559,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.6810619867676,
+            146.94621876868842
+          ],
+          "error": 1.3060741128098676
+        },
+        {
+          "kind": "drive",
+          "duration": 52.41090000009537,
+          "meters": 1750.0152531085764,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.87312845319223,
+            70.88641412044633
+          ],
+          "error": 3.2151035966195445
+        },
+        {
+          "kind": "walk",
+          "duration": 2.175799999713898,
+          "meters": 31.235083198362375,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -32.87979644158626,
+            92.22876313543114
+          ],
+          "error": 1.4648677658932072
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "deliveryOrder": [
+        "park",
+        "grove",
+        "square"
+      ],
+      "recordedLegTiming": {
+        "meanFPS": 126.87162222025339,
+        "maxFrameMS": 63.600000000000364,
+        "maxStreamingFrameMS": 49.900000000001455,
+        "frames": 38664
+      },
+      "acceleratedAfterFirstDelivery": true,
+      "result": {
+        "start": 0.2093000000000002,
+        "score": 650,
+        "done": [
+          "park",
+          "grove",
+          "square"
+        ],
+        "hits": 0,
+        "duration": 833.8344999998825,
+        "penalty": 20,
+        "total": 630
+      },
+      "runtime": {
+        "frames": 60853,
+        "meanFPS": 126.4816958727539,
+        "medianMS": 8.19999999999709,
+        "p99MS": 10.799999999988358,
+        "maxMS": 63.600000000000364,
+        "streamingFrames": 1829,
+        "maxStreamingFrameMS": 49.900000000001455,
+        "metersDriven": 7827.878868233892,
+        "metersWalked": 377.70940000000417,
+        "collisions": 2,
+        "collisionLog": [
+          {
+            "position": [
+              -2594.9331050043406,
+              -1091.8082155492978
+            ],
+            "street": "",
+            "speed": 5.356286746205975,
+            "kind": "pedestrian"
+          },
+          {
+            "position": [
+              -1391.748294180491,
+              -588.2741322010974
+            ],
+            "street": "West Jackson Avenue",
+            "speed": 3.894280912314231,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 125,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "shift-retries/square-park-grove/shift-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 24.095,
+          "meters": 153.20531563488484,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.99840922705584,
+            70.64307795432285
+          ],
+          "error": 3.1956507592646037
+        },
+        {
+          "kind": "walk",
+          "duration": 6.512299999713898,
+          "meters": 31.45542626097564,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -32.93484885422596,
+            92.0426837879108
+          ],
+          "error": 1.648104875257571
+        },
+        {
+          "kind": "walk",
+          "duration": 2.3884000000953676,
+          "meters": 27.851900496944012,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -49.13779554145428,
+            72.0106651394928
+          ],
+          "error": 1.3746720531394592
+        },
+        {
+          "kind": "drive",
+          "duration": 97.35759999990464,
+          "meters": 3327.469231809566,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.5402605710538,
+            -1090.4561630943479
+          ],
+          "error": 3.1421832816376285
+        },
+        {
+          "kind": "walk",
+          "duration": 10.402599999904632,
+          "meters": 136.33016675661605,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2590.967119784388,
+            -1205.757557215871
+          ],
+          "error": 1.5744791993511014
+        },
+        {
+          "kind": "walk",
+          "duration": 10.340699999809265,
+          "meters": 133.8663735675955,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.9331574132943,
+            -1092.0910780449537
+          ],
+          "error": 1.6814621091054307
+        },
+        {
+          "kind": "drive",
+          "duration": 108.9327000002861,
+          "meters": 2856.8963911491796,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.2168712583107,
+            148.2028735109221
+          ],
+          "error": 3.2001741594547632
+        },
+        {
+          "kind": "walk",
+          "duration": 3.6355,
+          "meters": 49.17092891123593,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1327.1941387541565,
+            106.81149641824014
+          ],
+          "error": 1.468688356862103
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "deliveryOrder": [
+        "square",
+        "park",
+        "grove"
+      ],
+      "recordedLegTiming": {
+        "meanFPS": 25.077839006787304,
+        "maxFrameMS": 1662,
+        "maxStreamingFrameMS": 448.09999999999945,
+        "frames": 770
+      },
+      "acceleratedAfterFirstDelivery": true,
+      "result": {
+        "start": 0.1945999999999999,
+        "score": 650,
+        "done": [
+          "square",
+          "park",
+          "grove"
+        ],
+        "hits": 0,
+        "duration": 726.8397888888658,
+        "penalty": 20,
+        "total": 630
+      },
+      "runtime": {
+        "frames": 24751,
+        "meanFPS": 93.74981061409534,
+        "medianMS": 8.19999999999709,
+        "p99MS": 55.400000000001455,
+        "maxMS": 1662,
+        "streamingFrames": 1201,
+        "maxStreamingFrameMS": 448.09999999999945,
+        "metersDriven": 6339.564046375951,
+        "metersWalked": 360.9939611111216,
+        "collisions": 2,
+        "collisionLog": [
+          {
+            "position": [
+              -2581.763809718413,
+              -1085.2549072038419
+            ],
+            "street": "",
+            "speed": 4.364452986326692,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -2570.3895447805335,
+              -1070.7043884979803
+            ],
+            "street": "",
+            "speed": 6.160728277910118,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 115,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  }
+]

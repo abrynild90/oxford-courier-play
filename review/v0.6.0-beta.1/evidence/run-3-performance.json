@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "rendererSHA": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "route": "campus",
+      "light": "day",
+      "normalSimulationSpeed": true,
+      "drive": {
+        "duration": 137.87890000009537,
+        "meters": 1635.5672437350074,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -1336.2317473478422,
+          148.16909178527976
+        ],
+        "error": 3.1637851576899525
+      },
+      "frames": 16547,
+      "meanFPS": 119.94186657582573,
+      "medianMS": 8.30000000000291,
+      "p95MS": 8.900000000008731,
+      "p99MS": 9.900000000001455,
+      "slowestFrame": {
+        "ms": 41.69999999999709,
+        "p": [
+          -515.3246252616337,
+          220.69408512387557
+        ],
+        "tile": "-2_0"
+      },
+      "slowestStream": {
+        "ms": 41.69999999999709,
+        "p": [
+          -515.3246252616337,
+          220.69408512387557
+        ],
+        "tile": "-2_0"
+      },
+      "longestStreamMS": 41.69999999999709,
+      "longestMS": 41.69999999999709,
+      "failed": [],
+      "loaded": 45,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "collisions": 1,
+      "peakProcessRSSMiB": 1895.828125
+    },
+    {
+      "rendererSHA": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "route": "residential",
+      "light": "dusk",
+      "normalSimulationSpeed": true,
+      "drive": {
+        "duration": 147.919,
+        "meters": 1735.3300106786487,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          -230.14688178408548,
+          1726.5673406454746
+        ],
+        "error": 3.0221129266179956
+      },
+      "frames": 17749,
+      "meanFPS": 119.93240161442155,
+      "medianMS": 8.30000000000291,
+      "p95MS": 8.89999999999418,
+      "p99MS": 9.900000000000091,
+      "slowestFrame": {
+        "ms": 49.89999999999418,
+        "p": [
+          -202.97804395045813,
+          1027.5300897114955
+        ],
+        "tile": "-1_2"
+      },
+      "slowestStream": {
+        "ms": 49.89999999999418,
+        "p": [
+          -202.97804395045813,
+          1027.5300897114955
+        ],
+        "tile": "-1_2"
+      },
+      "longestStreamMS": 49.89999999999418,
+      "longestMS": 49.89999999999418,
+      "failed": [],
+      "loaded": 43,
+      "buffer": [
+        1836,
+        1090
+      ],
+      "collisions": 0,
+      "peakProcessRSSMiB": 1881.296875
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,6301 @@
+[
+  {
+    "source": "backend/payload.json",
+    "report": {
+      "files": 3366,
+      "matchingFileHashes": true,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "fullyEnclosesMunicipality": true,
+      "fullyEnclosesCampusPolygon": true,
+      "tiles": 780,
+      "terrainBorderSamples": 97760,
+      "maxSeamMeters": 0,
+      "projectionScaleAtOrigin": 1.000261323517662,
+      "individualPublicSourceWaysChecked": 3985,
+      "missingSourceWays": [],
+      "sourceMeters": 602131.55,
+      "exportMeters": 602131.55
+    }
+  },
+  {
+    "source": "backend/routing.json",
+    "report": {
+      "sampleCellMeters": 750,
+      "sampledCells": 120,
+      "failedRoundTrips": [],
+      "routes": [
+        {
+          "from": [
+            4,
+            -35
+          ],
+          "to": [
+            -6598.18,
+            1263.81
+          ],
+          "meters": 7917,
+          "streets": [
+            "North Lamar Boulevard",
+            "Courthouse Square",
+            "East Jackson Avenue",
+            "Jackson Avenue East",
+            "West Jackson Avenue",
+            "Jackson Avenue West",
+            "US 278;MS 6",
+            "State Highway 6",
+            "Ricky D Britt Sr Boulevard"
+          ]
+        },
+        {
+          "from": [
+            -6598.18,
+            1263.81
+          ],
+          "to": [
+            3716.68,
+            -540.76
+          ],
+          "meters": 12071,
+          "streets": [
+            "Ricky D Britt Sr Boulevard",
+            "US 278;MS 6",
+            "State Highway 6",
+            "US 278;MS 6",
+            "West Jackson Avenue",
+            "Jackson Avenue West",
+            "West Jackson Avenue",
+            "Washington Avenue",
+            "Molly Barr Road",
+            "Price Street",
+            "North Lamar Boulevard",
+            "Douglas Drive",
+            "Williams Avenue",
+            "Combs Street",
+            "Sisk Avenue",
+            "Sisk Avenue",
+            "Sisk Avenue",
+            "Sisk Avenue",
+            "North F.D. Buddy East Parkway",
+            "Woodbine Drive"
+          ]
+        },
+        {
+          "from": [
+            3716.68,
+            -540.76
+          ],
+          "to": [
+            -1337,
+            145.1
+          ],
+          "meters": 6004,
+          "streets": [
+            "Woodbine Drive",
+            "North F.D. Buddy East Parkway",
+            "Sisk Avenue",
+            "Sisk Avenue",
+            "Sisk Avenue",
+            "MS 7",
+            "MS 314",
+            "University Avenue"
+          ]
+        },
+        {
+          "from": [
+            -1337,
+            145.1
+          ],
+          "to": [
+            -46.2,
+            69.1
+          ],
+          "meters": 1744,
+          "streets": [
+            "University Avenue",
+            "South Lamar Boulevard",
+            "Courthouse Square"
+          ]
+        },
+        {
+          "from": [
+            -46.2,
+            69.1
+          ],
+          "to": [
+            -2635.5,
+            -1088
+          ],
+          "meters": 3327,
+          "streets": [
+            "Courthouse Square",
+            "East Jackson Avenue",
+            "Jackson Avenue East",
+            "West Jackson Avenue",
+            "College Hill Road",
+            "Country Club Road"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "source": "backend/network-connectivity.json",
+    "report": {
+      "method": "Directed reachability from the Square on the bundled street graph, including mapped turn restrictions and one-way segments. Round trips may use roads outside the official boundary.",
+      "networkStates": 42867,
+      "insideMunicipalRoadNodes": 27281,
+      "twoWayReachable": 26912,
+      "exceptions": [
+        {
+          "node": 30482,
+          "point": [
+            -6456.66,
+            -646.33
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30491,
+          "point": [
+            -6484.25,
+            -691.12
+          ],
+          "ways": [
+            {
+              "id": 570549994,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19057,
+          "point": [
+            -273.6,
+            3896.91
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 58649,
+          "point": [
+            -290.86,
+            3897.48
+          ],
+          "ways": [
+            {
+              "id": 643914585,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 549,
+          "point": [
+            121.79,
+            5197.71
+          ],
+          "ways": [
+            {
+              "id": 13634314,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 554,
+          "point": [
+            109.27,
+            5177.28
+          ],
+          "ways": [
+            {
+              "id": 13634316,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 548,
+          "point": [
+            99.53,
+            5195.05
+          ],
+          "ways": [
+            {
+              "id": 13634314,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 13634316,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 550,
+          "point": [
+            151.97,
+            5203.15
+          ],
+          "ways": [
+            {
+              "id": 13634314,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 551,
+          "point": [
+            179.73,
+            5220.39
+          ],
+          "ways": [
+            {
+              "id": 13634314,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 552,
+          "point": [
+            201.6,
+            5225.64
+          ],
+          "ways": [
+            {
+              "id": 13634314,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 553,
+          "point": [
+            116.32,
+            5168.86
+          ],
+          "ways": [
+            {
+              "id": 13634316,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 681,
+          "point": [
+            59.68,
+            5172.32
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 680,
+          "point": [
+            56.99,
+            5189.12
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 682,
+          "point": [
+            60.24,
+            5163.09
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 683,
+          "point": [
+            57.1,
+            5125.37
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 687,
+          "point": [
+            82.2,
+            5153.51
+          ],
+          "ways": [
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 684,
+          "point": [
+            52.52,
+            5112.94
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 685,
+          "point": [
+            42.2,
+            5108.46
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 686,
+          "point": [
+            -9.53,
+            5105.07
+          ],
+          "ways": [
+            {
+              "id": 13634478,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 688,
+          "point": [
+            101.07,
+            5146.66
+          ],
+          "ways": [
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 689,
+          "point": [
+            115.63,
+            5137.7
+          ],
+          "ways": [
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 690,
+          "point": [
+            131.17,
+            5122.69
+          ],
+          "ways": [
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 691,
+          "point": [
+            167.85,
+            5079.68
+          ],
+          "ways": [
+            {
+              "id": 13634485,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 23668,
+          "point": [
+            117.52,
+            3367.03
+          ],
+          "ways": [
+            {
+              "id": 318896520,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 318896519,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 23667,
+          "point": [
+            128.88,
+            3438.92
+          ],
+          "ways": [
+            {
+              "id": 318896511,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 82046,
+          "point": [
+            233.63,
+            460.68
+          ],
+          "ways": [
+            {
+              "id": 732129519,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35790,
+          "point": [
+            267.62,
+            466.68
+          ],
+          "ways": [
+            {
+              "id": 599499638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20544,
+          "point": [
+            -2435.41,
+            -2242.14
+          ],
+          "ways": [
+            {
+              "id": 308436447,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20545,
+          "point": [
+            -2411.22,
+            -2193.71
+          ],
+          "ways": [
+            {
+              "id": 308436447,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20546,
+          "point": [
+            -2400.96,
+            -2206.74
+          ],
+          "ways": [
+            {
+              "id": 308436448,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 37702,
+          "point": [
+            -2333.57,
+            -2190.71
+          ],
+          "ways": [
+            {
+              "id": 609778212,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89058,
+          "point": [
+            -3619.16,
+            -187.88
+          ],
+          "ways": [
+            {
+              "id": 1336968440,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 60561,
+          "point": [
+            -1335.76,
+            313.3
+          ],
+          "ways": [
+            {
+              "id": 762222601,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 17813,
+          "point": [
+            -1502.53,
+            304.24
+          ],
+          "ways": [
+            {
+              "id": 282550335,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24905,
+          "point": [
+            -6333.7,
+            1181.43
+          ],
+          "ways": [
+            {
+              "id": 345567973,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24904,
+          "point": [
+            -6418.49,
+            1164.72
+          ],
+          "ways": [
+            {
+              "id": 345567971,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20274,
+          "point": [
+            1015.12,
+            -6.95
+          ],
+          "ways": [
+            {
+              "id": 308433539,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 308433540,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30551,
+          "point": [
+            -3377.57,
+            20.31
+          ],
+          "ways": [
+            {
+              "id": 570550833,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 26717,
+          "point": [
+            -2971.1,
+            149.62
+          ],
+          "ways": [
+            {
+              "id": 559894790,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 11795,
+          "point": [
+            -1503.62,
+            311.37
+          ],
+          "ways": [
+            {
+              "id": 282550335,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 17814,
+          "point": [
+            -1500.69,
+            285.74
+          ],
+          "ways": [
+            {
+              "id": 282550335,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 17815,
+          "point": [
+            -1500.21,
+            281.63
+          ],
+          "ways": [
+            {
+              "id": 282550335,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 17816,
+          "point": [
+            -1496.43,
+            249.53
+          ],
+          "ways": [
+            {
+              "id": 282550335,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 67680,
+          "point": [
+            -2112.26,
+            -1361.31
+          ],
+          "ways": [
+            {
+              "id": 679072593,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 19049,
+          "point": [
+            -269.42,
+            3840.98
+          ],
+          "ways": [
+            {
+              "id": 307963924,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19048,
+          "point": [
+            -297.13,
+            3838.33
+          ],
+          "ways": [
+            {
+              "id": 307963924,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19050,
+          "point": [
+            -259.62,
+            3844.18
+          ],
+          "ways": [
+            {
+              "id": 307963924,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19054,
+          "point": [
+            -255.6,
+            3834.81
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19055,
+          "point": [
+            -262.22,
+            3853.74
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19052,
+          "point": [
+            -245.09,
+            3816.5
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19051,
+          "point": [
+            -240.88,
+            3809.29
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19053,
+          "point": [
+            -255.06,
+            3833.53
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19056,
+          "point": [
+            -265.7,
+            3866.62
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 377,
+          "point": [
+            -277.42,
+            3911.54
+          ],
+          "ways": [
+            {
+              "id": 307963925,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19359,
+          "point": [
+            -1273.49,
+            1378.85
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19358,
+          "point": [
+            -1267.65,
+            1358.93
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19360,
+          "point": [
+            -1279.68,
+            1401.79
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19361,
+          "point": [
+            -1263.17,
+            1407.6
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19362,
+          "point": [
+            -1247.91,
+            1411.15
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19363,
+          "point": [
+            -1221.76,
+            1413.1
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19364,
+          "point": [
+            -1210.15,
+            1408.36
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19365,
+          "point": [
+            -1175.63,
+            1385.04
+          ],
+          "ways": [
+            {
+              "id": 307965776,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19367,
+          "point": [
+            -1246.1,
+            1374.1
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19366,
+          "point": [
+            -1245.6,
+            1363.05
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19368,
+          "point": [
+            -1234.87,
+            1378.76
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19369,
+          "point": [
+            -1222.57,
+            1380.2
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19370,
+          "point": [
+            -1212.85,
+            1376.77
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 19371,
+          "point": [
+            -1202,
+            1364.17
+          ],
+          "ways": [
+            {
+              "id": 307965777,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 15644,
+          "point": [
+            1021.92,
+            -42.17
+          ],
+          "ways": [
+            {
+              "id": 308433539,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20275,
+          "point": [
+            997.63,
+            -10.85
+          ],
+          "ways": [
+            {
+              "id": 308433539,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 308433540,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20278,
+          "point": [
+            1012.21,
+            5.63
+          ],
+          "ways": [
+            {
+              "id": 308433540,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20276,
+          "point": [
+            983.57,
+            -13.99
+          ],
+          "ways": [
+            {
+              "id": 308433539,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 20277,
+          "point": [
+            995.01,
+            2.14
+          ],
+          "ways": [
+            {
+              "id": 308433540,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 8138,
+          "point": [
+            -2420.58,
+            -2211.59
+          ],
+          "ways": [
+            {
+              "id": 308436447,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 8141,
+          "point": [
+            -2368.32,
+            -2222.67
+          ],
+          "ways": [
+            {
+              "id": 308436448,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87759,
+          "point": [
+            864.68,
+            -216.78
+          ],
+          "ways": [
+            {
+              "id": 1321777091,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87758,
+          "point": [
+            875.16,
+            -195.12
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 23666,
+          "point": [
+            134.8,
+            3420.43
+          ],
+          "ways": [
+            {
+              "id": 318896511,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 1262,
+          "point": [
+            126.01,
+            3447.84
+          ],
+          "ways": [
+            {
+              "id": 318896511,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 1257,
+          "point": [
+            166.99,
+            3381.3
+          ],
+          "ways": [
+            {
+              "id": 318896519,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 1253,
+          "point": [
+            122.23,
+            3351.59
+          ],
+          "ways": [
+            {
+              "id": 318896520,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 23669,
+          "point": [
+            111.55,
+            3385.42
+          ],
+          "ways": [
+            {
+              "id": 318896520,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 13113,
+          "point": [
+            -6379.51,
+            1159.99
+          ],
+          "ways": [
+            {
+              "id": 345567971,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 13112,
+          "point": [
+            -6374.89,
+            1186.58
+          ],
+          "ways": [
+            {
+              "id": 345567973,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24939,
+          "point": [
+            -6175.64,
+            1172.52
+          ],
+          "ways": [
+            {
+              "id": 345567992,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24938,
+          "point": [
+            -6216.32,
+            1181.17
+          ],
+          "ways": [
+            {
+              "id": 345567992,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24941,
+          "point": [
+            -6207.49,
+            1044.5
+          ],
+          "ways": [
+            {
+              "id": 345567998,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24940,
+          "point": [
+            -6247.63,
+            1058.34
+          ],
+          "ways": [
+            {
+              "id": 345567998,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24943,
+          "point": [
+            -6199.26,
+            1069.17
+          ],
+          "ways": [
+            {
+              "id": 345568000,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24942,
+          "point": [
+            -6161.44,
+            1057.84
+          ],
+          "ways": [
+            {
+              "id": 345568000,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24945,
+          "point": [
+            -6235.5,
+            905.61
+          ],
+          "ways": [
+            {
+              "id": 345568004,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 24944,
+          "point": [
+            -6196.26,
+            898.05
+          ],
+          "ways": [
+            {
+              "id": 345568004,
+              "name": "",
+              "type": "residential"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 16853,
+          "point": [
+            -2988.57,
+            157.21
+          ],
+          "ways": [
+            {
+              "id": 559894790,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 16863,
+          "point": [
+            -2943.59,
+            146.75
+          ],
+          "ways": [
+            {
+              "id": 559894790,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 121,
+          "point": [
+            -6445.19,
+            -640.68
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30483,
+          "point": [
+            -6460.11,
+            -648.02
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30490,
+          "point": [
+            -6462.98,
+            -637.56
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30484,
+          "point": [
+            -6476.35,
+            -656.55
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30485,
+          "point": [
+            -6485.79,
+            -656.63
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30486,
+          "point": [
+            -6487.59,
+            -649.87
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30487,
+          "point": [
+            -6487.63,
+            -641.6
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30488,
+          "point": [
+            -6484.39,
+            -635.02
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30489,
+          "point": [
+            -6474.44,
+            -635.26
+          ],
+          "ways": [
+            {
+              "id": 570549993,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 122,
+          "point": [
+            -6445.26,
+            -691.2
+          ],
+          "ways": [
+            {
+              "id": 570549994,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 30552,
+          "point": [
+            -3379.78,
+            11.31
+          ],
+          "ways": [
+            {
+              "id": 570550833,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 30553,
+          "point": [
+            -3403.29,
+            16.12
+          ],
+          "ways": [
+            {
+              "id": 570550833,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 30554,
+          "point": [
+            -3401.39,
+            28.52
+          ],
+          "ways": [
+            {
+              "id": 570550833,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 33884,
+          "point": [
+            2334.53,
+            -1749.07
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33885,
+          "point": [
+            2336.46,
+            -1745.09
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33886,
+          "point": [
+            2324.37,
+            -1695.28
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33887,
+          "point": [
+            2309.64,
+            -1698.09
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33888,
+          "point": [
+            2316.78,
+            -1757.86
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33883,
+          "point": [
+            2331.05,
+            -1756.28
+          ],
+          "ways": [
+            {
+              "id": 595974169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 50423,
+          "point": [
+            413.09,
+            3646.37
+          ],
+          "ways": [
+            {
+              "id": 636610599,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 50424,
+          "point": [
+            461.1,
+            3647.32
+          ],
+          "ways": [
+            {
+              "id": 636610599,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89771,
+          "point": [
+            -2089.86,
+            1654.61
+          ],
+          "ways": [
+            {
+              "id": 1453417124,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89770,
+          "point": [
+            -2093.34,
+            1597.28
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417121,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89784,
+          "point": [
+            -2107.18,
+            1610.34
+          ],
+          "ways": [
+            {
+              "id": 1453417128,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417130,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89766,
+          "point": [
+            -2173.96,
+            1539.25
+          ],
+          "ways": [
+            {
+              "id": 1453417122,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89765,
+          "point": [
+            -2188.5,
+            1551.94
+          ],
+          "ways": [
+            {
+              "id": 1453417123,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89785,
+          "point": [
+            -2122.59,
+            1624.23
+          ],
+          "ways": [
+            {
+              "id": 1453417128,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417129,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89790,
+          "point": [
+            -2202.15,
+            1564.51
+          ],
+          "ways": [
+            {
+              "id": 1453417132,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35443,
+          "point": [
+            524.69,
+            -1076.33
+          ],
+          "ways": [
+            {
+              "id": 598637418,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35444,
+          "point": [
+            582.09,
+            -1146.04
+          ],
+          "ways": [
+            {
+              "id": 598637418,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35442,
+          "point": [
+            550.73,
+            -1109.06
+          ],
+          "ways": [
+            {
+              "id": 598637418,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35583,
+          "point": [
+            295.56,
+            3535.01
+          ],
+          "ways": [
+            {
+              "id": 599114249,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35581,
+          "point": [
+            289.79,
+            3555.42
+          ],
+          "ways": [
+            {
+              "id": 599114249,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 1910,
+          "point": [
+            246.27,
+            463.58
+          ],
+          "ways": [
+            {
+              "id": 599499638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35816,
+          "point": [
+            174.08,
+            159.72
+          ],
+          "ways": [
+            {
+              "id": 599503438,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35817,
+          "point": [
+            198.69,
+            166.26
+          ],
+          "ways": [
+            {
+              "id": 599503438,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35815,
+          "point": [
+            186.99,
+            162.21
+          ],
+          "ways": [
+            {
+              "id": 599503438,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35818,
+          "point": [
+            204.49,
+            162.58
+          ],
+          "ways": [
+            {
+              "id": 599503438,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 35819,
+          "point": [
+            216.24,
+            164.1
+          ],
+          "ways": [
+            {
+              "id": 599503438,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36210,
+          "point": [
+            -6323.32,
+            708.88
+          ],
+          "ways": [
+            {
+              "id": 600442051,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36204,
+          "point": [
+            -6323.31,
+            733.07
+          ],
+          "ways": [
+            {
+              "id": 600442051,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36278,
+          "point": [
+            -2036.22,
+            -1441.53
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 67724,
+          "point": [
+            -1974.05,
+            -1390.62
+          ],
+          "ways": [
+            {
+              "id": 679072602,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36275,
+          "point": [
+            -2000.82,
+            -1388.42
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36264,
+          "point": [
+            -1990.56,
+            -1366.93
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36276,
+          "point": [
+            -2009.29,
+            -1410.35
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36277,
+          "point": [
+            -2013.78,
+            -1419.11
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36246,
+          "point": [
+            -2051.83,
+            -1461.76
+          ],
+          "ways": [
+            {
+              "id": 600447793,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 40979,
+          "point": [
+            -48.77,
+            -301.61
+          ],
+          "ways": [
+            {
+              "id": 625161150,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36440,
+          "point": [
+            1072.12,
+            -224.77
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 601769621,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36439,
+          "point": [
+            1071.68,
+            -201.28
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36441,
+          "point": [
+            1071.38,
+            -232.07
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 601769622,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36445,
+          "point": [
+            1131.22,
+            -221.74
+          ],
+          "ways": [
+            {
+              "id": 601769621,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36442,
+          "point": [
+            1071.59,
+            -239.94
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1472772172,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36449,
+          "point": [
+            1048.2,
+            -239.57
+          ],
+          "ways": [
+            {
+              "id": 601769622,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36443,
+          "point": [
+            1072.11,
+            -259.09
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 723007162,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 77259,
+          "point": [
+            1088.89,
+            -238.97
+          ],
+          "ways": [
+            {
+              "id": 1472772172,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36444,
+          "point": [
+            1072.92,
+            -273.97
+          ],
+          "ways": [
+            {
+              "id": 601769620,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 77264,
+          "point": [
+            1086.81,
+            -258.05
+          ],
+          "ways": [
+            {
+              "id": 723007162,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36446,
+          "point": [
+            1139.51,
+            -220.01
+          ],
+          "ways": [
+            {
+              "id": 601769621,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36447,
+          "point": [
+            1149.6,
+            -213.43
+          ],
+          "ways": [
+            {
+              "id": 601769621,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36448,
+          "point": [
+            1161.82,
+            -199.92
+          ],
+          "ways": [
+            {
+              "id": 601769621,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36450,
+          "point": [
+            1050.39,
+            -276.59
+          ],
+          "ways": [
+            {
+              "id": 601769622,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36588,
+          "point": [
+            -1407.48,
+            -478.01
+          ],
+          "ways": [
+            {
+              "id": 602699439,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36579,
+          "point": [
+            -1399.33,
+            -530.19
+          ],
+          "ways": [
+            {
+              "id": 602699439,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36865,
+          "point": [
+            12.85,
+            4212.71
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36866,
+          "point": [
+            7.38,
+            4211.67
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36867,
+          "point": [
+            0.68,
+            4241.99
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36868,
+          "point": [
+            -3.76,
+            4262.11
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36869,
+          "point": [
+            11,
+            4265.48
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36861,
+          "point": [
+            21.51,
+            4214.37
+          ],
+          "ways": [
+            {
+              "id": 605678097,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 8142,
+          "point": [
+            -2350.89,
+            -2190.58
+          ],
+          "ways": [
+            {
+              "id": 609778212,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36437,
+          "point": [
+            -42.64,
+            -326.99
+          ],
+          "ways": [
+            {
+              "id": 625161150,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41031,
+          "point": [
+            -531.32,
+            -268.67
+          ],
+          "ways": [
+            {
+              "id": 625162941,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41032,
+          "point": [
+            -534.13,
+            -249.94
+          ],
+          "ways": [
+            {
+              "id": 625162941,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41030,
+          "point": [
+            -532.73,
+            -259.33
+          ],
+          "ways": [
+            {
+              "id": 625162941,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41919,
+          "point": [
+            458.48,
+            -435.17
+          ],
+          "ways": [
+            {
+              "id": 627882839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41917,
+          "point": [
+            438.2,
+            -452.5
+          ],
+          "ways": [
+            {
+              "id": 627882838,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 627882839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41916,
+          "point": [
+            431.35,
+            -413.42
+          ],
+          "ways": [
+            {
+              "id": 627882838,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41918,
+          "point": [
+            441.47,
+            -471.13
+          ],
+          "ways": [
+            {
+              "id": 627882838,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41921,
+          "point": [
+            457.57,
+            -448.04
+          ],
+          "ways": [
+            {
+              "id": 627882839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41915,
+          "point": [
+            453.46,
+            -409.43
+          ],
+          "ways": [
+            {
+              "id": 627882839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41920,
+          "point": [
+            460.13,
+            -443.65
+          ],
+          "ways": [
+            {
+              "id": 627882839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41944,
+          "point": [
+            1176.01,
+            -44.87
+          ],
+          "ways": [
+            {
+              "id": 627887072,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41943,
+          "point": [
+            1162.14,
+            -42.93
+          ],
+          "ways": [
+            {
+              "id": 627887072,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41945,
+          "point": [
+            1231.97,
+            -52.71
+          ],
+          "ways": [
+            {
+              "id": 627887072,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41946,
+          "point": [
+            1240.75,
+            -58.38
+          ],
+          "ways": [
+            {
+              "id": 627887072,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 41947,
+          "point": [
+            1262.46,
+            -72.39
+          ],
+          "ways": [
+            {
+              "id": 627887072,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44624,
+          "point": [
+            2097.95,
+            765.4
+          ],
+          "ways": [
+            {
+              "id": 632639638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44623,
+          "point": [
+            2055.47,
+            757.44
+          ],
+          "ways": [
+            {
+              "id": 632639638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44625,
+          "point": [
+            2099.33,
+            767.41
+          ],
+          "ways": [
+            {
+              "id": 632639638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44626,
+          "point": [
+            2101.92,
+            771.15
+          ],
+          "ways": [
+            {
+              "id": 632639638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44627,
+          "point": [
+            2094.95,
+            806.55
+          ],
+          "ways": [
+            {
+              "id": 632639638,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44631,
+          "point": [
+            2273.23,
+            831.4
+          ],
+          "ways": [
+            {
+              "id": 632639643,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44630,
+          "point": [
+            2263.47,
+            891.98
+          ],
+          "ways": [
+            {
+              "id": 632639643,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44632,
+          "point": [
+            2286.49,
+            833.96
+          ],
+          "ways": [
+            {
+              "id": 632639643,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44633,
+          "point": [
+            2300.99,
+            836.76
+          ],
+          "ways": [
+            {
+              "id": 632639643,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44634,
+          "point": [
+            2305.76,
+            808.6
+          ],
+          "ways": [
+            {
+              "id": 632639643,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44749,
+          "point": [
+            1815.16,
+            654.71
+          ],
+          "ways": [
+            {
+              "id": 632645066,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44743,
+          "point": [
+            1786.85,
+            649.08
+          ],
+          "ways": [
+            {
+              "id": 632645066,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44752,
+          "point": [
+            1639.33,
+            614.67
+          ],
+          "ways": [
+            {
+              "id": 632645169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44757,
+          "point": [
+            1728.8,
+            632.45
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44751,
+          "point": [
+            1704.78,
+            628.94
+          ],
+          "ways": [
+            {
+              "id": 632645169,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44753,
+          "point": [
+            1646.35,
+            583.43
+          ],
+          "ways": [
+            {
+              "id": 632645169,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 632645170,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44754,
+          "point": [
+            1651.4,
+            560.98
+          ],
+          "ways": [
+            {
+              "id": 632645169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44756,
+          "point": [
+            1681.11,
+            591.38
+          ],
+          "ways": [
+            {
+              "id": 632645170,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44755,
+          "point": [
+            1676.2,
+            565.81
+          ],
+          "ways": [
+            {
+              "id": 632645169,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44758,
+          "point": [
+            1739.29,
+            576.92
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44759,
+          "point": [
+            1738.96,
+            544.01
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 632645172,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44760,
+          "point": [
+            1734.4,
+            510.99
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44762,
+          "point": [
+            1700.78,
+            537.59
+          ],
+          "ways": [
+            {
+              "id": 632645172,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44761,
+          "point": [
+            1704.77,
+            516.9
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 44763,
+          "point": [
+            1698.05,
+            551.76
+          ],
+          "ways": [
+            {
+              "id": 632645171,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 58624,
+          "point": [
+            59.95,
+            3791.59
+          ],
+          "ways": [
+            {
+              "id": 643911109,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47323,
+          "point": [
+            1936.36,
+            1643.79
+          ],
+          "ways": [
+            {
+              "id": 634022527,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47322,
+          "point": [
+            1934.77,
+            1622.18
+          ],
+          "ways": [
+            {
+              "id": 634022527,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47324,
+          "point": [
+            1937.2,
+            1656.73
+          ],
+          "ways": [
+            {
+              "id": 634022527,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47325,
+          "point": [
+            1937.36,
+            1659.24
+          ],
+          "ways": [
+            {
+              "id": 634022527,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47750,
+          "point": [
+            1968.15,
+            1742.41
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47751,
+          "point": [
+            1925.68,
+            1752.31
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47749,
+          "point": [
+            1931.29,
+            1750.22
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47752,
+          "point": [
+            1929.49,
+            1770.46
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 634370293,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47753,
+          "point": [
+            1933.03,
+            1787.37
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 634370294,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47763,
+          "point": [
+            1976.37,
+            1760.53
+          ],
+          "ways": [
+            {
+              "id": 634370293,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47754,
+          "point": [
+            1936.55,
+            1804.22
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 634370292,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47764,
+          "point": [
+            1982.48,
+            1776.82
+          ],
+          "ways": [
+            {
+              "id": 634370294,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47755,
+          "point": [
+            1940.44,
+            1822.75
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 634370290,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47762,
+          "point": [
+            1990.38,
+            1793.23
+          ],
+          "ways": [
+            {
+              "id": 634370292,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47756,
+          "point": [
+            1944,
+            1839.76
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 634370291,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47760,
+          "point": [
+            1996.86,
+            1811.14
+          ],
+          "ways": [
+            {
+              "id": 634370290,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47757,
+          "point": [
+            1944.13,
+            1840.38
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47761,
+          "point": [
+            2003.57,
+            1828.09
+          ],
+          "ways": [
+            {
+              "id": 634370291,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47758,
+          "point": [
+            1985.02,
+            1849.49
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 47759,
+          "point": [
+            2012.07,
+            1848.93
+          ],
+          "ways": [
+            {
+              "id": 634370287,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 33984,
+          "point": [
+            435.6,
+            3647.05
+          ],
+          "ways": [
+            {
+              "id": 636610599,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 46013,
+          "point": [
+            75.95,
+            3782
+          ],
+          "ways": [
+            {
+              "id": 643911109,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 378,
+          "point": [
+            -293.3,
+            3908.74
+          ],
+          "ways": [
+            {
+              "id": 643914585,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 11787,
+          "point": [
+            -1334.97,
+            319.62
+          ],
+          "ways": [
+            {
+              "id": 762222601,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 82707,
+          "point": [
+            -1335.4,
+            299.85
+          ],
+          "ways": [
+            {
+              "id": 762222601,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 61203,
+          "point": [
+            -1930.19,
+            195.09
+          ],
+          "ways": [
+            {
+              "id": 645459725,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1203152782,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 61200,
+          "point": [
+            -1929.13,
+            191.68
+          ],
+          "ways": [
+            {
+              "id": 645459725,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 61204,
+          "point": [
+            -1938.36,
+            221.34
+          ],
+          "ways": [
+            {
+              "id": 645459725,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85310,
+          "point": [
+            -1925,
+            196.62
+          ],
+          "ways": [
+            {
+              "id": 1203152782,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 61205,
+          "point": [
+            -1939.36,
+            224.98
+          ],
+          "ways": [
+            {
+              "id": 645459725,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1203152781,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 61206,
+          "point": [
+            -1940.82,
+            230.26
+          ],
+          "ways": [
+            {
+              "id": 645459725,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85309,
+          "point": [
+            -1944.63,
+            223.26
+          ],
+          "ways": [
+            {
+              "id": 1203152781,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 18428,
+          "point": [
+            -2105.04,
+            -1367.47
+          ],
+          "ways": [
+            {
+              "id": 679072593,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": true,
+          "return": false
+        },
+        {
+          "node": 67723,
+          "point": [
+            -1990.75,
+            -1392.09
+          ],
+          "ways": [
+            {
+              "id": 679072602,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 36262,
+          "point": [
+            -1968.44,
+            -1388.61
+          ],
+          "ways": [
+            {
+              "id": 679072602,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 68812,
+          "point": [
+            -207.83,
+            1527.37
+          ],
+          "ways": [
+            {
+              "id": 679119839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 68811,
+          "point": [
+            -204.52,
+            1550.1
+          ],
+          "ways": [
+            {
+              "id": 679119839,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87866,
+          "point": [
+            1919.13,
+            -587.24
+          ],
+          "ways": [
+            {
+              "id": 1334530626,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1334530628,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69032,
+          "point": [
+            1870.94,
+            -613.97
+          ],
+          "ways": [
+            {
+              "id": 679126129,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69024,
+          "point": [
+            1900.39,
+            -613.14
+          ],
+          "ways": [
+            {
+              "id": 679126129,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69785,
+          "point": [
+            -4719.18,
+            486.89
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69786,
+          "point": [
+            -4718.75,
+            522.74
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69787,
+          "point": [
+            -4698.52,
+            521.19
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69788,
+          "point": [
+            -4695.65,
+            517.88
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69789,
+          "point": [
+            -4698.33,
+            484.75
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69790,
+          "point": [
+            -4707.75,
+            482.34
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 69784,
+          "point": [
+            -4716.12,
+            481.4
+          ],
+          "ways": [
+            {
+              "id": 679258309,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74732,
+          "point": [
+            2235.85,
+            -2999.66
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74735,
+          "point": [
+            2250.69,
+            -2990.95
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74729,
+          "point": [
+            2245.4,
+            -3036.76
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74733,
+          "point": [
+            2236.98,
+            -2995.71
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74734,
+          "point": [
+            2240.61,
+            -2992.67
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 74730,
+          "point": [
+            2258.39,
+            -3032.58
+          ],
+          "ways": [
+            {
+              "id": 721052660,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87753,
+          "point": [
+            809.86,
+            -210.89
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87754,
+          "point": [
+            857.13,
+            -209.16
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 82045,
+          "point": [
+            235.67,
+            435.12
+          ],
+          "ways": [
+            {
+              "id": 732129519,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 1909,
+          "point": [
+            244.32,
+            481.31
+          ],
+          "ways": [
+            {
+              "id": 732129519,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85030,
+          "point": [
+            -4865.42,
+            -396.16
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85031,
+          "point": [
+            -4865.21,
+            -389.25
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85032,
+          "point": [
+            -4860.56,
+            -378.31
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85033,
+          "point": [
+            -4805.54,
+            -376.91
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85034,
+          "point": [
+            -4802.99,
+            -389.63
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85035,
+          "point": [
+            -4803.51,
+            -398.74
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85036,
+          "point": [
+            -4804.85,
+            -404.18
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85037,
+          "point": [
+            -4808.72,
+            -407.23
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85038,
+          "point": [
+            -4821.95,
+            -411.25
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85039,
+          "point": [
+            -4860.59,
+            -415.91
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85040,
+          "point": [
+            -4863.65,
+            -412.06
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85041,
+          "point": [
+            -4864.36,
+            -409.28
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85029,
+          "point": [
+            -4865.62,
+            -402.85
+          ],
+          "ways": [
+            {
+              "id": 1110144717,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85266,
+          "point": [
+            -196.75,
+            3230.75
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85274,
+          "point": [
+            -227.44,
+            3140.78
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85265,
+          "point": [
+            -209.74,
+            3140.65
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85267,
+          "point": [
+            -198.42,
+            3236.78
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85268,
+          "point": [
+            -202.76,
+            3242.92
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85269,
+          "point": [
+            -263.14,
+            3252.79
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85270,
+          "point": [
+            -269.78,
+            3251.86
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85271,
+          "point": [
+            -274.02,
+            3246.46
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85272,
+          "point": [
+            -283.63,
+            3157.95
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85273,
+          "point": [
+            -280.09,
+            3153.68
+          ],
+          "ways": [
+            {
+              "id": 1177102841,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 85311,
+          "point": [
+            -1928.96,
+            208.39
+          ],
+          "ways": [
+            {
+              "id": 1203152782,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86557,
+          "point": [
+            -405.05,
+            3152.14
+          ],
+          "ways": [
+            {
+              "id": 1248148073,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86558,
+          "point": [
+            -317.67,
+            3144.85
+          ],
+          "ways": [
+            {
+              "id": 1248148074,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86495,
+          "point": [
+            -205.22,
+            6673.68
+          ],
+          "ways": [
+            {
+              "id": 1247963831,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86494,
+          "point": [
+            -244.08,
+            6671.73
+          ],
+          "ways": [
+            {
+              "id": 1247963831,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86458,
+          "point": [
+            -400.89,
+            3184.75
+          ],
+          "ways": [
+            {
+              "id": 1248148073,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 86472,
+          "point": [
+            -314.38,
+            3174.37
+          ],
+          "ways": [
+            {
+              "id": 1248148074,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 81708,
+          "point": [
+            854.77,
+            -209.5
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87755,
+          "point": [
+            862.54,
+            -208.1
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87756,
+          "point": [
+            867.03,
+            -205.91
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87757,
+          "point": [
+            871.02,
+            -201.54
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 22501,
+          "point": [
+            877.67,
+            -182.41
+          ],
+          "ways": [
+            {
+              "id": 1321777090,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87760,
+          "point": [
+            858.71,
+            -221.81
+          ],
+          "ways": [
+            {
+              "id": 1321777091,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87761,
+          "point": [
+            846.85,
+            -237.41
+          ],
+          "ways": [
+            {
+              "id": 1321777091,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87762,
+          "point": [
+            822.84,
+            -269.49
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87763,
+          "point": [
+            814.58,
+            -276.31
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87764,
+          "point": [
+            806.8,
+            -279.36
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87765,
+          "point": [
+            756.91,
+            -280.56
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87766,
+          "point": [
+            747.11,
+            -277.79
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87767,
+          "point": [
+            739.4,
+            -272.13
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87768,
+          "point": [
+            734.88,
+            -264.1
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87769,
+          "point": [
+            733.47,
+            -256.12
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87770,
+          "point": [
+            730.8,
+            -146.06
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87771,
+          "point": [
+            737.35,
+            -131.08
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87772,
+          "point": [
+            748.11,
+            -120.22
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87773,
+          "point": [
+            755.73,
+            -107.35
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87774,
+          "point": [
+            756.68,
+            -102.98
+          ],
+          "ways": [
+            {
+              "id": 1321777092,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 69020,
+          "point": [
+            1906.56,
+            -587.32
+          ],
+          "ways": [
+            {
+              "id": 1334530626,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87867,
+          "point": [
+            1926.17,
+            -587.2
+          ],
+          "ways": [
+            {
+              "id": 1334530626,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87881,
+          "point": [
+            1919.35,
+            -594.23
+          ],
+          "ways": [
+            {
+              "id": 1334530628,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87880,
+          "point": [
+            1920.73,
+            -637.88
+          ],
+          "ways": [
+            {
+              "id": 1334530628,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 87984,
+          "point": [
+            1400.66,
+            -2134.66
+          ],
+          "ways": [
+            {
+              "id": 1334531318,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 87985,
+          "point": [
+            1400.72,
+            -2144.4
+          ],
+          "ways": [
+            {
+              "id": 1334531318,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": true
+        },
+        {
+          "node": 9053,
+          "point": [
+            -3641.29,
+            -192.77
+          ],
+          "ways": [
+            {
+              "id": 1336968440,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89098,
+          "point": [
+            -5758.9,
+            1281.41
+          ],
+          "ways": [
+            {
+              "id": 1336977179,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89097,
+          "point": [
+            -5769.07,
+            1272.8
+          ],
+          "ways": [
+            {
+              "id": 1336977179,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89099,
+          "point": [
+            -5747.75,
+            1290.85
+          ],
+          "ways": [
+            {
+              "id": 1336977179,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 34161,
+          "point": [
+            -2199.13,
+            1561.23
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417132,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 34157,
+          "point": [
+            -2163.6,
+            1577.88
+          ],
+          "ways": [
+            {
+              "id": 1453417123,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417128,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89767,
+          "point": [
+            -2160.62,
+            1527.6
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417121,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 34154,
+          "point": [
+            -2134.35,
+            1581.81
+          ],
+          "ways": [
+            {
+              "id": 1453417122,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417130,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89768,
+          "point": [
+            -2146.47,
+            1515.23
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89769,
+          "point": [
+            -2082.86,
+            1584.63
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 34151,
+          "point": [
+            -2095.25,
+            1599.59
+          ],
+          "ways": [
+            {
+              "id": 1453417120,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417128,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 34149,
+          "point": [
+            -2060.73,
+            1621.53
+          ],
+          "ways": [
+            {
+              "id": 1453417124,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89772,
+          "point": [
+            -2099.82,
+            1660.02
+          ],
+          "ways": [
+            {
+              "id": 1453417124,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89773,
+          "point": [
+            -2113.2,
+            1655.73
+          ],
+          "ways": [
+            {
+              "id": 1453417124,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89774,
+          "point": [
+            -2125.32,
+            1645.81
+          ],
+          "ways": [
+            {
+              "id": 1453417124,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89775,
+          "point": [
+            -2133.82,
+            1636.71
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417129,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89776,
+          "point": [
+            -2190.59,
+            1575.97
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89783,
+          "point": [
+            -2146.54,
+            1647.94
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417126,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89777,
+          "point": [
+            -2204.25,
+            1588.28
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417126,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89778,
+          "point": [
+            -2210.28,
+            1593.72
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89786,
+          "point": [
+            -2215.14,
+            1576.78
+          ],
+          "ways": [
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417132,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89779,
+          "point": [
+            -2210.81,
+            1610.33
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417127,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89780,
+          "point": [
+            -2224.14,
+            1624.95
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89782,
+          "point": [
+            -2160.76,
+            1660.47
+          ],
+          "ways": [
+            {
+              "id": 1453417127,
+              "name": "",
+              "type": "service"
+            },
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89781,
+          "point": [
+            -2175.58,
+            1673.54
+          ],
+          "ways": [
+            {
+              "id": 1453417125,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89787,
+          "point": [
+            -2246.1,
+            1544.71
+          ],
+          "ways": [
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89788,
+          "point": [
+            -2246.72,
+            1535.82
+          ],
+          "ways": [
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 89789,
+          "point": [
+            -2238.68,
+            1528.28
+          ],
+          "ways": [
+            {
+              "id": 1453417131,
+              "name": "",
+              "type": "service"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90919,
+          "point": [
+            2808.99,
+            -821.94
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90922,
+          "point": [
+            2811.92,
+            -844.21
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486533127,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90900,
+          "point": [
+            2878.68,
+            -734.47
+          ],
+          "ways": [
+            {
+              "id": 1486533117,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486533119,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90898,
+          "point": [
+            2833.66,
+            -740.38
+          ],
+          "ways": [
+            {
+              "id": 1486533117,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90899,
+          "point": [
+            2859.68,
+            -737.02
+          ],
+          "ways": [
+            {
+              "id": 1486533117,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486533118,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90876,
+          "point": [
+            2854.4,
+            -737.73
+          ],
+          "ways": [
+            {
+              "id": 1486533117,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90901,
+          "point": [
+            2864.82,
+            -739.33
+          ],
+          "ways": [
+            {
+              "id": 1486533118,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90779,
+          "point": [
+            2931.64,
+            -727.38
+          ],
+          "ways": [
+            {
+              "id": 1486533117,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90904,
+          "point": [
+            2872.12,
+            -738.92
+          ],
+          "ways": [
+            {
+              "id": 1486533119,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90902,
+          "point": [
+            2868.98,
+            -742.32
+          ],
+          "ways": [
+            {
+              "id": 1486533118,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486533119,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90903,
+          "point": [
+            2870.47,
+            -753.71
+          ],
+          "ways": [
+            {
+              "id": 1486533118,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90926,
+          "point": [
+            2810.19,
+            -813.16
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90927,
+          "point": [
+            2808.59,
+            -816.34
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90752,
+          "point": [
+            2811.17,
+            -837.72
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90923,
+          "point": [
+            2814.17,
+            -843.9
+          ],
+          "ways": [
+            {
+              "id": 1486533127,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90924,
+          "point": [
+            2822.7,
+            -842.65
+          ],
+          "ways": [
+            {
+              "id": 1486533127,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486533155,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90925,
+          "point": [
+            2871.16,
+            -835.41
+          ],
+          "ways": [
+            {
+              "id": 1486533127,
+              "name": "",
+              "type": "track"
+            },
+            {
+              "id": 1486876887,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90964,
+          "point": [
+            2823.08,
+            -846.67
+          ],
+          "ways": [
+            {
+              "id": 1486533155,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 91022,
+          "point": [
+            2889.21,
+            -833.01
+          ],
+          "ways": [
+            {
+              "id": 1486876887,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        },
+        {
+          "node": 90914,
+          "point": [
+            2811.91,
+            -809.53
+          ],
+          "ways": [
+            {
+              "id": 1486533128,
+              "name": "",
+              "type": "track"
+            }
+          ],
+          "outbound": false,
+          "return": false
+        }
+      ]
+    }
+  }
+]

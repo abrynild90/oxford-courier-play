@@ -1,0 +1,52 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/qa.html",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+  "mode": "campus",
+  "steps": [
+    "Driving campus"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "resourceCount": 284,
+  "buffer": [
+    1836,
+    1090
+  ],
+  "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "drive": {
+    "duration": 146.13330000019073,
+    "meters": 1635.5672437350074,
+    "stationaryQueuePasses": 0,
+    "finish": [
+      -1336.2724583243398,
+      148.12405219674952
+    ],
+    "error": 3.1103389812829136
+  },
+  "performance": {
+    "frames": 17531,
+    "meanFPS": 119.96540157034747,
+    "p95MS": 9.099999999991269,
+    "p99MS": 9.89999999999418,
+    "slowest": {
+      "ms": 25,
+      "p": [
+        1.1271555002081284,
+        -6.023159339175702
+      ],
+      "tile": "0_-1"
+    }
+  },
+  "collisions": 0,
+  "collisionLog": [],
+  "tileFailures": [],
+  "distance": 1633.2244772583122,
+  "walked": 0,
+  "bufferEnd": [
+    1836,
+    1090
+  ],
+  "browserVersion": "158.0.8127.38",
+  "networkFailures": [],
+  "consoleErrors": []
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/qa.html",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+  "mode": "campus",
+  "steps": [
+    "Driving campus"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "resourceCount": 283,
+  "buffer": [
+    1836,
+    1090
+  ],
+  "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "drive": {
+    "duration": 152.147,
+    "meters": 1635.5672437350072,
+    "stationaryQueuePasses": 0,
+    "finish": [
+      -1336.2363096230042,
+      148.1686961395221
+    ],
+    "error": 3.1622964738673414
+  },
+  "performance": {
+    "frames": 9130,
+    "meanFPS": 60.00657246138679,
+    "p95MS": 18,
+    "p99MS": 19,
+    "slowest": {
+      "ms": 33,
+      "p": [
+        -515.4308300645598,
+        220.6844593038745
+      ],
+      "tile": "-2_0"
+    }
+  },
+  "collisions": 1,
+  "collisionLog": [
+    {
+      "position": [
+        -251.37142261869425,
+        -51.401510465452226
+      ],
+      "street": "South 9th Street",
+      "speed": 5.1772612380449345,
+      "kind": "traffic"
+    }
+  ],
+  "tileFailures": [],
+  "distance": 1632.944373297344,
+  "walked": 0,
+  "bufferEnd": [
+    1836,
+    1090
+  ]
+}

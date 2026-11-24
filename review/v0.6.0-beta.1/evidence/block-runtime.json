@@ -1,0 +1,304 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/",
+  "errors": [],
+  "failed": [],
+  "blocks": [
+    {
+      "tile": "-1_-1",
+      "registered": 32,
+      "visible": true,
+      "meshes": 15,
+      "triangles": 82081,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-1_0",
+      "registered": 47,
+      "visible": true,
+      "meshes": 14,
+      "triangles": 80255,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-1_3",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 73628,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-1_4",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 19639,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-2_-1",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 1548,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-2_0",
+      "registered": 6,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 66052,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-2_1",
+      "registered": 2,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 25108,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_-1",
+      "registered": 27,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 273741,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_-2",
+      "registered": 10,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 31009,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_-6",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 1718,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_0",
+      "registered": 21,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 214622,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_1",
+      "registered": 7,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 24130,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-3_2",
+      "registered": 10,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 28003,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_-1",
+      "registered": 39,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 379332,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_-2",
+      "registered": 5,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 14425,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_-4",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 1780,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_0",
+      "registered": 34,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 338552,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_1",
+      "registered": 17,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 88436,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-4_2",
+      "registered": 11,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 96845,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-5_-1",
+      "registered": 16,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 75232,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-5_-2",
+      "registered": 3,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 5610,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-5_0",
+      "registered": 15,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 122603,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-5_1",
+      "registered": 19,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 97390,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-5_2",
+      "registered": 18,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 63847,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-6_-1",
+      "registered": 2,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 3689,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-6_-2",
+      "registered": 1,
+      "visible": true,
+      "meshes": 9,
+      "triangles": 21442,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-6_0",
+      "registered": 35,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 159404,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-6_1",
+      "registered": 27,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 100791,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-6_2",
+      "registered": 7,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 9614,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-7_1",
+      "registered": 6,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 8536,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "-8_1",
+      "registered": 4,
+      "visible": true,
+      "meshes": 10,
+      "triangles": 7341,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "0_-1",
+      "registered": 19,
+      "visible": true,
+      "meshes": 11,
+      "triangles": 69804,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    },
+    {
+      "tile": "0_0",
+      "registered": 25,
+      "visible": true,
+      "meshes": 13,
+      "triangles": 106309,
+      "sharedMaterials": true,
+      "correspondingRows": true
+    }
+  ]
+}

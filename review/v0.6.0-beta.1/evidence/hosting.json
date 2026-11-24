@@ -1,0 +1,17 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/",
+  "status": 200,
+  "verified": {
+    "game.js": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+    "tile-worker.js": "e8afcb5a1f1344c0141cb52f3c79e8ad9a7d5ff3068ccd2258e40ac4a1be5ab2",
+    "index.html": "aca134cec36826b33ee58e8c9439ac4d08e14b9ad18711b4931ffe6bc35c3ddc",
+    "data/record-exteriors.json": "613f15f0b7ed754fb4e408d16b909ec9808a42b52b108ae064e05920189123b8",
+    "data/blender/blocks.json": "53c3a49185ca245b4990a21689ad0411dca3891cd3a5cadf1cf485320f7a2ecb",
+    "data/blender/stadium.glb": "2acc0c169c47231b2b09f35ea3549e515ccecac0c559e49bd1d9f175a8f3a0ea",
+    "data/blender/blocks/-1_0.glb": "d025d015f1097b69e24e01efd93235ceeb9229cbe21070553c61865a218430b8"
+  },
+  "source": "e7528afcdfe9b87addb034a68e3eb6854c68e6db",
+  "sourceRepository": "https://github.com/abrynild90/oxford-courier",
+  "distributionCommit": "3cd885912eb35180552b616e8e9487b76220e40b",
+  "totalRuntimeFiles": 3366
+}

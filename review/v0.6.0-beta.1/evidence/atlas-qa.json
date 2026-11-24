@@ -1,0 +1,15 @@
+{
+  "regions": [
+    {
+      "area": "Square",
+      "options": 121,
+      "coverage": "121 of 121 inventory entries have editable models."
+    },
+    {
+      "area": "Campus",
+      "options": 353,
+      "coverage": "352 of 353 inventory entries have editable models. All 347 distinct source-map features have an editable model."
+    }
+  ],
+  "errors": []
+}

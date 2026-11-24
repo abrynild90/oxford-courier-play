@@ -1,0 +1,430 @@
+{
+  "version": "0.6.0-beta.1",
+  "commit": "e7528afcdfe9b87addb034a68e3eb6854c68e6db",
+  "summary": "The tagged beta covers 121/121 Square and 352/353 Campus inventory entries, including all 347 unique Campus source features; recognition improved from 8/24 to 11/24. Two of three initial delivery routes failed and both retries completed. Mechanical park-and-walk passed 12/12; fixed views clearly showed doors in 8/12. Native performance has 6/6 route/run records present (6/6 exact-tag matches); hosted frame timing has 4/4 matching route reports so far.",
+  "method": "Evidence is limited to allowlisted reports for v0.6.0-beta.1. Missing reports are labeled not measured. Failed initial runs remain in the evidence packet beside retries. The 0.4.0 native baseline is tied to tag commit f3afe109fbde2e03f230f3fc1cde7df97128a206; local sysctl reports Apple M4 Pro (Mac16,7, arm64=1). The native baseline and candidate routes use a 1836 \u00d7 1090 buffer. Accelerated city crossings are descriptive and separate from normal-speed native performance qualification. Source and CI links point to a private repository and require access.",
+  "links": [
+    [
+      "Play",
+      "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/"
+    ],
+    [
+      "Mac build",
+      "https://github.com/abrynild90/oxford-courier-play/releases/download/v0.6.0-beta.1/Oxford.Courier.for.Mac.zip"
+    ],
+    [
+      "Web ZIP",
+      "https://github.com/abrynild90/oxford-courier-play/releases/download/v0.6.0-beta.1/Oxford.Courier.Web.zip"
+    ],
+    [
+      "Public release",
+      "https://github.com/abrynild90/oxford-courier-play/releases/tag/v0.6.0-beta.1"
+    ],
+    [
+      "Street comparisons ZIP",
+      "https://github.com/abrynild90/oxford-courier-play/releases/download/v0.6.0-beta.1/Oxford.Street.Comparisons.zip"
+    ],
+    [
+      "Source (private repository; access required)",
+      "https://github.com/abrynild90/oxford-courier/tree/e7528afcdfe9b87addb034a68e3eb6854c68e6db"
+    ],
+    [
+      "Architecture atlas",
+      "https://abrynild90.github.io/oxford-courier-play/review/v0.6.0-beta.1/architecture/"
+    ],
+    [
+      "Paired gallery",
+      "https://abrynild90.github.io/oxford-courier-play/review/v0.6.0-beta.1/gallery/"
+    ],
+    [
+      "Drive and handoff film",
+      "https://github.com/abrynild90/oxford-courier-play/releases/download/v0.6.0-beta.1/Square.to.the.Grove.mp4"
+    ]
+  ],
+  "rows": [
+    [
+      "Architecture inventories",
+      "No measured 0.4.0 count available",
+      "All listed inventory entries modeled; report every gap",
+      "Square 121 of 121 inventory entries have editable models. Campus 352 of 353 inventory entries have editable models. All 347 distinct source-map features have an editable model. QA errors: 0.",
+      [
+        [
+          "atlas qa",
+          "evidence/atlas-qa.json"
+        ]
+      ]
+    ],
+    [
+      "Streaming architecture",
+      "No comparable measured baseline",
+      "Blocks load with registered models; no failed block requests",
+      "33/33 blocks visible, 470 registered parts, 2,692,516 triangles. 7/7 landmark checks had one detailed copy at all three tested frames; 0 failed block loads and 0 errors.",
+      [
+        [
+          "block runtime",
+          "evidence/block-runtime.json"
+        ],
+        [
+          "landmark runtime checks",
+          "evidence/landmark-runtime-checks.json"
+        ]
+      ]
+    ],
+    [
+      "Address-specific exteriors",
+      "No comparable 0.4.0 result",
+      "29 individually identified photographed elevations; 500 residential records reported separately",
+      "529 distinct footprint IDs have geometry: 500 residential records and 29 photographed elevation records. 0 recorded generation failures. City Grocery / Bank of Oxford join remains disputed; treat the named attribution as unresolved.",
+      [
+        [
+          "generated geometry",
+          "evidence/generated-geometry.json"
+        ]
+      ]
+    ],
+    [
+      "Map and routing coverage",
+      "No matching coverage audit available",
+      "780 tiles; 0.0 m seam mismatch; zero failed sampled round trips",
+      "780 tiles cover municipality and campus; 97,760 seam samples, maximum mismatch 0 m. 3,985 source ways checked; 602,131.55 m source vs 602,131.55 m exported. 120 round trips: 0 failed. Directed-road exceptions: 369 (mostly service/access paths; not all represent public through-routes).",
+      [
+        [
+          "map and routing",
+          "evidence/map-and-routing.json"
+        ]
+      ]
+    ],
+    [
+      "Unlabeled place recognition",
+      "0.4.0: 8/24",
+      "Increase recognition score",
+      "0.4.0 baseline 8/24; beta 11/24; change +3. Two independent reviewers, one view per property per reviewer; 24 observations per build. The measured gain is three correct answers.",
+      [
+        [
+          "score",
+          "evidence/score.json"
+        ]
+      ]
+    ],
+    [
+      "Park and walk to destinations",
+      "No comparable fixed 12-site baseline",
+      "12/12 mechanical arrival passes; report fixed-view door visibility separately",
+      "Mechanical walks passed 12/12. Fixed approach views show a clearly discernible door in 8/12; 4 are not discernible. Unclear fixed views: Lamar Hall, Farley Hall, Rebel Bookstore and 1405 Jackson Avenue. 1405 has a door in an alternate view; Farley\u2019s alternate doorway is not confirmed as a separate modeled/collidable door.",
+      [
+        [
+          "mechanical report",
+          "evidence/mechanical-report.json"
+        ],
+        [
+          "visual review",
+          "evidence/visual-review.json"
+        ]
+      ]
+    ],
+    [
+      "Driving and walking visuals",
+      "32 baseline images",
+      "Review matched day/dusk views and report every observed fault",
+      "8 stations captured at 700 ms interval; renderer match True. Reviewer marked True and logged 10 visual defects: Square facade/porch penetration; bridge underside view; South Lamar and Woodbine near-traffic overlaps; streetlight outline artifact; Avent grass/facade and lawn-route errors; Mark tree canopy in start frames; Lake pier and open-ground driving. Full attempt notes remain in evidence.",
+      [
+        [
+          "capture report",
+          "evidence/capture-report.json"
+        ],
+        [
+          "motion review",
+          "evidence/motion-review.json"
+        ],
+        [
+          "car footprint check",
+          "evidence/car-footprint-check.json"
+        ],
+        [
+          "visual qa report",
+          "evidence/visual-qa-report.json"
+        ]
+      ]
+    ],
+    [
+      "Three-drop delivery shifts",
+      "No comparable run count",
+      "3/3 shifts complete; no driver stop; collisions tracked separately",
+      "Initial runs: 1/3 complete (2 failed). Retried runs: 2/2 complete. Completed score totals: 630, 630, 630. Collisions/contacts: one: 2 contacts (pedestrian 1, traffic 1) at University Avenue; two: 2 contacts (static obstacle 1, traffic 1); three: 3 contacts (static obstacle 1, traffic 2); park-grove-square: 2 contacts (pedestrian 1, traffic 1) at West Jackson Avenue; square-park-grove: 2 contacts (traffic 2). Both failed initial runs are retained; the retries completed with contacts.",
+      [
+        [
+          "delivery attempts",
+          "evidence/delivery-attempts.json"
+        ]
+      ]
+    ],
+    [
+      "City driving crossings",
+      "No comparable route baseline",
+      "Both directional city routes complete; collisions reported",
+      "east-west 12.22 km, 2 contacts, 1 legs, 0 errors; accelerated 3\u00d7 sample 111.4 FPS, p99 22.6 ms, max stream 74.0 ms; west-east 12.06 km, 3 contacts, 1 legs, 0 errors; accelerated 3\u00d7 sample 124.6 FPS, p99 16.0 ms, max stream 45.9 ms",
+      [
+        [
+          "city crossings",
+          "evidence/city-crossings.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted browser routes",
+      "No same-tag hosted baseline",
+      "Chrome and Safari handoff/shift; Chrome Price Street crossing and retry; browser performance reported below",
+      "Chrome 158.0.8127.38 (macOS user-agent), bundle a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3: 3/3 deliveries accepted, 5 contacts (handoff 0, shift 2, cross 3), 0 errors/failed requests. Price Street: initial attempt stalled behind traffic; latest attempt 12.06 km, 3 contacts. Safari Version/27.0 (macOS user-agent), bundle a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3: 3/3 deliveries accepted, 1 contacts (handoff 0, shift 1), 0 errors/failed requests. Allowlisted retry result included: ['chrome-cross.json']. Safari did not run a city crossing. See the four route rows below for frame-time qualification.",
+      [
+        [
+          "hosted browser runs",
+          "evidence/hosted-browser-runs.json"
+        ]
+      ]
+    ],
+    [
+      "Offline start and streaming soak",
+      "0.5.1 baseline growth: geometry +0.13%, textures +0.00%",
+      "5 fresh offline starts; 30-minute soak; no missing/stale/duplicate tiles",
+      "Offline starts 5/5 passed. Soak: 38.7 wall min, 33.9 equivalent settled-snapshot min of 30 target; 8 samples, 0 missing/stale/duplicate/failed observations; retained geometry +0.00%, textures +0.00% (reported in v0.6 JSON). Compared with 0.5.1, comparable: true (recorded in the v0.6 report); prior equivalent interval 34.4 min.",
+      [
+        [
+          "offline launches",
+          "evidence/offline-launches.json"
+        ],
+        [
+          "soak",
+          "evidence/soak.json"
+        ],
+        [
+          "soak v0.5.1 baseline",
+          "evidence/soak-v0.5.1-baseline.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Campus \u00b7 run 1",
+      "119.69 FPS, p95 9.40 ms, stream 33.40 ms, RSS 2.04 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.93 FPS pass; 8.90 ms pass p95; 9.80 ms pass p99; 41.70 ms fail stream; 1.90 GiB pass RSS; 0 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 1 performance",
+          "evidence/run-1-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Residential \u00b7 run 1",
+      "119.91 FPS, p95 9.40 ms, stream 33.30 ms, RSS 1.99 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.95 FPS pass; 8.90 ms pass p95; 9.90 ms pass p99; 41.70 ms fail stream; 2.01 GiB pass RSS; 0 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 1 performance",
+          "evidence/run-1-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Campus \u00b7 run 2",
+      "119.69 FPS, p95 9.40 ms, stream 33.40 ms, RSS 2.04 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.95 FPS pass; 8.90 ms pass p95; 9.80 ms pass p99; 33.40 ms fail stream; 1.98 GiB pass RSS; 1 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 2 performance",
+          "evidence/run-2-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Residential \u00b7 run 2",
+      "119.91 FPS, p95 9.40 ms, stream 33.30 ms, RSS 1.99 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.96 FPS pass; 9.00 ms pass p95; 9.90 ms pass p99; 33.60 ms fail stream; 1.96 GiB pass RSS; 1 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 2 performance",
+          "evidence/run-2-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Campus \u00b7 run 3",
+      "119.69 FPS, p95 9.40 ms, stream 33.40 ms, RSS 2.04 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.94 FPS pass; 8.90 ms pass p95; 9.90 ms pass p99; 41.70 ms fail stream; 1.85 GiB pass RSS; 1 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 3 performance",
+          "evidence/run-3-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Native Mac \u00b7 Residential \u00b7 run 3",
+      "119.91 FPS, p95 9.40 ms, stream 33.30 ms, RSS 1.99 GiB, 1836\u00d71090; v0.4.0 f3afe109fbde",
+      "\u2265115 FPS; p95 \u226410 ms; p99 \u226416.7 ms; stream \u226425.1 ms; RSS \u22642.25 GiB",
+      "119.93 FPS pass; 8.90 ms pass p95; 9.90 ms pass p99; 49.90 ms fail stream; 1.84 GiB pass RSS; 0 contacts; 0 failures; tag match; buffer match; normal speed True.",
+      [
+        [
+          "native 0.4 baseline",
+          "evidence/native-0.4-baseline.json"
+        ],
+        [
+          "Native Mac model / sysctl",
+          "evidence/native-host-info.json"
+        ],
+        [
+          "run 3 performance",
+          "evidence/run-3-performance.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted Chrome \u00b7 Campus",
+      "0.5.1 119.55 FPS, p95 9.10 ms, p99 10.00 ms",
+      "\u226560 FPS; p95 \u226416.7 ms",
+      "119.97 FPS pass; 9.10 ms pass p95; 9.90 ms pass p99; 0 contacts; 0 errors/failed requests; browser 158.0.8127.38; bundle SHA match.",
+      [
+        [
+          "chrome performance v051",
+          "evidence/chrome-performance-v051.json"
+        ],
+        [
+          "chrome campus",
+          "evidence/chrome-campus.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted Chrome \u00b7 Residential",
+      "0.5.1 119.84 FPS, p95 9.20 ms, p99 10.00 ms",
+      "\u226560 FPS; p95 \u226416.7 ms",
+      "119.97 FPS pass; 9.20 ms pass p95; 10.00 ms pass p99; 0 contacts; 0 errors/failed requests; browser 158.0.8127.38; bundle SHA match.",
+      [
+        [
+          "chrome performance v051",
+          "evidence/chrome-performance-v051.json"
+        ],
+        [
+          "chrome residential",
+          "evidence/chrome-residential.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted Safari \u00b7 Campus",
+      "0.5.1 60.07 FPS, p95 18.00 ms, p99 19.00 ms",
+      "\u226560 FPS; p95 \u226416.7 ms",
+      "60.01 FPS pass; 18.00 ms fail p95; 19.00 ms fail p99; 1 contacts; 0 errors/failed requests; browser Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15; bundle SHA match.",
+      [
+        [
+          "safari performance v051",
+          "evidence/safari-performance-v051.json"
+        ],
+        [
+          "safari campus",
+          "evidence/safari-campus.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted Safari \u00b7 Residential",
+      "0.5.1 59.73 FPS, p95 18.00 ms, p99 19.00 ms",
+      "\u226560 FPS; p95 \u226416.7 ms",
+      "60.00 FPS fail; 18.00 ms fail p95; 19.00 ms fail p99; 1 contacts; 0 errors/failed requests; browser Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15; bundle SHA match.",
+      [
+        [
+          "safari performance v051",
+          "evidence/safari-performance-v051.json"
+        ],
+        [
+          "safari residential",
+          "evidence/safari-residential.json"
+        ]
+      ]
+    ],
+    [
+      "Hosted cold start",
+      "0.5.1 n=5, median/worst 4.37/4.48 s, median/peak 9.37/9.85 MiB",
+      "\u22648 s and \u226412 MiB at 25 Mbps / 50 ms",
+      "n=5, median/worst 3.75/4.25 s (pass worst vs 8 s); median/peak 9.44/9.59 MiB (pass peak vs 12 MiB); Chrome 158.0.8127.38; tagged URL match.",
+      [
+        [
+          "cold start v051 baseline",
+          "evidence/cold-start-v051-baseline.json"
+        ],
+        [
+          "cold start",
+          "evidence/cold-start.json"
+        ]
+      ]
+    ],
+    [
+      "Tagged distribution integrity",
+      "0.4.0 release preserved",
+      "Tagged source, successful clean CI, and archive/runtime hashes match",
+      "Tag v0.6.0-beta.1, source commit e7528afcdfe9b87addb034a68e3eb6854c68e6db; 3,366 runtime files compared, hashes match: True. CI success on exact tag v0.6.0-beta.1 at e7528afcdfe9b87addb034a68e3eb6854c68e6db. Source repository and CI require repository access.",
+      [
+        [
+          "verified archives",
+          "evidence/verified-archives.json"
+        ],
+        [
+          "hosting",
+          "evidence/hosting.json"
+        ],
+        [
+          "clean ci",
+          "evidence/clean-ci.json"
+        ],
+        [
+          "Private CI (access required)",
+          "https://github.com/abrynild90/oxford-courier/actions/runs/45330949732"
+        ]
+      ]
+    ]
+  ]
+}

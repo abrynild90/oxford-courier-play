@@ -1,0 +1,319 @@
+{
+  "sourceRoot": "verification/overnight/v060",
+  "allowlist": [
+    "architecture/atlas-qa.json",
+    "architecture/barnard/runtime-check.json",
+    "architecture/block-runtime.json",
+    "architecture/courthouse/runtime-check.json",
+    "architecture/lyceum/runtime-check.json",
+    "architecture/pavilion/runtime-check.json",
+    "architecture/square-books/runtime-check.json",
+    "architecture/stadium/runtime-check.json",
+    "architecture/ventress/runtime-check.json",
+    "arrivals/mechanical-report.json",
+    "arrivals/visual-review.json",
+    "backend/network-connectivity.json",
+    "backend/offline-launches.json",
+    "backend/payload.json",
+    "backend/routing.json",
+    "backend/soak.json",
+    "buildings/generated-geometry.json",
+    "crossings/east-west/cross-city-accelerated-playtest.json",
+    "crossings/west-east/cross-city-accelerated-playtest.json",
+    "motion/car-footprint-check.json",
+    "motion/motion-visual-0.6.0-beta.1-final/capture-report.json",
+    "motion/motion-visual-0.6.0-beta.1-final/manual-review/motion-review.json",
+    "native/run-1-performance.json",
+    "native/run-2-performance.json",
+    "native/run-3-performance.json",
+    "recognition/score.json",
+    "release/clean-ci.json",
+    "release/hosting.json",
+    "release/public-assets.json",
+    "release/verified-archives.json",
+    "shift-retries/park-grove-square/shift-accelerated-playtest.json",
+    "shift-retries/square-park-grove/shift-accelerated-playtest.json",
+    "shifts/one/shift-accelerated-playtest.json",
+    "shifts/three/shift-accelerated-playtest.json",
+    "shifts/two/shift-accelerated-playtest.json",
+    "verification/overnight/0.4-performance.json",
+    "verification/overnight/v051/backend/soak.json",
+    "verification/overnight/v051/report/evidence/chrome-performance.json",
+    "verification/overnight/v051/report/evidence/safari-performance.json",
+    "verification/overnight/v051/web/cold-start.json",
+    "visual-qa-report.json",
+    "web/chrome-campus.json",
+    "web/chrome-cross.json",
+    "web/chrome-handoff.json",
+    "web/chrome-residential.json",
+    "web/chrome-shift.json",
+    "web/cold-start.json",
+    "web/retry-price-street/chrome-cross.json",
+    "web/safari-campus.json",
+    "web/safari-handoff.json",
+    "web/safari-residential.json",
+    "web/safari-shift.json"
+  ],
+  "copiedEvidence": [
+    {
+      "file": "evidence/atlas-qa.json",
+      "sha256": "8bd4a630e4020a6cddeaacc591a02951492f46d9f34d88707f86a935fb98d7d5",
+      "sources": [
+        "architecture/atlas-qa.json"
+      ]
+    },
+    {
+      "file": "evidence/block-runtime.json",
+      "sha256": "24299e317fd70a9fa2a71bbbb46a9988ce16f5f66702c6ade91293b2f7b3fc0a",
+      "sources": [
+        "architecture/block-runtime.json"
+      ]
+    },
+    {
+      "file": "evidence/capture-report.json",
+      "sha256": "a83d5989b0bd627844b0e4ecd99b8e97a73c10dccb76e4225391367691ed7002",
+      "sources": [
+        "motion/motion-visual-0.6.0-beta.1-final/capture-report.json"
+      ]
+    },
+    {
+      "file": "evidence/car-footprint-check.json",
+      "sha256": "084d7d150b4a5d6d314b491cd2e9463c52329f48bff442f3042d61b5e7a3d261",
+      "sources": [
+        "motion/car-footprint-check.json"
+      ]
+    },
+    {
+      "file": "evidence/chrome-campus.json",
+      "sha256": "2ede0a885546364f972c0bb2dba36adc5a7c5c7aab2b5a843600e6635c91624b",
+      "sources": [
+        "web/chrome-campus.json"
+      ]
+    },
+    {
+      "file": "evidence/chrome-performance-v051.json",
+      "sha256": "9acfdb50ce0c33e2327f0b57e84f35df0b2f1deea7441700e8f4a051b3476fda",
+      "sources": [
+        "verification/overnight/v051/report/evidence/chrome-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/chrome-residential.json",
+      "sha256": "a26cf5e2604e799880ca34342e049d14af6a7dfa9193ef26ac46ebbd5edadace",
+      "sources": [
+        "web/chrome-residential.json"
+      ]
+    },
+    {
+      "file": "evidence/city-crossings.json",
+      "sha256": "cbf82c0bb0c836f787a9d72733dac462cc4a0aff348a0e494369783463915bed",
+      "sources": [
+        "crossings/east-west/cross-city-accelerated-playtest.json",
+        "crossings/west-east/cross-city-accelerated-playtest.json"
+      ]
+    },
+    {
+      "file": "evidence/clean-ci.json",
+      "sha256": "7cfdf5a07eec17b81c66b68a14294b01eb398ea68b6e18038c83edf546b2f9c6",
+      "sources": [
+        "release/clean-ci.json"
+      ]
+    },
+    {
+      "file": "evidence/cold-start-v051-baseline.json",
+      "sha256": "c5c2bfe7f58723a1c639831e8a27e67888389c13220d5c8e37b349381bbc0834",
+      "sources": [
+        "verification/overnight/v051/web/cold-start.json"
+      ]
+    },
+    {
+      "file": "evidence/cold-start.json",
+      "sha256": "f50197fa0b70d00ec5a80bdf0891a85ac452cf80129097ca41325d2fb07f0415",
+      "sources": [
+        "web/cold-start.json"
+      ]
+    },
+    {
+      "file": "evidence/delivery-attempts.json",
+      "sha256": "55d54f6c618a343f7cbf0d23ff1790612ff0e5226204290fe8faf7fffc96bc2c",
+      "sources": [
+        "shifts/one/shift-accelerated-playtest.json",
+        "shifts/two/shift-accelerated-playtest.json",
+        "shifts/three/shift-accelerated-playtest.json",
+        "shift-retries/park-grove-square/shift-accelerated-playtest.json",
+        "shift-retries/square-park-grove/shift-accelerated-playtest.json"
+      ]
+    },
+    {
+      "file": "evidence/generated-geometry.json",
+      "sha256": "51c8336ab54ba0400a24a98b678891880fcbd60fe72e2e4bce05b352a7b2eb76",
+      "sources": [
+        "buildings/generated-geometry.json"
+      ]
+    },
+    {
+      "file": "evidence/hosted-browser-runs.json",
+      "sha256": "5e2cf57760d21a246ca40924f9bce4aa233fc41186c727d72ecdc75238b840db",
+      "sources": [
+        "web/chrome-handoff.json",
+        "web/chrome-shift.json",
+        "web/chrome-cross.json",
+        "web/retry-price-street/chrome-cross.json",
+        "web/safari-handoff.json",
+        "web/safari-shift.json"
+      ]
+    },
+    {
+      "file": "evidence/hosting.json",
+      "sha256": "c7e6c7b3f64267ea7ffe26a321bf014973126b4e38d6c8d9f7a44ea6963f63e1",
+      "sources": [
+        "release/hosting.json"
+      ]
+    },
+    {
+      "file": "evidence/landmark-runtime-checks.json",
+      "sha256": "7396d46c3ee911551d460ded33eafae96eec74677fcde540db0a048e58b54ded",
+      "sources": [
+        "architecture/barnard/runtime-check.json",
+        "architecture/courthouse/runtime-check.json",
+        "architecture/lyceum/runtime-check.json",
+        "architecture/pavilion/runtime-check.json",
+        "architecture/square-books/runtime-check.json",
+        "architecture/stadium/runtime-check.json",
+        "architecture/ventress/runtime-check.json"
+      ]
+    },
+    {
+      "file": "evidence/map-and-routing.json",
+      "sha256": "272c8904c964ed4943a7e38a6b1ba9b403a9261b3b37453b4c28f514f873933a",
+      "sources": [
+        "backend/payload.json",
+        "backend/routing.json",
+        "backend/network-connectivity.json"
+      ]
+    },
+    {
+      "file": "evidence/mechanical-report.json",
+      "sha256": "0c17f68e6d88585fdf38428b5937b3b36317d2f99cdf98f40b30abd135003411",
+      "sources": [
+        "arrivals/mechanical-report.json"
+      ]
+    },
+    {
+      "file": "evidence/motion-review.json",
+      "sha256": "8ac22cf079a71f4a17cc689e734c8f76292681f8f130256b10699f4b40c35699",
+      "sources": [
+        "motion/motion-visual-0.6.0-beta.1-final/manual-review/motion-review.json"
+      ]
+    },
+    {
+      "file": "evidence/native-0.4-baseline.json",
+      "sha256": "e23f73ae0fd820502e6cd79a471a31d1fc2b7d68419290604bcedd052c861faf",
+      "sources": [
+        "verification/overnight/0.4-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/offline-launches.json",
+      "sha256": "41304c41e4bc4ad6294e47f02b064690e504753881ecda73a4b96beb109631c1",
+      "sources": [
+        "backend/offline-launches.json"
+      ]
+    },
+    {
+      "file": "evidence/run-1-performance.json",
+      "sha256": "2a9779f0410a49d0522fab780dd66b8da146acee17e4bed06a5b8672b201c0ef",
+      "sources": [
+        "native/run-1-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/run-2-performance.json",
+      "sha256": "8beff13e787a74f1a01b17db2cb27e0e146f74a89d3563d500759fce71cd6f46",
+      "sources": [
+        "native/run-2-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/run-3-performance.json",
+      "sha256": "4d4a80158ee54b8dfbc019ce29f7349a0c1e29a7a2860650ca7916b0329a525f",
+      "sources": [
+        "native/run-3-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/safari-campus.json",
+      "sha256": "db2caf040e49d36675c4cd9b4dcb7e5771c4adc2cb94bc6af4baa7d5af7ce3df",
+      "sources": [
+        "web/safari-campus.json"
+      ]
+    },
+    {
+      "file": "evidence/safari-performance-v051.json",
+      "sha256": "48672ec6269a8f0cb08f87979997a3ccf2db0cbc3587e0e3fc402d6a8b890de6",
+      "sources": [
+        "verification/overnight/v051/report/evidence/safari-performance.json"
+      ]
+    },
+    {
+      "file": "evidence/safari-residential.json",
+      "sha256": "b65e22d031df9b2fc77ef86fdfa543c6983696a55818c5cdaa2059fca969f3c4",
+      "sources": [
+        "web/safari-residential.json"
+      ]
+    },
+    {
+      "file": "evidence/score.json",
+      "sha256": "824a898cdd051f6ebd7f0f469369162d3368b46f81ba277824ae2ad9bda27c0d",
+      "sources": [
+        "recognition/score.json"
+      ]
+    },
+    {
+      "file": "evidence/soak-v0.5.1-baseline.json",
+      "sha256": "e2d4526958f23d3aefda0c3e1b4e4e8bd85c9e7252bda4336c887a981be40c18",
+      "sources": [
+        "verification/overnight/v051/backend/soak.json"
+      ]
+    },
+    {
+      "file": "evidence/soak.json",
+      "sha256": "10fd6c155dcc8a0891d6331e0411f2091e3c6384f47218d323ea2955d83f361d",
+      "sources": [
+        "backend/soak.json"
+      ]
+    },
+    {
+      "file": "evidence/verified-archives.json",
+      "sha256": "6c719b8ad2b30318ee3a3ea18ee1eeb90a4526df27dbbe5834ac37f9b8966904",
+      "sources": [
+        "release/verified-archives.json"
+      ]
+    },
+    {
+      "file": "evidence/visual-qa-report.json",
+      "sha256": "0ac5aa8a29d10ae6776fc5c1fef56b4ba2760782ea584d37fa441056c4934e90",
+      "sources": [
+        "visual-qa-report.json"
+      ]
+    },
+    {
+      "file": "evidence/visual-review.json",
+      "sha256": "bb6701570773d6f3b5d1c44bec2fff2ffd9cda936e4a5a82337780ca7ac5c16d",
+      "sources": [
+        "arrivals/visual-review.json"
+      ]
+    }
+  ],
+  "generatedEvidence": [
+    {
+      "file": "evidence/native-host-info.json",
+      "sha256": "bce10ebe8b121131eff8425456c086cfadad7e39e399053ac73403683f6eef9e",
+      "sourceCommands": [
+        "sysctl -n hw.model",
+        "sysctl -n machdep.cpu.brand_string",
+        "sysctl -n hw.optional.arm64"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/qa.html",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+  "mode": "residential",
+  "steps": [
+    "Driving residential"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "resourceCount": 261,
+  "buffer": [
+    1836,
+    1090
+  ],
+  "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "drive": {
+    "duration": 153.176,
+    "meters": 1735.3300106786487,
+    "stationaryQueuePasses": 0,
+    "finish": [
+      -230.17749594753403,
+      1726.4496606612524
+    ],
+    "error": 3.1333396043716997
+  },
+  "performance": {
+    "frames": 9190,
+    "meanFPS": 59.995169050587876,
+    "p95MS": 18,
+    "p99MS": 19,
+    "slowest": {
+      "ms": 42,
+      "p": [
+        -85.12555122910217,
+        438.65236755933654
+      ],
+      "tile": "-1_0"
+    }
+  },
+  "collisions": 1,
+  "collisionLog": [
+    {
+      "position": [
+        -259.4228981122098,
+        1577.9356181413607
+      ],
+      "street": "South Lamar Boulevard",
+      "speed": 13.879805511569382,
+      "kind": "traffic"
+    }
+  ],
+  "tileFailures": [],
+  "distance": 1734.5630644168505,
+  "walked": 0,
+  "bufferEnd": [
+    1836,
+    1090
+  ]
+}

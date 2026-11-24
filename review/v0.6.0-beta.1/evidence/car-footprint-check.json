@@ -1,0 +1,85 @@
+{
+  "method": "2.1 m half-length, 0.91 m half-width rectangle at each captured car pose intersection with mapped buildings. Includes space below roof and cannot establish contact with individual columns.",
+  "runs": [
+    {
+      "station": "square",
+      "attempt": 0,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 2.556,
+      "building": "188828391"
+    },
+    {
+      "station": "grove",
+      "attempt": 0,
+      "frames": 10,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "south-lamar",
+      "attempt": 0,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "jackson-west",
+      "attempt": 0,
+      "frames": 11,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "avent",
+      "attempt": 0,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0.455,
+      "building": "628408932"
+    },
+    {
+      "station": "avent",
+      "attempt": 1,
+      "frames": 17,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "apartment-court",
+      "attempt": 0,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "lake-patsy-pier",
+      "attempt": 0,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "lake-patsy-pier",
+      "attempt": 1,
+      "frames": 18,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    },
+    {
+      "station": "woodbine",
+      "attempt": 0,
+      "frames": 11,
+      "centerInsideMappedFootprintFrames": 0,
+      "largestBodyPlanOverlapSquareMeters": 0,
+      "building": null
+    }
+  ]
+}

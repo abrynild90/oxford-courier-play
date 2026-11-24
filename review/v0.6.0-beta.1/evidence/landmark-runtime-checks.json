@@ -1,0 +1,914 @@
+[
+  {
+    "source": "architecture/barnard/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "16256538",
+      "target": {
+        "id": "16256538",
+        "name": "Barnard Observatory",
+        "file": "barnard.glb",
+        "source": "sources/blender/models/Barnard.blend",
+        "x": -1354.865,
+        "z": -73.11,
+        "yaw": 0
+      },
+      "frames": [
+        {
+          "location": [
+            -1320.8875159189038,
+            -21.24931570525841
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1320.8875159189038,
+              -21.24931570525841
+            ],
+            "score": 0.13019999999999998,
+            "d": 62
+          }
+        },
+        {
+          "location": [
+            -1360.7196257442715,
+            -42.66786871136462
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1360.7196257442715,
+              -42.66786871136462
+            ],
+            "score": 0,
+            "d": 31
+          }
+        },
+        {
+          "location": [
+            -1374.955667760482,
+            -131.76462529876
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Barnard Observatory",
+          "meshes": 9,
+          "triangles": 31447,
+          "materials": [
+            "Historic red brick",
+            "Warm limestone and stucco trim",
+            "Muted gray metal roof",
+            "Painted wood trim",
+            "Iron monitor louvers",
+            "Weathered metal dome",
+            "Window recess",
+            "Dark window glass",
+            "Pale sash"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1374.955667760482,
+              -131.76462529876
+            ],
+            "score": 0,
+            "d": 62
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/courthouse/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "188828391",
+      "target": {
+        "id": "188828391",
+        "name": "Lafayette County Courthouse",
+        "file": "courthouse.glb",
+        "source": "sources/blender/models/Courthouse.blend",
+        "x": -9.64,
+        "z": 45.69,
+        "yaw": -0.168
+      },
+      "frames": [
+        {
+          "location": [
+            -4.44701557681878,
+            96.42492793707898
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -4.44701557681878,
+              96.42492793707898
+            ],
+            "score": 0,
+            "d": 51
+          }
+        },
+        {
+          "location": [
+            -20.852855562475668,
+            75.66118399621641
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -20.852855562475668,
+              75.66118399621641
+            ],
+            "score": 0,
+            "d": 32
+          }
+        },
+        {
+          "location": [
+            -24.808944653605227,
+            -3.0019204601324176
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Lafayette County Courthouse",
+          "meshes": 10,
+          "triangles": 30100,
+          "materials": [
+            "Deep blue gray window glass",
+            "Painted wood cornice and trim",
+            "Ivory painted sash and muntins",
+            "Warm ivory stucco over masonry",
+            "Dark iron railing and hardware",
+            "Light scored stone and stucco arcade",
+            "Muted dark painted entry doors",
+            "Standing seam sheet metal",
+            "Weathered tin and finial",
+            "Clock face"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -24.808944653605227,
+              -3.0019204601324176
+            ],
+            "score": 0.08792631919799489,
+            "d": 51
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/lyceum/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "187869639",
+      "target": {
+        "id": "187869639",
+        "name": "The Lyceum",
+        "file": "lyceum.glb",
+        "source": "sources/blender/models/Lyceum.blend",
+        "x": -1605,
+        "z": 109,
+        "yaw": 1.4212398378823943
+      },
+      "frames": [
+        {
+          "location": [
+            -1537.0130030983576,
+            110.32975647998656
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1537.0130030983576,
+              110.32975647998656
+            ],
+            "score": 0.058800000000000005,
+            "d": 68
+          }
+        },
+        {
+          "location": [
+            -1571.055510791082,
+            120.99048173951563
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1571.055510791082,
+              120.99048173951563
+            ],
+            "score": 0,
+            "d": 36
+          }
+        },
+        {
+          "location": [
+            -1671.8959652210951,
+            121.20368129451256
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "The Lyceum",
+          "meshes": 10,
+          "triangles": 61366,
+          "materials": [
+            "Recessed iron and dark shutters",
+            "Painted sash",
+            "Deep blue-green window glass",
+            "Portland cement and pale stone",
+            "Common-bond brick",
+            "Painted entry panels",
+            "Brass fittings",
+            "Warm white painted wood",
+            "Lead-coated copper",
+            "Running-bond brick"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1671.8959652210951,
+              121.20368129451256
+            ],
+            "score": 0,
+            "d": 68
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/pavilion/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "313153529",
+      "target": {
+        "id": "313153529",
+        "name": "Grove Pavilion",
+        "file": "grove-pavilion.glb",
+        "source": "sources/blender/models/Grove Pavilion.blend",
+        "x": -1340.0263,
+        "z": 96.5502,
+        "yaw": -1.0484
+      },
+      "frames": [
+        {
+          "location": [
+            -1362.494813850478,
+            119.33541198828027
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1362.494813850478,
+              119.33541198828027
+            ],
+            "score": 0,
+            "d": 32
+          }
+        },
+        {
+          "location": [
+            -1357.9862991852451,
+            102.75007332660861
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1357.9862991852451,
+              102.75007332660861
+            ],
+            "score": 0,
+            "d": 19
+          }
+        },
+        {
+          "location": [
+            -1327.3177743976264,
+            67.18196244624448
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Grove Pavilion",
+          "meshes": 5,
+          "triangles": 268,
+          "materials": [
+            "Grove Pavilion structural steel",
+            "Stage foundation concrete",
+            "Galvanized open truss",
+            "Stage deck",
+            "Measured muted green metal canopy"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1327.3177743976264,
+              67.18196244624448
+            ],
+            "score": 0.13019999999999998,
+            "d": 32
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/square-books/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "599810022",
+      "target": {
+        "id": "599810022",
+        "name": "Square Books",
+        "file": "square-books.glb",
+        "source": "sources/blender/models/Square Books.blend",
+        "x": -32.15,
+        "z": 111.74,
+        "yaw": 2.9465926535897933
+      },
+      "frames": [
+        {
+          "location": [
+            -29.811647401947823,
+            75.81602322783316
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -29.811647401947823,
+              75.81602322783316
+            ],
+            "score": 0.058800000000000005,
+            "d": 36
+          }
+        },
+        {
+          "location": [
+            -21.63434417106997,
+            85.78964388515082
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -21.63434417106997,
+              85.78964388515082
+            ],
+            "score": 0,
+            "d": 28
+          }
+        },
+        {
+          "location": [
+            -27.304748803735475,
+            147.41244792336371
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Square Books",
+          "meshes": 14,
+          "triangles": 11840,
+          "materials": [
+            "Display interior timber",
+            "Slate blue title bindings",
+            "Rust colored bindings",
+            "Olive title bindings",
+            "Deep terra cotta panels",
+            "Cool street glazing",
+            "Weathered cream sash",
+            "Limestone-colored cast trim",
+            "Glazed tile bulkhead",
+            "Dark iron",
+            "Gallery deck boards",
+            "Built-up roof membrane",
+            "Dark blue painted letters",
+            "Terracotta painted stucco"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -27.304748803735475,
+              147.41244792336371
+            ],
+            "score": 0,
+            "d": 36
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/stadium/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "3273781",
+      "target": {
+        "id": "3273781",
+        "name": "Vaught-Hemingway Stadium",
+        "file": "stadium.glb",
+        "source": "sources/blender/models/Vaught-Hemingway Stadium.blend",
+        "x": -1441.47,
+        "z": 508.22,
+        "yaw": -0.60003
+      },
+      "frames": [
+        {
+          "location": [
+            -1491.7010684754994,
+            654.8550563808317
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Vaught-Hemingway Stadium",
+          "meshes": 15,
+          "triangles": 53543,
+          "materials": [
+            "Oxford stadium running bond",
+            "Limestone cap",
+            "Structural steel",
+            "Aisle treads",
+            "Cast terrace concrete",
+            "Brushed seat plank",
+            "Crimson seat band",
+            "Oxford blue seating",
+            "Bermuda field",
+            "Mown grass return",
+            "Field stripe",
+            "Goalpost yellow",
+            "Unlit scoreboard",
+            "Roof membrane",
+            "Press box glazing"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1491.7010684754994,
+              654.8550563808317
+            ],
+            "score": 0,
+            "d": 155
+          }
+        },
+        {
+          "location": [
+            -1538.217503126853,
+            486.6632136272692
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Vaught-Hemingway Stadium",
+          "meshes": 15,
+          "triangles": 53543,
+          "materials": [
+            "Oxford stadium running bond",
+            "Limestone cap",
+            "Structural steel",
+            "Aisle treads",
+            "Cast terrace concrete",
+            "Brushed seat plank",
+            "Crimson seat band",
+            "Oxford blue seating",
+            "Bermuda field",
+            "Mown grass return",
+            "Field stripe",
+            "Goalpost yellow",
+            "Unlit scoreboard",
+            "Roof membrane",
+            "Press box glazing"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1538.217503126853,
+              486.6632136272692
+            ],
+            "score": 0.5772387165536946,
+            "d": 99.11999999999999
+          }
+        },
+        {
+          "location": [
+            -1356.5224002841628,
+            378.570837632795
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Vaught-Hemingway Stadium",
+          "meshes": 15,
+          "triangles": 53543,
+          "materials": [
+            "Oxford stadium running bond",
+            "Limestone cap",
+            "Structural steel",
+            "Aisle treads",
+            "Cast terrace concrete",
+            "Brushed seat plank",
+            "Crimson seat band",
+            "Oxford blue seating",
+            "Bermuda field",
+            "Mown grass return",
+            "Field stripe",
+            "Goalpost yellow",
+            "Unlit scoreboard",
+            "Roof membrane",
+            "Press box glazing"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1356.5224002841628,
+              378.570837632795
+            ],
+            "score": 0.13019999999999998,
+            "d": 155
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  },
+  {
+    "source": "architecture/ventress/runtime-check.json",
+    "report": {
+      "url": "http://127.0.0.1:8746/",
+      "id": "318274467",
+      "target": {
+        "id": "318274467",
+        "name": "Ventress Hall",
+        "file": "ventress.glb",
+        "source": "sources/blender/models/Ventress.blend",
+        "x": -1385.86,
+        "z": 115.96,
+        "yaw": -0.148
+      },
+      "frames": [
+        {
+          "location": [
+            -1380.0185159769976,
+            163.60322684715015
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1380.0185159769976,
+              163.60322684715015
+            ],
+            "score": 0,
+            "d": 48
+          }
+        },
+        {
+          "location": [
+            -1395.4764265956912,
+            143.319172859019
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1395.4764265956912,
+              143.319172859019
+            ],
+            "score": 0,
+            "d": 29
+          }
+        },
+        {
+          "location": [
+            -1394.5478512691477,
+            68.75278402272417
+          ],
+          "render": [
+            1836,
+            1090
+          ],
+          "model": "Ventress Hall",
+          "meshes": 10,
+          "triangles": 11909,
+          "materials": [
+            "Dark finials",
+            "Ventress red brick",
+            "Pale stone courses and sills",
+            "Deep window reveals",
+            "Dark blue glass",
+            "Pale painted sash",
+            "Brick variation",
+            "Red standing seam roof",
+            "Painted cream trim",
+            "Deep painted entrance leaves"
+          ],
+          "fallbackVisible": false,
+          "loadedCopies": 1,
+          "view": {
+            "p": [
+              -1394.5478512691477,
+              68.75278402272417
+            ],
+            "score": 0,
+            "d": 48
+          }
+        }
+      ],
+      "distant": {
+        "released": true,
+        "fallbackVisible": true
+      },
+      "errors": [],
+      "failed": []
+    }
+  }
+]

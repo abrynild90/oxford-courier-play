@@ -1,0 +1,316 @@
+{
+  "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/",
+  "browser": "158.0.8127.38",
+  "results": [
+    {
+      "ms": 4247.300000190735,
+      "street": "North Lamar Boulevard",
+      "meters": 0.008378761595433144,
+      "centerCollisionReady": true,
+      "render": [
+        1836,
+        1090
+      ],
+      "transferMiB": 8.811951637268066,
+      "largest": [
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/height.delta.gz",
+          "bytes": 3151542
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/city.json.gz",
+          "bytes": 1121445
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/grass.jpg.webp",
+          "bytes": 527542
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/atlas-context.json",
+          "bytes": 484824
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/game.js",
+          "bytes": 264931
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus2.jpg",
+          "bytes": 174907
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus1.jpg",
+          "bytes": 174794
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus0.jpg",
+          "bytes": 174787
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus3.jpg",
+          "bytes": 174785
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/house0.jpg",
+          "bytes": 156951
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial3.jpg.webp",
+          "bytes": 128766
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial0.jpg.webp",
+          "bytes": 126543
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ms": 3724.5999999046326,
+      "street": "North Lamar Boulevard",
+      "meters": 0.008370837183081474,
+      "centerCollisionReady": true,
+      "render": [
+        1836,
+        1090
+      ],
+      "transferMiB": 9.46468734741211,
+      "largest": [
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/height.delta.gz",
+          "bytes": 3151462
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/city.json.gz",
+          "bytes": 1121443
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/courier.glb",
+          "bytes": 684584
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/grass.jpg.webp",
+          "bytes": 527452
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/atlas-context.json",
+          "bytes": 484836
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/game.js",
+          "bytes": 264928
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus2.jpg",
+          "bytes": 174816
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus0.jpg",
+          "bytes": 174804
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus1.jpg",
+          "bytes": 174726
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus3.jpg",
+          "bytes": 174670
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/house0.jpg",
+          "bytes": 156981
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial3.jpg.webp",
+          "bytes": 128949
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ms": 3753.300000190735,
+      "street": "North Lamar Boulevard",
+      "meters": 0.007824657767106717,
+      "centerCollisionReady": true,
+      "render": [
+        1836,
+        1090
+      ],
+      "transferMiB": 9.435379028320312,
+      "largest": [
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/height.delta.gz",
+          "bytes": 3151416
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/city.json.gz",
+          "bytes": 1121429
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/courier.glb",
+          "bytes": 653887
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/grass.jpg.webp",
+          "bytes": 527590
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/atlas-context.json",
+          "bytes": 484781
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/game.js",
+          "bytes": 264929
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus2.jpg",
+          "bytes": 174832
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus0.jpg",
+          "bytes": 174828
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus1.jpg",
+          "bytes": 174775
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus3.jpg",
+          "bytes": 174676
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/house0.jpg",
+          "bytes": 156996
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial3.jpg.webp",
+          "bytes": 128790
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ms": 3741.4000000953674,
+      "street": "North Lamar Boulevard",
+      "meters": 0.008227047617113577,
+      "centerCollisionReady": true,
+      "render": [
+        1836,
+        1090
+      ],
+      "transferMiB": 9.593446731567383,
+      "largest": [
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/height.delta.gz",
+          "bytes": 3151481
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/city.json.gz",
+          "bytes": 1121420
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/courier.glb",
+          "bytes": 819632
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/grass.jpg.webp",
+          "bytes": 527428
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/atlas-context.json",
+          "bytes": 484828
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/game.js",
+          "bytes": 264930
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus0.jpg",
+          "bytes": 174947
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus1.jpg",
+          "bytes": 174896
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus2.jpg",
+          "bytes": 174840
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus3.jpg",
+          "bytes": 174670
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/house0.jpg",
+          "bytes": 157141
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial3.jpg.webp",
+          "bytes": 128767
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ms": 3767.5,
+      "street": "North Lamar Boulevard",
+      "meters": 0.008243967942876464,
+      "centerCollisionReady": true,
+      "render": [
+        1836,
+        1090
+      ],
+      "transferMiB": 9.406105041503906,
+      "largest": [
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/height.delta.gz",
+          "bytes": 3151445
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/city.json.gz",
+          "bytes": 1121452
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/courier.glb",
+          "bytes": 622952
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/grass.jpg.webp",
+          "bytes": 527429
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/atlas-context.json",
+          "bytes": 484841
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/game.js",
+          "bytes": 264952
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus3.jpg",
+          "bytes": 174874
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus2.jpg",
+          "bytes": 174839
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus0.jpg",
+          "bytes": 174809
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/campus1.jpg",
+          "bytes": 174717
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/house0.jpg",
+          "bytes": 157011
+        },
+        {
+          "url": "https://abrynild90.github.io/oxford-courier-play/v0.6.0-beta.1/data/stream/commercial3.jpg.webp",
+          "bytes": 128751
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

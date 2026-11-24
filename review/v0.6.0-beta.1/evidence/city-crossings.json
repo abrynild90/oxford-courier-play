@@ -1,0 +1,149 @@
+[
+  {
+    "source": "crossings/east-west/cross-city-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 367.11569999980924,
+          "meters": 12220.308615012826,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -6599.738757634945,
+            1261.2510965007043
+          ],
+          "error": 2.9962831113239226
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "crossingDirection": "east to west",
+      "stagedStart": [
+        3716.68,
+        -540.76
+      ],
+      "runtime": {
+        "frames": 40910,
+        "meanFPS": 111.4160762694938,
+        "medianMS": 8.10000000000582,
+        "p99MS": 22.600000000034925,
+        "maxMS": 958.8999999999996,
+        "streamingFrames": 2394,
+        "maxStreamingFrameMS": 74,
+        "metersDriven": 12217.439986377885,
+        "metersWalked": 0,
+        "collisions": 2,
+        "collisionLog": [
+          {
+            "position": [
+              -1182.718536774649,
+              -487.37682545701097
+            ],
+            "street": "Washington Avenue",
+            "speed": 3.331286741807378,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -2238.8866565635935,
+              -401.4240973086315
+            ],
+            "street": "Jackson Avenue West",
+            "speed": 2.850395964496789,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 210,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  },
+  {
+    "source": "crossings/west-east/cross-city-accelerated-playtest.json",
+    "report": {
+      "errors": [],
+      "legs": [
+        {
+          "kind": "drive",
+          "duration": 351.801,
+          "meters": 12070.60887960692,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            3714.798181080728,
+            -538.3451128969571
+          ],
+          "error": 3.0615228507021857
+        }
+      ],
+      "simulationRate": 3,
+      "bundleSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+      "crossingDirection": "west to east",
+      "stagedStart": [
+        -6598.18,
+        1263.81
+      ],
+      "runtime": {
+        "frames": 43855,
+        "meanFPS": 124.64557511760982,
+        "medianMS": 7.900000000008732,
+        "p99MS": 16,
+        "maxMS": 62.80000000000291,
+        "streamingFrames": 2575,
+        "maxStreamingFrameMS": 45.89999999999418,
+        "metersDriven": 12063.739359216574,
+        "metersWalked": 0,
+        "collisions": 3,
+        "collisionLog": [
+          {
+            "position": [
+              -5703.819094142376,
+              542.2458550894205
+            ],
+            "street": "State Highway 6",
+            "speed": 10.952290306826367,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              -4796.001401184779,
+              469.5815484425027
+            ],
+            "street": "West Jackson Avenue",
+            "speed": 8.739815829669812,
+            "kind": "traffic"
+          },
+          {
+            "position": [
+              173.44036809106834,
+              -719.2496284672422
+            ],
+            "street": "North Lamar Boulevard",
+            "speed": 13.451082248131716,
+            "kind": "traffic"
+          }
+        ],
+        "tileLoads": 195,
+        "tileFailures": [],
+        "viewport": [
+          1360,
+          808
+        ],
+        "render": [
+          1836,
+          1090
+        ],
+        "platform": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) OxfordCourier/0.6.0-beta.1 Chrome/142.0.7444.265 Electron/39.8.10 Safari/537.36"
+      }
+    }
+  }
+]

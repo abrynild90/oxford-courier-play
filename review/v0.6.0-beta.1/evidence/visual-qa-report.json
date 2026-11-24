@@ -1,0 +1,54 @@
+{
+  "version": "0.6.0-beta.1",
+  "rendererSHA256Expected": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+  "sceneCaptures": {
+    "baseline": "0.4.0 frozen 16 stations x day/dusk",
+    "afterViews": 32,
+    "afterRendererSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+    "pageErrors": [],
+    "failedRequests": [],
+    "matchedCameraAudit": {
+      "pairs": 32,
+      "maxPositionErrorM": 0.0,
+      "maxOrientationErrorDegrees": 2.4148365394514667e-06,
+      "allBuffersMatch": true,
+      "buffer": [
+        1836,
+        1090
+      ]
+    }
+  },
+  "recognition": {
+    "stations": 24,
+    "afterViews": 48,
+    "rendererSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+    "pageErrors": [],
+    "failedRequests": [],
+    "blindOutput": "cache/overnight/blind-060/reviewer-{1,2}",
+    "balancedTrials": 48,
+    "provenance": "cache/overnight/blind-060-provenance.json",
+    "answerKey": "cache/overnight/blind-060-answer-key.json"
+  },
+  "motion": {
+    "routeCount": 8,
+    "scriptPass": true,
+    "rendererSHA256": "a442eb91a5770dd4fc9342c10cf418059f939e210b92e4db5486f21604f36af3",
+    "sampleIntervalMS": 700,
+    "imageCount": 157,
+    "screenedFilmstrips": 10,
+    "reviewMethod": "Downscaled filmstrips screened; full-resolution/contact/continuous temporal audit not completed.",
+    "observedDefects": [
+      "Square forward route visually penetrates courthouse wall/porch.",
+      "Avent forward route starts on grass and ends overlapping/passing through house facade.",
+      "Avent reverse route ends off-road on lawn.",
+      "Lake route in both directions uses pedestrian pier/open grass instead of mapped vehicle road.",
+      "Woodbine and South Lamar late samples show close player/oncoming vehicle overlap; possible contact not proven."
+    ],
+    "canopy": "No obvious crown popping in the sampled views; behavior between 700 ms samples remains unverified."
+  },
+  "gallery": {
+    "folder": "review/v0.6.0-beta.1/gallery",
+    "zip": "public/prerelease/oxford-courier-v0.6.0-beta.1-gallery.zip",
+    "published": false
+  }
+}
