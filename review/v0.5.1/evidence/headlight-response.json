@@ -1,0 +1,42 @@
+{
+  "before": {
+    "3-10m": {
+      "points": 8,
+      "medianBrightnessOn": 205.05,
+      "medianBrightnessOff": 124.96,
+      "medianPairedIncrease": 80.02
+    },
+    "10-20m": {
+      "points": 12,
+      "medianBrightnessOn": 185.72,
+      "medianBrightnessOff": 123.47,
+      "medianPairedIncrease": 61.46
+    },
+    "20-40m": {
+      "points": 4,
+      "medianBrightnessOn": 165.24,
+      "medianBrightnessOff": 118.65,
+      "medianPairedIncrease": 46.8
+    }
+  },
+  "after": {
+    "3-10m": {
+      "points": 8,
+      "medianBrightnessOn": 205.76,
+      "medianBrightnessOff": 124.96,
+      "medianPairedIncrease": 80.7
+    },
+    "10-20m": {
+      "points": 12,
+      "medianBrightnessOn": 184.72,
+      "medianBrightnessOff": 123.57,
+      "medianPairedIncrease": 59.96
+    },
+    "20-40m": {
+      "points": 4,
+      "medianBrightnessOn": 164.34,
+      "medianBrightnessOff": 117.4,
+      "medianPairedIncrease": 46.44
+    }
+  }
+}

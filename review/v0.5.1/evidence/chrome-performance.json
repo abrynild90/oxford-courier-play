@@ -1,0 +1,116 @@
+[
+  {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "mode": "campus",
+    "steps": [
+      "Driving campus"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 267,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "drive": {
+      "duration": 138.14229999971388,
+      "meters": 1635.5672437350074,
+      "stationaryQueuePasses": 0,
+      "finish": [
+        -1336.2562525913806,
+        148.13477599450238
+      ],
+      "error": 3.1245840594607044
+    },
+    "performance": {
+      "frames": 16516,
+      "meanFPS": 119.54965480001782,
+      "p95MS": 9.099999999998545,
+      "p99MS": 10,
+      "slowest": {
+        "ms": 66.69999999999709,
+        "p": [
+          -516.4252795388056,
+          220.59208762349203
+        ],
+        "tile": "-2_0"
+      }
+    },
+    "collisions": 1,
+    "collisionLog": [
+      {
+        "position": [
+          -289.4462235822295,
+          138.24942379370876
+        ],
+        "street": "South 9th Street",
+        "speed": 15.748914548616634,
+        "kind": "traffic"
+      }
+    ],
+    "tileFailures": [],
+    "distance": 1633.3477273782432,
+    "walked": 0,
+    "bufferEnd": [
+      1836,
+      1090
+    ],
+    "browserVersion": "158.0.8127.38",
+    "networkFailures": [],
+    "consoleErrors": []
+  },
+  {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "mode": "residential",
+    "steps": [
+      "Driving residential"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 255,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "drive": {
+      "duration": 147.32339999961852,
+      "meters": 1735.3300106786487,
+      "stationaryQueuePasses": 0,
+      "finish": [
+        -230.1688108185167,
+        1726.4838131185543
+      ],
+      "error": 3.1011032679653407
+    },
+    "performance": {
+      "frames": 17655,
+      "meanFPS": 119.83701351637411,
+      "p95MS": 9.200000000011642,
+      "p99MS": 10,
+      "slowest": {
+        "ms": 66.70000000001164,
+        "p": [
+          -203.81391757219848,
+          1031.708866281479
+        ],
+        "tile": "-1_2"
+      }
+    },
+    "collisions": 0,
+    "collisionLog": [],
+    "tileFailures": [],
+    "distance": 1734.7315616290166,
+    "walked": 0,
+    "bufferEnd": [
+      1836,
+      1090
+    ],
+    "browserVersion": "158.0.8127.38",
+    "networkFailures": [],
+    "consoleErrors": []
+  }
+]

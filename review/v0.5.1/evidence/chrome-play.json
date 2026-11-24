@@ -1,0 +1,243 @@
+{
+  "chrome-cross": {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "mode": "cross",
+    "steps": [
+      "Crossing to 3716.68,-540.76"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 890,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "simulationRate": 3,
+    "legs": [
+      {
+        "duration": 335.5423000001907,
+        "meters": 12070.60887960692,
+        "stationaryQueuePasses": 0,
+        "finish": [
+          3714.9694897441886,
+          -538.4224756291417
+        ],
+        "error": 2.8965264576025933
+      }
+    ],
+    "collisions": 2,
+    "collisionLog": [
+      {
+        "position": [
+          -6633.311787674051,
+          1023.7301601007855
+        ],
+        "street": "Ricky D Britt Sr Boulevard",
+        "speed": 10.894041407240758,
+        "kind": "traffic"
+      },
+      {
+        "position": [
+          -1186.3536928678232,
+          -482.611238724682
+        ],
+        "street": "West Jackson Avenue",
+        "speed": 4.454886964276944,
+        "kind": "traffic"
+      }
+    ],
+    "tileFailures": [],
+    "distance": 12064.507874298259,
+    "walked": 0,
+    "bufferEnd": [
+      1836,
+      1090
+    ],
+    "browserVersion": "158.0.8127.38",
+    "networkFailures": [],
+    "consoleErrors": []
+  },
+  "chrome-handoff": {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "mode": "handoff",
+    "steps": [
+      "Delivering to grove"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 267,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "atlas": true,
+    "dayDusk": true,
+    "deliveries": [
+      {
+        "id": "grove",
+        "drive": {
+          "duration": 142.42569999980927,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.242681092033,
+            148.16600913102727
+          ],
+          "error": 3.158155145002666
+        },
+        "walk": {
+          "duration": 10.794599999904632,
+          "meters": 49.14895982940568,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1327.2782398859044,
+            106.88262552743515
+          ],
+          "error": 1.517138103675824
+        },
+        "accepted": true
+      }
+    ],
+    "completed": [
+      "grove"
+    ],
+    "collisions": 0,
+    "collisionLog": [],
+    "tileFailures": [],
+    "distance": 1631.5511629687878,
+    "walked": 45.75748333333379,
+    "bufferEnd": [
+      1836,
+      1090
+    ],
+    "browserVersion": "158.0.8127.38",
+    "networkFailures": [],
+    "consoleErrors": []
+  },
+  "chrome-shift": {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "mode": "shift",
+    "steps": [
+      "Delivering to grove",
+      "Delivering to square",
+      "Delivering to park"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 547,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "atlas": true,
+    "dayDusk": true,
+    "deliveries": [
+      {
+        "id": "grove",
+        "drive": {
+          "duration": 138.22070000028612,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.215221292867,
+            148.15913494775427
+          ],
+          "error": 3.1581931935429295
+        },
+        "walk": {
+          "duration": 10.754800000190734,
+          "meters": 49.162412673124884,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1327.317107130182,
+            107.02230663213048
+          ],
+          "error": 1.6467869274585445
+        },
+        "accepted": true
+      },
+      {
+        "id": "square",
+        "drive": {
+          "duration": 59.15019999980927,
+          "meters": 1749.9277655592612,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.83993332185336,
+            70.79305090694211
+          ],
+          "error": 3.1361870666988643
+        },
+        "walk": {
+          "duration": 2.1699000000953674,
+          "meters": 31.300150509894248,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -32.85786318367476,
+            92.1342675148971
+          ],
+          "error": 1.529054598681604
+        },
+        "accepted": true
+      },
+      {
+        "id": "park",
+        "drive": {
+          "duration": 96.633,
+          "meters": 3327.35127991809,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.4276362541964,
+            -1090.4685471457785
+          ],
+          "error": 3.223106654433345
+        },
+        "walk": {
+          "duration": 10.404099999904632,
+          "meters": 136.27100424278385,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2590.897840995398,
+            -1205.7200263168252
+          ],
+          "error": 1.5634740428409049
+        },
+        "accepted": true
+      }
+    ],
+    "rateAfterFirst": 3,
+    "completed": [
+      "grove",
+      "square",
+      "park"
+    ],
+    "collisions": 1,
+    "collisionLog": [
+      {
+        "position": [
+          -1146.116678014506,
+          182.10822093822696
+        ],
+        "street": "University Avenue",
+        "speed": 10.883171581845293,
+        "kind": "pedestrian"
+      }
+    ],
+    "tileFailures": [],
+    "distance": 6721.116084168956,
+    "walked": 273.62222500001496,
+    "bufferEnd": [
+      1836,
+      1090
+    ],
+    "browserVersion": "158.0.8127.38",
+    "networkFailures": [],
+    "consoleErrors": []
+  }
+}

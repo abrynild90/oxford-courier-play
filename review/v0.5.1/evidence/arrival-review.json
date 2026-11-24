@@ -1,0 +1,178 @@
+{
+  "format": "oxford-arrival-human-review-v1",
+  "version": "0.5.1",
+  "captureId": "final",
+  "rendererSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+  "accessReport": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-qa-0.5.1-final.json",
+  "contactSheet": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/arrival-review-0.5.1-final/all-arrivals-contact-sheet.jpg",
+  "reviewScope": "Inspect every individual image at full resolution; contact sheet is for navigation only.",
+  "reviewedImages": [
+    {
+      "buildingId": 318280244,
+      "name": "Residential College North",
+      "siteKind": "mapped campus front door",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/mapped-campus-front-door-318280244.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door is clearly framed on brick facade."
+    },
+    {
+      "buildingId": 318280064,
+      "name": "Lamar Hall",
+      "siteKind": "mapped campus front door",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/mapped-campus-front-door-318280064.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door is visible at the near left edge, partly cropped by the close camera framing."
+    },
+    {
+      "buildingId": 318282634,
+      "name": "Farley Hall",
+      "siteKind": "mapped campus front door",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/mapped-campus-front-door-318282634.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": false,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "The image shows the side elevation with windows; no entrance door is visible in this view."
+    },
+    {
+      "buildingId": 597935278,
+      "name": "Taylor Bend Apartments",
+      "siteKind": "named apartment frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-apartment-frontage-597935278.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door is visible on the lap-sided elevation."
+    },
+    {
+      "buildingId": 313162830,
+      "name": "Canterbury Crest Apartments",
+      "siteKind": "named apartment frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-apartment-frontage-313162830.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door is visible on the brick facade."
+    },
+    {
+      "buildingId": 599496682,
+      "name": "Solo Apartments",
+      "siteKind": "named apartment frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-apartment-frontage-599496682.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door is visible near center on the vertically sided facade."
+    },
+    {
+      "buildingId": 421471600,
+      "name": "Rebel Bookstore",
+      "siteKind": "named storefront",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-storefront-421471600.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Storefront door is visible; the status prompt overlaps part of the entry area."
+    },
+    {
+      "buildingId": 313154912,
+      "name": "Chaney's Pharmacy",
+      "siteKind": "named storefront",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-storefront-313154912.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Glazed entrance is visible; the status prompt crosses the upper storefront."
+    },
+    {
+      "buildingId": 318715778,
+      "name": "CVS Pharmacy",
+      "siteKind": "named storefront",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/named-storefront-318715778.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Entry door is visible; the status prompt is nearby."
+    },
+    {
+      "buildingId": 628408932,
+      "name": "OSM building 628408932",
+      "siteKind": "surveyed home frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/surveyed-home-frontage-628408932.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Front door and fanlight visible beneath porch canopy."
+    },
+    {
+      "buildingId": 611315647,
+      "name": "OSM building 611315647",
+      "siteKind": "surveyed home frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/surveyed-home-frontage-611315647.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": true,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Door visible under porch canopy; close framing limits view of the full house front."
+    },
+    {
+      "buildingId": 629641758,
+      "name": "OSM building 629641758",
+      "siteKind": "surveyed home frontage",
+      "image": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/access-arrivals-0.5.1-final/surveyed-home-frontage-629641758.png",
+      "routePass": true,
+      "visualStatus": "screened",
+      "entranceVisible": false,
+      "facadeReadable": true,
+      "temporalOrStaticDefects": [],
+      "notes": "Porch/elevation is visible, but the entrance door is not discernible in the captured view."
+    }
+  ],
+  "reviewed": true,
+  "reviewMethod": "All 12 final-package arrival screenshots were visually screened together at thumbnail scale in the contact sheet; Farley Hall and 1405 Jackson Avenue were additionally checked at full resolution because their entries were unclear. This is a visibility review of the captured view, not verification that inferred non-campus door coordinates are field-accurate.",
+  "repeatableDefects": [
+    {
+      "issue": "Door visibility is not established in the Farley Hall and 1405 Jackson Avenue arrival views.",
+      "buildingIds": [
+        318282634,
+        629641758
+      ],
+      "evidence": "The screenshots show windows/porch elevations but no discernible door."
+    },
+    {
+      "issue": "A close arrival camera crops portions of some facade views, and the on-foot prompt overlays parts of storefront entries.",
+      "buildingIds": [
+        318280064,
+        421471600,
+        313154912,
+        318715778,
+        611315647
+      ],
+      "evidence": "Visible in the final arrival screenshot set; route pass alone does not establish unobstructed visual entry."
+    }
+  ]
+}

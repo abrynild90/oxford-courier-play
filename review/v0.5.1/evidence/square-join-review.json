@@ -1,0 +1,43 @@
+{
+  "scope": "Post-release evidence review; not part of the immutable v0.5.1 tagged package.",
+  "address": "152 COURTHOUSE SQ",
+  "historicSurveySource": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/152%20courthouse%20square.pdf",
+  "surveyPhoto": {
+    "photographer": "John Hopkins",
+    "photoRollFrame": "3551:20",
+    "photoDate": "January 2000",
+    "pdfPage3": "architectural sketch, not the photograph"
+  },
+  "review": {
+    "status": "unresolved_do_not_render_named_facade",
+    "historicalSourceFootprintId": 599810034,
+    "historicalSurveyFrontageSegment": [
+      [
+        -48.95,
+        92.06
+      ],
+      [
+        -52.78,
+        91.26
+      ]
+    ],
+    "historicalSurveyFrontageWidthM": 3.91,
+    "sourcePhoto": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/152%20courthouse%20square.pdf#page=2",
+    "bankComparisonSource": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/154%20-%20158%20courthouse%20square.pdf#page=2",
+    "current911AddressPoint": {
+      "id": 3661,
+      "address": "152 COURTHOUSE SQ",
+      "localXZ": [
+        -59.77,
+        94.37
+      ],
+      "candidateFootprintId": "599810038"
+    },
+    "officialParcelEvidence": {
+      "150-152 Courthouse Square": "OBJECTID 40964; parcel overlaps 599810041 by 94.4% and 599810043 by 23%; survey description calls a two-story, three-bay, no-porch Italianate commercial building, which does not fully agree with the 2000 City Grocery survey/photo.",
+      "154-58 Courthouse Square": "OBJECTID 40966; named Bank of Oxford; parcel overlaps 599810034 (98%), 599810029 (97.7%), 599810026 (69.8%), and 599810038 (15.7%)."
+    },
+    "segmentProjectionEvidence": "The old 152 segment lies on shell 599810034, also within the Bank of Oxford parcel. Current 911 point is on 599810038. The official 150–152 parcel instead principally overlaps 599810041/043. These conflicts prevent a defensible exact storefront-to-shell remap from the available evidence.",
+    "disposition": "Keep the named source survey and its photograph in the audit, but omit City Grocery from the rendered photo-exterior target manifest until a direct historical-to-current elevation match is obtained."
+  }
+}

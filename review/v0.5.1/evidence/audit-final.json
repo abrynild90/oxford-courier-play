@@ -1,0 +1,697 @@
+{
+  "schema": "record-exteriors-final-render-audit-v1",
+  "port": 9556,
+  "seed": 20261123,
+  "cohorts": {
+    "frozenHomeCandidates": 504,
+    "renderedHomeImprovements": 500,
+    "photoElevations": 30,
+    "photoSquareSubset": 16,
+    "uniquePhotoResidentialOverlap": 0,
+    "unionUniqueIDs": 534
+  },
+  "strata": [
+    {
+      "cohort": "residential-district",
+      "label": "Avent Acres Neighborhood",
+      "denominator": 40,
+      "sample": 4
+    },
+    {
+      "cohort": "residential-district",
+      "label": "North Lamar",
+      "denominator": 40,
+      "sample": 4
+    },
+    {
+      "cohort": "residential-district",
+      "label": "South Lamar",
+      "denominator": 36,
+      "sample": 4
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Audubon Park",
+      "numerator": 19,
+      "denominator": 19,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Briarwood",
+      "numerator": 68,
+      "denominator": 68,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Fieldstone Farms",
+      "numerator": 30,
+      "denominator": 30,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Northpointe",
+      "numerator": 68,
+      "denominator": 68,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Old Oaks",
+      "numerator": 11,
+      "denominator": 11,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Oxmoor Place",
+      "numerator": 68,
+      "denominator": 68,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "The Gables at Northpointe",
+      "numerator": 23,
+      "denominator": 23,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "The Mill",
+      "numerator": 1,
+      "denominator": 1,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "The Retreat at Oxford",
+      "numerator": 28,
+      "denominator": 28,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhood",
+      "label": "Wellsgate",
+      "numerator": 68,
+      "denominator": 68,
+      "sample": null
+    },
+    {
+      "cohort": "named-neighborhoods",
+      "label": "all named OSM residential areas",
+      "denominator": 384,
+      "sample": 4
+    },
+    {
+      "cohort": "photo-elevations",
+      "label": "Oxford Courthouse Square",
+      "denominator": 16,
+      "sample": 4
+    }
+  ],
+  "selected": 20,
+  "runtimePhotoEvidenceMatches": 4,
+  "runtimeRecordExteriorMatches": 16,
+  "pageErrors": [],
+  "observations": [
+    {
+      "kind": "record",
+      "id": "628408657",
+      "district": "Avent Acres Neighborhood",
+      "tile": "1_-2",
+      "anchor": [
+        672.1,
+        -645.15
+      ],
+      "frontEdge": [
+        [
+          689.19,
+          -650.86
+        ],
+        [
+          673.36,
+          -653.29
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/628408657-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "628157391",
+      "district": "Avent Acres Neighborhood",
+      "tile": "1_-2",
+      "anchor": [
+        679.61,
+        -689.39
+      ],
+      "frontEdge": [
+        [
+          679.61,
+          -689.39
+        ],
+        [
+          690.06,
+          -687.28
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/628157391-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "628157069",
+      "district": "Avent Acres Neighborhood",
+      "tile": "1_-2",
+      "anchor": [
+        661.27,
+        -692.82
+      ],
+      "frontEdge": [
+        [
+          661.27,
+          -692.82
+        ],
+        [
+          672.79,
+          -690.35
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/628157069-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "628157392",
+      "district": "Avent Acres Neighborhood",
+      "tile": "1_-2",
+      "anchor": [
+        698.05,
+        -686.31
+      ],
+      "frontEdge": [
+        [
+          698.05,
+          -686.31
+        ],
+        [
+          709.7,
+          -684.66
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/628157392-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "629642072",
+      "district": "North Lamar",
+      "tile": "0_-1",
+      "anchor": [
+        279.39,
+        -25.38
+      ],
+      "frontEdge": [
+        [
+          292.72,
+          -30.99
+        ],
+        [
+          281.5,
+          -33.78
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/629642072-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "628413586",
+      "district": "North Lamar",
+      "tile": "0_-1",
+      "anchor": [
+        219.33,
+        -256.8
+      ],
+      "frontEdge": [
+        [
+          221.25,
+          -266.35
+        ],
+        [
+          219.33,
+          -256.8
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/628413586-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "627881243",
+      "district": "North Lamar",
+      "tile": "0_-1",
+      "anchor": [
+        193.03,
+        -365.41
+      ],
+      "frontEdge": [
+        [
+          206.99,
+          -362.87
+        ],
+        [
+          210.17,
+          -380.2
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/627881243-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "627884213",
+      "district": "North Lamar",
+      "tile": "0_-1",
+      "anchor": [
+        310.93,
+        -323.38
+      ],
+      "frontEdge": [
+        [
+          310.93,
+          -323.38
+        ],
+        [
+          322.35,
+          -321.85
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/627884213-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "599812976",
+      "district": "South Lamar",
+      "tile": "-1_0",
+      "anchor": [
+        -273.51,
+        120.11
+      ],
+      "frontEdge": [
+        [
+          -270.02,
+          103.56
+        ],
+        [
+          -273.51,
+          120.11
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/599812976-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "611308719",
+      "district": "South Lamar",
+      "tile": "-1_2",
+      "anchor": [
+        -498.6,
+        1169.94
+      ],
+      "frontEdge": [
+        [
+          -498.6,
+          1169.94
+        ],
+        [
+          -484.44,
+          1173.77
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/611308719-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "611308717",
+      "district": "South Lamar",
+      "tile": "-1_2",
+      "anchor": [
+        -381.48,
+        1211.33
+      ],
+      "frontEdge": [
+        [
+          -378.66,
+          1199.76
+        ],
+        [
+          -381.48,
+          1211.33
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/611308717-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "318874199",
+      "district": "South Lamar",
+      "tile": "-2_0",
+      "anchor": [
+        -689.36,
+        182.64
+      ],
+      "frontEdge": [
+        [
+          -675.47,
+          185.64
+        ],
+        [
+          -673.11,
+          174.84
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/318874199-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "1266959116",
+      "district": "Fieldstone Farms",
+      "tile": "-5_-7",
+      "anchor": [
+        -2381.74,
+        -3273.65
+      ],
+      "frontEdge": [
+        [
+          -2364.79,
+          -3270.29
+        ],
+        [
+          -2362.9,
+          -3279.71
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/1266959116-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "620165728",
+      "district": "Wellsgate",
+      "tile": "-14_-1",
+      "anchor": [
+        -6868.73,
+        -214.56
+      ],
+      "frontEdge": [
+        [
+          -6855.84,
+          -209.67
+        ],
+        [
+          -6841.91,
+          -206.79
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/620165728-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "620168713",
+      "district": "Wellsgate",
+      "tile": "-14_-2",
+      "anchor": [
+        -6980.15,
+        -753.9
+      ],
+      "frontEdge": [
+        [
+          -6965.56,
+          -735.22
+        ],
+        [
+          -6972.48,
+          -756.38
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/620168713-record.png"
+    },
+    {
+      "kind": "record",
+      "id": "1270632850",
+      "district": "Northpointe",
+      "tile": "1_-11",
+      "anchor": [
+        878.72,
+        -5375.58
+      ],
+      "frontEdge": [
+        [
+          894.87,
+          -5369.41
+        ],
+        [
+          895.17,
+          -5380.78
+        ]
+      ],
+      "photoEvidence": null,
+      "recordExterior": true,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/1270632850-record.png"
+    },
+    {
+      "kind": "photo",
+      "id": "599922074",
+      "district": "Oxford Courthouse Square",
+      "tile": "-1_0",
+      "anchor": [
+        -55.76,
+        14.27
+      ],
+      "frontEdge": [
+        [
+          -54.88,
+          9.78
+        ],
+        [
+          -54.35,
+          7.03
+        ]
+      ],
+      "photoEvidence": {
+        "address": "116 COURTHOUSE SQ",
+        "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/116%20courthouse%20square.pdf",
+        "date": "January 2000"
+      },
+      "recordExterior": false,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/599922074-photo.png"
+    },
+    {
+      "kind": "photo",
+      "id": "599810029",
+      "district": "Oxford Courthouse Square",
+      "tile": "-1_0",
+      "anchor": [
+        -52.87,
+        123.1
+      ],
+      "frontEdge": [
+        [
+          -39.69,
+          94.03
+        ],
+        [
+          -41.55,
+          93.63
+        ]
+      ],
+      "photoEvidence": {
+        "address": "158 COURTHOUSE SQ",
+        "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/154%20-%20158%20courthouse%20square.pdf",
+        "date": "January 2000"
+      },
+      "recordExterior": false,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/599810029-photo.png"
+    },
+    {
+      "kind": "photo",
+      "id": "599922068",
+      "district": "Oxford Courthouse Square",
+      "tile": "-1_0",
+      "anchor": [
+        -90.15,
+        57.28
+      ],
+      "frontEdge": [
+        [
+          -64.49,
+          58.99
+        ],
+        [
+          -63.95,
+          56.25
+        ]
+      ],
+      "photoEvidence": {
+        "address": "134 COURTHOUSE SQ",
+        "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/134%20courthouse%20square.pdf",
+        "date": "January 2000"
+      },
+      "recordExterior": false,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/599922068-photo.png"
+    },
+    {
+      "kind": "photo",
+      "id": "599911626",
+      "district": "Oxford Courthouse Square",
+      "tile": "-1_-1",
+      "anchor": [
+        -21.48,
+        -12.84
+      ],
+      "frontEdge": [
+        [
+          -13.47,
+          -11.27
+        ],
+        [
+          -10.37,
+          -10.66
+        ]
+      ],
+      "photoEvidence": {
+        "address": "100 COURTHOUSE SQ",
+        "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/100-104%20courthouse%20square.pdf",
+        "date": "January 2000"
+      },
+      "recordExterior": false,
+      "tileDetailReady": true,
+      "canvas": [
+        1836,
+        1090
+      ],
+      "screenshot": "verification/overnight/buildings/audit-final/599911626-photo.png"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "run-1-performance": {
+    "results": [
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "campus",
+        "light": "day",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 154.06269999980927,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.215447542672,
+            148.1859478424179
+          ],
+          "error": 3.1841163051030303
+        },
+        "frames": 18429,
+        "meanFPS": 119.5587439617306,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.10000000000582,
+        "p99MS": 10.099999999998545,
+        "slowestFrame": {
+          "ms": 75,
+          "p": [
+            -516.6319031586374,
+            220.57311664483524
+          ],
+          "tile": "-2_0"
+        },
+        "slowestStream": {
+          "ms": 75,
+          "p": [
+            -516.6319031586374,
+            220.57311664483524
+          ],
+          "tile": "-2_0"
+        },
+        "longestStreamMS": 75,
+        "longestMS": 75,
+        "failed": [],
+        "loaded": 45,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 2,
+        "peakProcessRSSMiB": 1846.546875
+      },
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "residential",
+        "light": "dusk",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 154.15740000009538,
+          "meters": 1735.3300106786487,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -230.1562075952222,
+            1726.5326192139116
+          ],
+          "error": 3.0550310004756294
+        },
+        "frames": 18513,
+        "meanFPS": 120.03874853137303,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.200000000000728,
+        "p99MS": 10.099999999991269,
+        "slowestFrame": {
+          "ms": 66.69999999999709,
+          "p": [
+            -203.79100432937315,
+            1031.5943139459134
+          ],
+          "tile": "-1_2"
+        },
+        "slowestStream": {
+          "ms": 66.69999999999709,
+          "p": [
+            -203.79100432937315,
+            1031.5943139459134
+          ],
+          "tile": "-1_2"
+        },
+        "longestStreamMS": 66.69999999999709,
+        "longestMS": 66.69999999999709,
+        "failed": [],
+        "loaded": 43,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 1,
+        "peakProcessRSSMiB": 1762.625
+      }
+    ],
+    "errors": []
+  },
+  "run-2-performance": {
+    "results": [
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "campus",
+        "light": "day",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 146.14439999961854,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.2381920151165,
+            148.16803674697522
+          ],
+          "error": 3.1612024431571224
+        },
+        "frames": 17429,
+        "meanFPS": 119.16653846811977,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.099999999998545,
+        "p99MS": 10.099999999991269,
+        "slowestFrame": {
+          "ms": 375,
+          "p": [
+            1.255563976897058,
+            -6.136032834937391
+          ],
+          "tile": "0_-1"
+        },
+        "slowestStream": {
+          "ms": 250,
+          "p": [
+            -516.7294702877749,
+            220.5640932312465
+          ],
+          "tile": "-2_0"
+        },
+        "longestStreamMS": 250,
+        "longestMS": 375,
+        "failed": [],
+        "loaded": 45,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 0,
+        "peakProcessRSSMiB": 1845.53125
+      },
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "residential",
+        "light": "dusk",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 154.1355,
+          "meters": 1735.3300106786487,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -230.1709338467554,
+            1726.4794853506803
+          ],
+          "error": 3.105816896913731
+        },
+        "frames": 18438,
+        "meanFPS": 119.56539360671282,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.19999999999709,
+        "p99MS": 10,
+        "slowestFrame": {
+          "ms": 333.3000000000029,
+          "p": [
+            -203.91863498771087,
+            1032.2324043638723
+          ],
+          "tile": "-1_2"
+        },
+        "slowestStream": {
+          "ms": 333.3000000000029,
+          "p": [
+            -203.91863498771087,
+            1032.2324043638723
+          ],
+          "tile": "-1_2"
+        },
+        "longestStreamMS": 333.3000000000029,
+        "longestMS": 333.3000000000029,
+        "failed": [],
+        "loaded": 47,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 1,
+        "peakProcessRSSMiB": 1793.8125
+      }
+    ],
+    "errors": []
+  },
+  "run-3-performance": {
+    "results": [
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "campus",
+        "light": "day",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 135.97960000038148,
+          "meters": 1635.5672437350074,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.2153201442045,
+            148.16388342067668
+          ],
+          "error": 3.1627684220613967
+        },
+        "frames": 16263,
+        "meanFPS": 119.49143949603193,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.10000000000582,
+        "p99MS": 10.10000000000582,
+        "slowestFrame": {
+          "ms": 100,
+          "p": [
+            -1030.2040595722115,
+            190.51523969065653
+          ],
+          "tile": "-3_0"
+        },
+        "slowestStream": {
+          "ms": 100,
+          "p": [
+            -1030.2040595722115,
+            190.51523969065653
+          ],
+          "tile": "-3_0"
+        },
+        "longestStreamMS": 100,
+        "longestMS": 100,
+        "failed": [],
+        "loaded": 45,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 0,
+        "peakProcessRSSMiB": 1853.703125
+      },
+      {
+        "rendererSHA": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+        "route": "residential",
+        "light": "dusk",
+        "normalSimulationSpeed": true,
+        "drive": {
+          "duration": 149.35380000019074,
+          "meters": 1735.3300106786487,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -230.1632489861933,
+            1726.5114084588247
+          ],
+          "error": 3.0760095733582062
+        },
+        "frames": 17908,
+        "meanFPS": 119.85385700126407,
+        "medianMS": 8.30000000000291,
+        "p95MS": 9.099999999998545,
+        "p99MS": 10,
+        "slowestFrame": {
+          "ms": 66.69999999999709,
+          "p": [
+            -203.82162456013512,
+            1031.7473984783253
+          ],
+          "tile": "-1_2"
+        },
+        "slowestStream": {
+          "ms": 66.69999999999709,
+          "p": [
+            -203.82162456013512,
+            1031.7473984783253
+          ],
+          "tile": "-1_2"
+        },
+        "longestStreamMS": 66.69999999999709,
+        "longestMS": 66.69999999999709,
+        "failed": [],
+        "loaded": 46,
+        "buffer": [
+          1836,
+          1090
+        ],
+        "collisions": 0,
+        "peakProcessRSSMiB": 1874.25
+      }
+    ],
+    "errors": []
+  }
+}

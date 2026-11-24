@@ -1,0 +1,130 @@
+{
+  "safari-shift": {
+    "url": "https://abrynild90.github.io/oxford-courier-play/v0.5.1/qa.html",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15",
+    "mode": "shift",
+    "steps": [
+      "Delivering to grove",
+      "Delivering to square",
+      "Delivering to park"
+    ],
+    "errors": [],
+    "failedRequests": [],
+    "resourceCount": 555,
+    "buffer": [
+      1836,
+      1090
+    ],
+    "bundleSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+    "atlas": true,
+    "dayDusk": true,
+    "deliveries": [
+      {
+        "id": "grove",
+        "drive": {
+          "duration": 162.528,
+          "meters": 1635.5672437350072,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1336.1982102196343,
+            148.20766223482806
+          ],
+          "error": 3.209428518860545
+        },
+        "walk": {
+          "duration": 11.028,
+          "meters": 48.41547571937564,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -1328.6503702855616,
+            106.64761471525952
+          ],
+          "error": 1.630895525324377
+        },
+        "accepted": true
+      },
+      {
+        "id": "square",
+        "drive": {
+          "duration": 58.87,
+          "meters": 1749.9037491069503,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -48.82567265074688,
+            70.82853448768641
+          ],
+          "error": 3.1435630014366636
+        },
+        "walk": {
+          "duration": 2.168,
+          "meters": 31.260830513643835,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -32.87138042576809,
+            92.12493909123279
+          ],
+          "error": 1.5443717711348042
+        },
+        "accepted": true
+      },
+      {
+        "id": "park",
+        "drive": {
+          "duration": 104.562,
+          "meters": 3327.3190598796236,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2633.567574497246,
+            -1090.4491210570582
+          ],
+          "error": 3.119689451823704
+        },
+        "walk": {
+          "duration": 10.587,
+          "meters": 136.34495890541788,
+          "stationaryQueuePasses": 0,
+          "finish": [
+            -2590.76354698424,
+            -1206.0102418213928
+          ],
+          "error": 1.250050098700677
+        },
+        "accepted": true
+      }
+    ],
+    "rateAfterFirst": 3,
+    "completed": [
+      "grove",
+      "square",
+      "park"
+    ],
+    "collisions": 2,
+    "collisionLog": [
+      {
+        "position": [
+          -54.411414222576774,
+          300.8515324762304
+        ],
+        "street": "University Avenue",
+        "speed": 5.048064824643798,
+        "kind": "traffic"
+      },
+      {
+        "position": [
+          -2556.62765693347,
+          -1055.222425774654
+        ],
+        "street": "Country Club Road",
+        "speed": 2.1066714284897223,
+        "kind": "traffic"
+      }
+    ],
+    "tileFailures": [],
+    "distance": 6721.9948222624525,
+    "walked": 276.23300000000467,
+    "bufferEnd": [
+      1836,
+      1090
+    ]
+  }
+}

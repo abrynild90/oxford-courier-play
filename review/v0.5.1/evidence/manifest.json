@@ -1,0 +1,125 @@
+{
+  "scope": "Allowlisted JSON evidence linked from this scorecard. Each file is a release test artifact or the explicitly marked post-release Square join review.",
+  "files": [
+    {
+      "path": "evidence/access.json",
+      "bytes": 23276,
+      "sha256": "36bbfab903eb75fff60437955c1b90a4392c17f3701858b73d35926096fbf435"
+    },
+    {
+      "path": "evidence/arrival-review.json",
+      "bytes": 7734,
+      "sha256": "1982dc6125d2ea6cfbbbc23a0d8c39f0445449bdb42dfac347f2f8955496112f"
+    },
+    {
+      "path": "evidence/audit-final.json",
+      "bytes": 14634,
+      "sha256": "a6f03e00bef33d63291542c3dcd14691e4b55e7e437f3e11eed29881dec6bcf8"
+    },
+    {
+      "path": "evidence/blind-follow-up.json",
+      "bytes": 29736,
+      "sha256": "408503ca95b5cdcfb6fd43df4b76ed98b2e89f397df5bde8bee34511e39dcf28"
+    },
+    {
+      "path": "evidence/blind-initial.json",
+      "bytes": 29936,
+      "sha256": "cb4906b44c9c6f66c1b03f1061ef24e82d9f08c44c08220083ee55d6848543ce"
+    },
+    {
+      "path": "evidence/chrome-performance.json",
+      "bytes": 2851,
+      "sha256": "9acfdb50ce0c33e2327f0b57e84f35df0b2f1deea7441700e8f4a051b3476fda"
+    },
+    {
+      "path": "evidence/chrome-play.json",
+      "bytes": 6181,
+      "sha256": "753587f554072a95082e65da4fcca80e6c2c202a55e823f22e8d14b82e48fd83"
+    },
+    {
+      "path": "evidence/cold-start.json",
+      "bytes": 10265,
+      "sha256": "c5c2bfe7f58723a1c639831e8a27e67888389c13220d5c8e37b349381bbc0834"
+    },
+    {
+      "path": "evidence/districts.json",
+      "bytes": 1676,
+      "sha256": "fcb1035c6f554bbad2009b6ae4f2f67c5a8c4ae71301ff1a1b76b5ed0c72e954"
+    },
+    {
+      "path": "evidence/generated-geometry.json",
+      "bytes": 169712,
+      "sha256": "787349f0cb572ccd5dacc6564c5e3deaf59dc3b9d4098f6e569db2a16f9c69a3"
+    },
+    {
+      "path": "evidence/headlight-response.json",
+      "bytes": 941,
+      "sha256": "c669fff06fc95b3378388cb44c8b84d423a32774324027e62d46d68ce1d6ecec"
+    },
+    {
+      "path": "evidence/hosting.json",
+      "bytes": 692,
+      "sha256": "55e6c131d2399cfec2b8c33bfa5317378e218732673ebf2a62275f9daaac07f3"
+    },
+    {
+      "path": "evidence/matched-camera-audit.json",
+      "bytes": 14273,
+      "sha256": "306ec742568dae631d75a218f884f2991daf85262b83be6b6a1f759e908cc1dc"
+    },
+    {
+      "path": "evidence/motion-review.json",
+      "bytes": 121845,
+      "sha256": "cad79964b5bd01ebd833a13f14c146475f5a962e7d4a9cd09921d3c7e56c02eb"
+    },
+    {
+      "path": "evidence/native-runs.json",
+      "bytes": 7795,
+      "sha256": "9532e302938cfdda8439e4fa3e3c199701154f885ca2320676019b4ab7741a8a"
+    },
+    {
+      "path": "evidence/network-connectivity.json",
+      "bytes": 101737,
+      "sha256": "e66fba9894d17a8746ac76acccf90f11271d319d0205b135d91154f0cf5f44aa"
+    },
+    {
+      "path": "evidence/offline-launches.json",
+      "bytes": 2272,
+      "sha256": "d8b59af9f426c0ca6c1b65cc4cb00a7131e8eb6de56352110398d5edcc5049ca"
+    },
+    {
+      "path": "evidence/payload.json",
+      "bytes": 406,
+      "sha256": "4b365da99351bbc03193df355f74eb411599bebdbdd3ca898e0ee57462bfa766"
+    },
+    {
+      "path": "evidence/playthroughs.json",
+      "bytes": 14314,
+      "sha256": "3d82b594afe3902192f31c74a17868cfb0785ec500a5ad9836f4bdb3c4ff5bf8"
+    },
+    {
+      "path": "evidence/safari-performance.json",
+      "bytes": 2809,
+      "sha256": "48672ec6269a8f0cb08f87979997a3ccf2db0cbc3587e0e3fc402d6a8b890de6"
+    },
+    {
+      "path": "evidence/safari-play.json",
+      "bytes": 3180,
+      "sha256": "ec9b396919907807ac5660fdec00ce5175fd94df0cdc632f50f173ed0fe65ac4"
+    },
+    {
+      "path": "evidence/soak.json",
+      "bytes": 16354,
+      "sha256": "e2d4526958f23d3aefda0c3e1b4e4e8bd85c9e7252bda4336c887a981be40c18"
+    },
+    {
+      "path": "evidence/square-join-review.json",
+      "bytes": 2285,
+      "sha256": "09543fad09b53dd400b968103a8bb718a5cf3ec518c465854707a386935007d0"
+    },
+    {
+      "path": "evidence/verified-archives.json",
+      "bytes": 809,
+      "sha256": "4ad305cf62ea6b00023133595f3184c78c9d9a56628f136ff315267ce09f601c"
+    }
+  ]
+}

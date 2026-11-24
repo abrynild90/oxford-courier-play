@@ -1,0 +1,6641 @@
+{
+  "distinctIDs": 530,
+  "records": [
+    {
+      "id": "627274293",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-043_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "627274556",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-049_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "627274560",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-053_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 4
+      },
+      "triangles": 63
+    },
+    {
+      "id": "627275334",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-055_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "628157056",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-099_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628157057",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-098_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "628157065",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-102_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628157576",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-092_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628157578",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-093_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "628408653",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-117_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 4
+      },
+      "triangles": 47
+    },
+    {
+      "id": "628408656",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-114_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 753,
+        "gable": 0
+      },
+      "triangles": 1506
+    },
+    {
+      "id": "628408660",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-110_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "628408661",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-109_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 4
+      },
+      "triangles": 55
+    },
+    {
+      "id": "628911059",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-070_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 391,
+        "gable": 0
+      },
+      "triangles": 782
+    },
+    {
+      "id": "628911291",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-078_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 779,
+        "gable": 0
+      },
+      "triangles": 1558
+    },
+    {
+      "id": "629081032",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-073_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "629081033",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-074_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 4
+      },
+      "triangles": 63
+    },
+    {
+      "id": "629081051",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-064_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "629081055",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-066_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "451755543",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-045_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 4
+      },
+      "triangles": 51
+    },
+    {
+      "id": "451755544",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-044_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 143,
+        "gable": 0
+      },
+      "triangles": 286
+    },
+    {
+      "id": "627274553",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-046_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "627274554",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-047_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 4
+      },
+      "triangles": 47
+    },
+    {
+      "id": "627274557",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-050_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 4
+      },
+      "triangles": 55
+    },
+    {
+      "id": "627274558",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-051_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 320,
+        "gable": 0
+      },
+      "triangles": 640
+    },
+    {
+      "id": "627275331",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-058_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "627275332",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-057_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 368,
+        "gable": 0
+      },
+      "triangles": 736
+    },
+    {
+      "id": "627275333",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-056_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "628157060",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-101_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "628157067",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-104_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628157069",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-105_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 4
+      },
+      "triangles": 43
+    },
+    {
+      "id": "628157391",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-106_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628157392",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-107_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "628157396",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-108_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 21,
+        "gable": 0
+      },
+      "triangles": 84
+    },
+    {
+      "id": "628157398",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-091_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "628157580",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-094_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 4
+      },
+      "triangles": 43
+    },
+    {
+      "id": "628157585",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-096_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "628408356",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-118_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 4
+      },
+      "triangles": 55
+    },
+    {
+      "id": "628408654",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-116_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "628408657",
+      "district": "Avent Acres Neighborhood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135L-21-113_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 8,
+        "gable": 0
+      },
+      "triangles": 32
+    },
+    {
+      "id": "625159045",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-113_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "625159046",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-111_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1224,
+        "gable": 0
+      },
+      "triangles": 2448
+    },
+    {
+      "id": "625159049",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-110_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 820,
+        "gable": 0
+      },
+      "triangles": 1640
+    },
+    {
+      "id": "625161151",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-127_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 8,
+        "gable": 4
+      },
+      "triangles": 39
+    },
+    {
+      "id": "625342606",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-121_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 612,
+        "gable": 4
+      },
+      "triangles": 1231
+    },
+    {
+      "id": "625342607",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-120_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 960,
+        "gable": 4
+      },
+      "triangles": 1927
+    },
+    {
+      "id": "625342613",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-207_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 18,
+        "gable": 0
+      },
+      "triangles": 72
+    },
+    {
+      "id": "625342618",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-124_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "625342623",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-122_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "625342624",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-123_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "625344696",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135M-21-128_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 359,
+        "gable": 0
+      },
+      "triangles": 732
+    },
+    {
+      "id": "627879273",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-254_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 296,
+        "gable": 4
+      },
+      "triangles": 599
+    },
+    {
+      "id": "627879274",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-253_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 585,
+        "gable": 0
+      },
+      "triangles": 1170
+    },
+    {
+      "id": "627879284",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-250_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 608,
+        "gable": 4
+      },
+      "triangles": 1223
+    },
+    {
+      "id": "627881238",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-237_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 816,
+        "gable": 0
+      },
+      "triangles": 1632
+    },
+    {
+      "id": "627881243",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-239_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1368,
+        "gable": 0
+      },
+      "triangles": 2736
+    },
+    {
+      "id": "627881246",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-240_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1128,
+        "gable": 4
+      },
+      "triangles": 2263
+    },
+    {
+      "id": "627882386",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-241_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 720,
+        "gable": 4
+      },
+      "triangles": 1447
+    },
+    {
+      "id": "627883596",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-259_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 4
+      },
+      "triangles": 59
+    },
+    {
+      "id": "627883601",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-262_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "627884213",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-293_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 8,
+        "gable": 0
+      },
+      "triangles": 32
+    },
+    {
+      "id": "627884216",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-298_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 4
+      },
+      "triangles": 43
+    },
+    {
+      "id": "627885136",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-275_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 792,
+        "gable": 0
+      },
+      "triangles": 1584
+    },
+    {
+      "id": "628413584",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-266_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "628413586",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-267_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 247,
+        "gable": 4
+      },
+      "triangles": 515
+    },
+    {
+      "id": "628413602",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-288_01.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 507,
+        "gable": 4
+      },
+      "triangles": 1021
+    },
+    {
+      "id": "628413603",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-290_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 4
+      },
+      "triangles": 55
+    },
+    {
+      "id": "628414448",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-301_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "628414452",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-302_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "628414455",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-303_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 693,
+        "gable": 0
+      },
+      "triangles": 1386
+    },
+    {
+      "id": "628414456",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-305_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "628414458",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-306_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 22,
+        "gable": 0
+      },
+      "triangles": 88
+    },
+    {
+      "id": "628414460",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-307_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "629632577",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-049_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 20,
+        "gable": 0
+      },
+      "triangles": 80
+    },
+    {
+      "id": "629641415",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-161_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "629642069",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-060_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "629642072",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-058_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 912,
+        "gable": 0
+      },
+      "triangles": 1824
+    },
+    {
+      "id": "629642077",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-056_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 990,
+        "gable": 4
+      },
+      "triangles": 1987
+    },
+    {
+      "id": "629642084",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-054_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 459,
+        "gable": 0
+      },
+      "triangles": 918
+    },
+    {
+      "id": "629642473",
+      "district": "North Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135P-21-318_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 504,
+        "gable": 0
+      },
+      "triangles": 1008
+    },
+    {
+      "id": "318874199",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-342_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 81,
+        "gable": 0
+      },
+      "triangles": 162
+    },
+    {
+      "id": "421471587",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-282_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 21,
+        "gable": 0
+      },
+      "triangles": 84
+    },
+    {
+      "id": "451772522",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-121_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "599812976",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-239_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 20,
+        "gable": 0
+      },
+      "triangles": 80
+    },
+    {
+      "id": "599817367",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-231_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 135,
+        "gable": 0
+      },
+      "triangles": 270
+    },
+    {
+      "id": "599817414",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-315_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1311,
+        "gable": 0
+      },
+      "triangles": 2622
+    },
+    {
+      "id": "599822430",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/135N-21-316_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 832,
+        "gable": 0
+      },
+      "triangles": 1664
+    },
+    {
+      "id": "611308711",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-167_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 650,
+        "gable": 0
+      },
+      "triangles": 1300
+    },
+    {
+      "id": "611308712",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-166_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "611308713",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-165_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 7,
+        "gable": 0
+      },
+      "triangles": 28
+    },
+    {
+      "id": "611308714",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-164_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "611308715",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-163_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 8,
+        "gable": 0
+      },
+      "triangles": 32
+    },
+    {
+      "id": "611308716",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-162_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1102,
+        "gable": 0
+      },
+      "triangles": 2204
+    },
+    {
+      "id": "611308717",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-161_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "611308718",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-187_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1363,
+        "gable": 0
+      },
+      "triangles": 2726
+    },
+    {
+      "id": "611308719",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-185_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "611308720",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-186_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1122,
+        "gable": 0
+      },
+      "triangles": 2244
+    },
+    {
+      "id": "611308878",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-188_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 16,
+        "gable": 0
+      },
+      "triangles": 64
+    },
+    {
+      "id": "611308879",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-189_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 960,
+        "gable": 0
+      },
+      "triangles": 1920
+    },
+    {
+      "id": "611308880",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-190_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 640,
+        "gable": 0
+      },
+      "triangles": 1280
+    },
+    {
+      "id": "611309499",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-086_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "611309501",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-085_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "611309504",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-083_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 0
+      },
+      "triangles": 56
+    },
+    {
+      "id": "611309512",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-155_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "611309515",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-156_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 608,
+        "gable": 0
+      },
+      "triangles": 1216
+    },
+    {
+      "id": "611309520",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-159_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 19,
+        "gable": 0
+      },
+      "triangles": 76
+    },
+    {
+      "id": "611309522",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-158_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 864,
+        "gable": 0
+      },
+      "triangles": 1728
+    },
+    {
+      "id": "611309724",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-152_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1007,
+        "gable": 0
+      },
+      "triangles": 2014
+    },
+    {
+      "id": "611309726",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138E-28-153_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "611309729",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-080_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "611309730",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-088_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "611309973",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-131_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "611309974",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-132_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 403,
+        "gable": 0
+      },
+      "triangles": 806
+    },
+    {
+      "id": "611309975",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-133_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 545,
+        "gable": 0
+      },
+      "triangles": 1090
+    },
+    {
+      "id": "611311108",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-136_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 17,
+        "gable": 0
+      },
+      "triangles": 68
+    },
+    {
+      "id": "611311337",
+      "district": "South Lamar",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138D-28-146_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "723553222",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_57.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "1248714477",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_07.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 172,
+        "gable": 0
+      },
+      "triangles": 358
+    },
+    {
+      "id": "1266959115",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_31.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "1265522529",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_51.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 627,
+        "gable": 0
+      },
+      "triangles": 1254
+    },
+    {
+      "id": "1095229544",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_09.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 389,
+        "gable": 0
+      },
+      "triangles": 796
+    },
+    {
+      "id": "1265520885",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_41.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723551460",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_06.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 606,
+        "gable": 0
+      },
+      "triangles": 1240
+    },
+    {
+      "id": "679089174",
+      "district": "The Mill",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/138N-33-083_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 4008,
+        "gable": 0
+      },
+      "triangles": 8016
+    },
+    {
+      "id": "-5483",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-043_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 345,
+        "gable": 0
+      },
+      "triangles": 690
+    },
+    {
+      "id": "1336981573",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/145Z-22-017_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "723553223",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_58.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "1248717190",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-254_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 233,
+        "gable": 0
+      },
+      "triangles": 482
+    },
+    {
+      "id": "1266959116",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_30.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "1265522532",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_21.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 533,
+        "gable": 0
+      },
+      "triangles": 1066
+    },
+    {
+      "id": "1095229545",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_08.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 426,
+        "gable": 0
+      },
+      "triangles": 868
+    },
+    {
+      "id": "1265520887",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_61.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 488,
+        "gable": 0
+      },
+      "triangles": 976
+    },
+    {
+      "id": "723551461",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_07.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "1336974284",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-024_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1336981587",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-164_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 253,
+        "gable": 0
+      },
+      "triangles": 516
+    },
+    {
+      "id": "723553224",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_59.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "1248717196",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_63.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 254,
+        "gable": 0
+      },
+      "triangles": 522
+    },
+    {
+      "id": "1266959118",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_28.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 720,
+        "gable": 0
+      },
+      "triangles": 1440
+    },
+    {
+      "id": "1270631203",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_67.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1200,
+        "gable": 0
+      },
+      "triangles": 2400
+    },
+    {
+      "id": "1095229546",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_07.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 383,
+        "gable": 0
+      },
+      "triangles": 788
+    },
+    {
+      "id": "1265520890",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_59.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 540,
+        "gable": 0
+      },
+      "triangles": 1080
+    },
+    {
+      "id": "723551462",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_08.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 247,
+        "gable": 0
+      },
+      "triangles": 506
+    },
+    {
+      "id": "1336974285",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-029_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1416,
+        "gable": 0
+      },
+      "triangles": 2832
+    },
+    {
+      "id": "1336981596",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-223_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1296,
+        "gable": 0
+      },
+      "triangles": 2592
+    },
+    {
+      "id": "723553225",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_60.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "1248717201",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_65.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 576,
+        "gable": 0
+      },
+      "triangles": 1152
+    },
+    {
+      "id": "1266959119",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_26.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1270631209",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_32.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1248,
+        "gable": 0
+      },
+      "triangles": 2496
+    },
+    {
+      "id": "1095229554",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_03.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 303,
+        "gable": 0
+      },
+      "triangles": 624
+    },
+    {
+      "id": "722940247",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-163_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723551463",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_09.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "570550430",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-039_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1073,
+        "gable": 0
+      },
+      "triangles": 2146
+    },
+    {
+      "id": "619885181",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_04.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1632,
+        "gable": 0
+      },
+      "triangles": 3264
+    },
+    {
+      "id": "723553226",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_61.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "1248717592",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-249_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 107,
+        "gable": 0
+      },
+      "triangles": 220
+    },
+    {
+      "id": "1266959120",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_25.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1270631212",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_31.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "1095229556",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_05.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 368,
+        "gable": 0
+      },
+      "triangles": 752
+    },
+    {
+      "id": "723002971",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_48.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 360,
+        "gable": 0
+      },
+      "triangles": 720
+    },
+    {
+      "id": "723551465",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_11.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 870,
+        "gable": 0
+      },
+      "triangles": 1740
+    },
+    {
+      "id": "570550431",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-038_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 426,
+        "gable": 0
+      },
+      "triangles": 864
+    },
+    {
+      "id": "619885182",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/148_-27-001_02.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "723553227",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_62.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "1248717599",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_72.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 504,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "1266959121",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_24.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1270631214",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_30.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 566,
+        "gable": 0
+      },
+      "triangles": 1132
+    },
+    {
+      "id": "1095229557",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_14.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 20,
+        "gable": 0
+      },
+      "triangles": 80
+    },
+    {
+      "id": "723002972",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_49.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 816,
+        "gable": 0
+      },
+      "triangles": 1632
+    },
+    {
+      "id": "723551466",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_12.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 703,
+        "gable": 0
+      },
+      "triangles": 1406
+    },
+    {
+      "id": "570550432",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-037_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 465,
+        "gable": 0
+      },
+      "triangles": 944
+    },
+    {
+      "id": "619885184",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/148_-27-001_03.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "723553228",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_63.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 16,
+        "gable": 0
+      },
+      "triangles": 64
+    },
+    {
+      "id": "1248717603",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_75.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 407,
+        "gable": 0
+      },
+      "triangles": 828
+    },
+    {
+      "id": "1266959129",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_87.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 18,
+        "gable": 0
+      },
+      "triangles": 72
+    },
+    {
+      "id": "1270631215",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_29.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 744,
+        "gable": 0
+      },
+      "triangles": 1488
+    },
+    {
+      "id": "1095229558",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_15.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 424,
+        "gable": 0
+      },
+      "triangles": 868
+    },
+    {
+      "id": "723002973",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_50.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 408,
+        "gable": 0
+      },
+      "triangles": 816
+    },
+    {
+      "id": "723551467",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_13.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 626,
+        "gable": 0
+      },
+      "triangles": 1282
+    },
+    {
+      "id": "608442409",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-030_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 459,
+        "gable": 0
+      },
+      "triangles": 918
+    },
+    {
+      "id": "619885185",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_05.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723553233",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_68.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "1248717604",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-266_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 191,
+        "gable": 0
+      },
+      "triangles": 396
+    },
+    {
+      "id": "1266959142",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_85.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1270631218",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_28.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1344,
+        "gable": 0
+      },
+      "triangles": 2688
+    },
+    {
+      "id": "1095229560",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_17.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 364,
+        "gable": 0
+      },
+      "triangles": 742
+    },
+    {
+      "id": "723890553",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-219_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1344,
+        "gable": 0
+      },
+      "triangles": 2688
+    },
+    {
+      "id": "723551471",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_18.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1032,
+        "gable": 0
+      },
+      "triangles": 2064
+    },
+    {
+      "id": "608442411",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-027_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 510,
+        "gable": 0
+      },
+      "triangles": 1020
+    },
+    {
+      "id": "619885396",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_06.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "723553234",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_69.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "1248717607",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-267_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 221,
+        "gable": 0
+      },
+      "triangles": 458
+    },
+    {
+      "id": "1266959145",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_84.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 7,
+        "gable": 0
+      },
+      "triangles": 28
+    },
+    {
+      "id": "1270631883",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_01.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 720,
+        "gable": 0
+      },
+      "triangles": 1440
+    },
+    {
+      "id": "1095229613",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_10.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 271,
+        "gable": 0
+      },
+      "triangles": 556
+    },
+    {
+      "id": "723890554",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-218_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 20,
+        "gable": 0
+      },
+      "triangles": 80
+    },
+    {
+      "id": "723551473",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_20.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608442413",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-025_01.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 0
+      },
+      "triangles": 56
+    },
+    {
+      "id": "619885397",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_07.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723553237",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_46.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 6,
+        "gable": 0
+      },
+      "triangles": 24
+    },
+    {
+      "id": "1248717609",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-265_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 252,
+        "gable": 0
+      },
+      "triangles": 524
+    },
+    {
+      "id": "1266959149",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_63.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "1270631885",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_58.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "1095229614",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_11.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 271,
+        "gable": 0
+      },
+      "triangles": 556
+    },
+    {
+      "id": "723890555",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-217_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "723551474",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_21.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608442416",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-025_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1416,
+        "gable": 0
+      },
+      "triangles": 2832
+    },
+    {
+      "id": "619885398",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_08.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723553238",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_45.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "1248717968",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-250_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 136,
+        "gable": 0
+      },
+      "triangles": 280
+    },
+    {
+      "id": "1266959164",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_81.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 984,
+        "gable": 0
+      },
+      "triangles": 2016
+    },
+    {
+      "id": "1270631887",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_54.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1176,
+        "gable": 0
+      },
+      "triangles": 2352
+    },
+    {
+      "id": "1095229615",
+      "district": "Old Oaks",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/137_-25-001_12.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 559,
+        "gable": 0
+      },
+      "triangles": 1144
+    },
+    {
+      "id": "723890556",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-216_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 23,
+        "gable": 0
+      },
+      "triangles": 92
+    },
+    {
+      "id": "723551475",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_22.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 814,
+        "gable": 0
+      },
+      "triangles": 1628
+    },
+    {
+      "id": "608442418",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-028_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1464,
+        "gable": 0
+      },
+      "triangles": 2928
+    },
+    {
+      "id": "619885399",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_09.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723553239",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_44.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "1248717969",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-251_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 91,
+        "gable": 0
+      },
+      "triangles": 188
+    },
+    {
+      "id": "1266959172",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_76.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 20,
+        "gable": 0
+      },
+      "triangles": 80
+    },
+    {
+      "id": "1270631889",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_52.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1488,
+        "gable": 0
+      },
+      "triangles": 2976
+    },
+    {
+      "id": "723890557",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-215_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "723551476",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_23.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1032,
+        "gable": 0
+      },
+      "triangles": 2064
+    },
+    {
+      "id": "608442420",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-023_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 696,
+        "gable": 0
+      },
+      "triangles": 1392
+    },
+    {
+      "id": "619885400",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_10.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723553244",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_80.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "1248717972",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-252_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 153,
+        "gable": 0
+      },
+      "triangles": 318
+    },
+    {
+      "id": "1266959441",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_10.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 355,
+        "gable": 0
+      },
+      "triangles": 730
+    },
+    {
+      "id": "1270631890",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_36.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 535,
+        "gable": 0
+      },
+      "triangles": 1096
+    },
+    {
+      "id": "723890560",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-222_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 505,
+        "gable": 0
+      },
+      "triangles": 1030
+    },
+    {
+      "id": "723551477",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_24.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1032,
+        "gable": 0
+      },
+      "triangles": 2064
+    },
+    {
+      "id": "608442422",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-022_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "619885402",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_12.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723553246",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_86.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "1248717974",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-253_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 274,
+        "gable": 0
+      },
+      "triangles": 564
+    },
+    {
+      "id": "1266959442",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_06.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 749,
+        "gable": 0
+      },
+      "triangles": 1520
+    },
+    {
+      "id": "1270631891",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_37.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 572,
+        "gable": 0
+      },
+      "triangles": 1172
+    },
+    {
+      "id": "723890561",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-223_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 408,
+        "gable": 0
+      },
+      "triangles": 816
+    },
+    {
+      "id": "723551479",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_26.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608442424",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-021_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "619885403",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_13.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1464,
+        "gable": 0
+      },
+      "triangles": 2928
+    },
+    {
+      "id": "780552637",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_83.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "1265520893",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-272_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "1336983484",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-085_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 335,
+        "gable": 0
+      },
+      "triangles": 692
+    },
+    {
+      "id": "1270632847",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_51.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 626,
+        "gable": 0
+      },
+      "triangles": 1282
+    },
+    {
+      "id": "723890562",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-214_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723551480",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_27.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608443090",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-020_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 705,
+        "gable": 0
+      },
+      "triangles": 1410
+    },
+    {
+      "id": "619885404",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_14.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1224,
+        "gable": 0
+      },
+      "triangles": 2448
+    },
+    {
+      "id": "780552638",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_82.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 0
+      },
+      "triangles": 56
+    },
+    {
+      "id": "1265520894",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-271_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 161,
+        "gable": 0
+      },
+      "triangles": 322
+    },
+    {
+      "id": "1336983489",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-086_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 471,
+        "gable": 0
+      },
+      "triangles": 966
+    },
+    {
+      "id": "1270632848",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_50.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 303,
+        "gable": 0
+      },
+      "triangles": 620
+    },
+    {
+      "id": "723890563",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-213_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723551483",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_30.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1032,
+        "gable": 0
+      },
+      "triangles": 2064
+    },
+    {
+      "id": "608443091",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-005_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 990,
+        "gable": 0
+      },
+      "triangles": 1980
+    },
+    {
+      "id": "619885405",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_15.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1488,
+        "gable": 0
+      },
+      "triangles": 2976
+    },
+    {
+      "id": "780552641",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_73.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1265520895",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-270_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 108,
+        "gable": 0
+      },
+      "triangles": 224
+    },
+    {
+      "id": "1336983495",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_37.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 492,
+        "gable": 0
+      },
+      "triangles": 1010
+    },
+    {
+      "id": "1270632849",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_49.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "723890564",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-212_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 463,
+        "gable": 0
+      },
+      "triangles": 952
+    },
+    {
+      "id": "723551484",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_31.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 740,
+        "gable": 0
+      },
+      "triangles": 1480
+    },
+    {
+      "id": "608443092",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-007_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "619885564",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_19.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 720,
+        "gable": 0
+      },
+      "triangles": 1440
+    },
+    {
+      "id": "780552646",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_75.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 17,
+        "gable": 0
+      },
+      "triangles": 68
+    },
+    {
+      "id": "1265520896",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-269_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 121,
+        "gable": 0
+      },
+      "triangles": 250
+    },
+    {
+      "id": "1336983498",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_40.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 816,
+        "gable": 0
+      },
+      "triangles": 1632
+    },
+    {
+      "id": "1270632850",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_48.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "723890565",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-211_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 744,
+        "gable": 0
+      },
+      "triangles": 1488
+    },
+    {
+      "id": "723551485",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_32.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 568,
+        "gable": 0
+      },
+      "triangles": 1162
+    },
+    {
+      "id": "608443093",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-006_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 744,
+        "gable": 0
+      },
+      "triangles": 1488
+    },
+    {
+      "id": "619885567",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_18.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "780552647",
+      "district": "Audubon Park",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_76.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "1265520900",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-268_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 195,
+        "gable": 0
+      },
+      "triangles": 402
+    },
+    {
+      "id": "1341073794",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-089_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 568,
+        "gable": 0
+      },
+      "triangles": 1162
+    },
+    {
+      "id": "1270632855",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_42.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1392,
+        "gable": 0
+      },
+      "triangles": 2784
+    },
+    {
+      "id": "723891014",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-208_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "723551487",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_34.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 530,
+        "gable": 0
+      },
+      "triangles": 1084
+    },
+    {
+      "id": "608444985",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146R-24-044_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 980,
+        "gable": 0
+      },
+      "triangles": 1960
+    },
+    {
+      "id": "619885570",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-119_17.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 576,
+        "gable": 0
+      },
+      "triangles": 1152
+    },
+    {
+      "id": "1265522520",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-262_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 440,
+        "gable": 0
+      },
+      "triangles": 898
+    },
+    {
+      "id": "727154686",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_21.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 792,
+        "gable": 0
+      },
+      "triangles": 1584
+    },
+    {
+      "id": "1270632856",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_43.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1392,
+        "gable": 0
+      },
+      "triangles": 2784
+    },
+    {
+      "id": "723891015",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-209_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1008,
+        "gable": 0
+      },
+      "triangles": 2016
+    },
+    {
+      "id": "723551489",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_36.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 568,
+        "gable": 0
+      },
+      "triangles": 1162
+    },
+    {
+      "id": "608444988",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134N-19-006_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "619885790",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-062_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 750,
+        "gable": 0
+      },
+      "triangles": 1528
+    },
+    {
+      "id": "1265522521",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-261_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 511,
+        "gable": 0
+      },
+      "triangles": 1044
+    },
+    {
+      "id": "727154689",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_22.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "1270632857",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_44.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1189,
+        "gable": 0
+      },
+      "triangles": 2378
+    },
+    {
+      "id": "723891016",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-210_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 19,
+        "gable": 0
+      },
+      "triangles": 76
+    },
+    {
+      "id": "723551491",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_38.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608444993",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134N-19-004_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "619885791",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-063_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "1265522522",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-260_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 217,
+        "gable": 0
+      },
+      "triangles": 450
+    },
+    {
+      "id": "727154693",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_34.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "1270632859",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_46.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1248,
+        "gable": 0
+      },
+      "triangles": 2496
+    },
+    {
+      "id": "723891017",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-227_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723551492",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_39.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "608444998",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134N-19-002_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 8,
+        "gable": 0
+      },
+      "triangles": 32
+    },
+    {
+      "id": "619885792",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-064_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1296,
+        "gable": 0
+      },
+      "triangles": 2592
+    },
+    {
+      "id": "1265522524",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-258_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 620,
+        "gable": 0
+      },
+      "triangles": 1240
+    },
+    {
+      "id": "727154695",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_35.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1335734604",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_57.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1368,
+        "gable": 0
+      },
+      "triangles": 2736
+    },
+    {
+      "id": "723891018",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-226_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 22,
+        "gable": 0
+      },
+      "triangles": 88
+    },
+    {
+      "id": "723551493",
+      "district": "The Gables at Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-046_40.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 860,
+        "gable": 0
+      },
+      "triangles": 1720
+    },
+    {
+      "id": "608445000",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-041_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "619885793",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-065_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723550145",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_05.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 255,
+        "gable": 0
+      },
+      "triangles": 524
+    },
+    {
+      "id": "727154696",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_36.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 792,
+        "gable": 0
+      },
+      "triangles": 1584
+    },
+    {
+      "id": "1335734605",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_56.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1320,
+        "gable": 0
+      },
+      "triangles": 2640
+    },
+    {
+      "id": "723891019",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-225_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "608445003",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-042_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "619885794",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-066_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 816,
+        "gable": 0
+      },
+      "triangles": 1632
+    },
+    {
+      "id": "723550146",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_06.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 237,
+        "gable": 0
+      },
+      "triangles": 486
+    },
+    {
+      "id": "727154697",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_38.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 864,
+        "gable": 0
+      },
+      "triangles": 1728
+    },
+    {
+      "id": "1335734606",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_55.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "723891020",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-224_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "608445005",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-042_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "619885795",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-067_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 546,
+        "gable": 0
+      },
+      "triangles": 1092
+    },
+    {
+      "id": "723550147",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_14.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 415,
+        "gable": 0
+      },
+      "triangles": 844
+    },
+    {
+      "id": "727154698",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133Y-07-297_27.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 22,
+        "gable": 0
+      },
+      "triangles": 88
+    },
+    {
+      "id": "1335734607",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_59.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "723891022",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-228_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 21,
+        "gable": 0
+      },
+      "triangles": 84
+    },
+    {
+      "id": "608445010",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-050_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "620139074",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-071_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723550148",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_38.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 262,
+        "gable": 0
+      },
+      "triangles": 538
+    },
+    {
+      "id": "780554781",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_82.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 12,
+        "gable": 0
+      },
+      "triangles": 48
+    },
+    {
+      "id": "1335734608",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_38.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 111,
+        "gable": 0
+      },
+      "triangles": 228
+    },
+    {
+      "id": "723891023",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-229_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 501,
+        "gable": 0
+      },
+      "triangles": 1018
+    },
+    {
+      "id": "608445015",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-048_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "620139076",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-069_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723550149",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_36.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 215,
+        "gable": 0
+      },
+      "triangles": 444
+    },
+    {
+      "id": "856515409",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_61.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 19,
+        "gable": 0
+      },
+      "triangles": 76
+    },
+    {
+      "id": "1335734609",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_39.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 581,
+        "gable": 0
+      },
+      "triangles": 1162
+    },
+    {
+      "id": "723891024",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-206_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 10,
+        "gable": 0
+      },
+      "triangles": 40
+    },
+    {
+      "id": "608445018",
+      "district": "The Retreat at Oxford",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/134M-19-046_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 9,
+        "gable": 0
+      },
+      "triangles": 36
+    },
+    {
+      "id": "620139077",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-105_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 0
+      },
+      "triangles": 56
+    },
+    {
+      "id": "723550150",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_34.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 195,
+        "gable": 0
+      },
+      "triangles": 402
+    },
+    {
+      "id": "856515410",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_62.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "1335734610",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_40.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723891026",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-204_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 696,
+        "gable": 0
+      },
+      "triangles": 1392
+    },
+    {
+      "id": "620139079",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-103_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 204,
+        "gable": 0
+      },
+      "triangles": 408
+    },
+    {
+      "id": "723550151",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_31.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 223,
+        "gable": 0
+      },
+      "triangles": 460
+    },
+    {
+      "id": "856515415",
+      "district": "Fieldstone Farms",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/133_-08-006_69.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "1335734617",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1296,
+        "gable": 0
+      },
+      "triangles": 2592
+    },
+    {
+      "id": "723891027",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-201_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "620145050",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-057_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723550338",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_64.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 165,
+        "gable": 0
+      },
+      "triangles": 344
+    },
+    {
+      "id": "1335734618",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-125_35.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1056,
+        "gable": 0
+      },
+      "triangles": 2112
+    },
+    {
+      "id": "723891028",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-202_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 22,
+        "gable": 0
+      },
+      "triangles": 88
+    },
+    {
+      "id": "620145051",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-058_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 768,
+        "gable": 0
+      },
+      "triangles": 1536
+    },
+    {
+      "id": "723550339",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_62.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 449,
+        "gable": 0
+      },
+      "triangles": 914
+    },
+    {
+      "id": "1335735475",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-054_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 663,
+        "gable": 0
+      },
+      "triangles": 1326
+    },
+    {
+      "id": "723891029",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-240_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "620145052",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/147X-26-059_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "723550340",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_55.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 255,
+        "gable": 0
+      },
+      "triangles": 524
+    },
+    {
+      "id": "723002976",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-052_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 410,
+        "gable": 0
+      },
+      "triangles": 820
+    },
+    {
+      "id": "723891030",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-243_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "620145053",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-106_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 888,
+        "gable": 0
+      },
+      "triangles": 1776
+    },
+    {
+      "id": "723550341",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_53.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1112,
+        "gable": 0
+      },
+      "triangles": 2224
+    },
+    {
+      "id": "723002978",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-056_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 451,
+        "gable": 0
+      },
+      "triangles": 902
+    },
+    {
+      "id": "723891031",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-244_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 510,
+        "gable": 0
+      },
+      "triangles": 1048
+    },
+    {
+      "id": "620145055",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-108_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 223,
+        "gable": 0
+      },
+      "triangles": 446
+    },
+    {
+      "id": "723550342",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_50.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 210,
+        "gable": 0
+      },
+      "triangles": 434
+    },
+    {
+      "id": "723244266",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-158_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "723891032",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-245_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 252,
+        "gable": 0
+      },
+      "triangles": 504
+    },
+    {
+      "id": "620145056",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-109_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723550343",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_49.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 210,
+        "gable": 0
+      },
+      "triangles": 434
+    },
+    {
+      "id": "723244267",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-157_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 489,
+        "gable": 0
+      },
+      "triangles": 1010
+    },
+    {
+      "id": "723891033",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-246_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 150,
+        "gable": 0
+      },
+      "triangles": 300
+    },
+    {
+      "id": "620145057",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-110_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1080,
+        "gable": 0
+      },
+      "triangles": 2160
+    },
+    {
+      "id": "723550344",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_51.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 210,
+        "gable": 0
+      },
+      "triangles": 434
+    },
+    {
+      "id": "723244268",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-156_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 13,
+        "gable": 0
+      },
+      "triangles": 52
+    },
+    {
+      "id": "723891035",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-248_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "620145058",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-111_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 667,
+        "gable": 0
+      },
+      "triangles": 1334
+    },
+    {
+      "id": "723550345",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_52.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 245,
+        "gable": 0
+      },
+      "triangles": 504
+    },
+    {
+      "id": "723244269",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-155_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 805,
+        "gable": 0
+      },
+      "triangles": 1610
+    },
+    {
+      "id": "723891037",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-241_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "620145060",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-112_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1496,
+        "gable": 0
+      },
+      "triangles": 2992
+    },
+    {
+      "id": "723550346",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_46.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 210,
+        "gable": 0
+      },
+      "triangles": 434
+    },
+    {
+      "id": "723244271",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-153_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 950,
+        "gable": 0
+      },
+      "triangles": 1900
+    },
+    {
+      "id": "723891038",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-230_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "620145062",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-226_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 2160,
+        "gable": 0
+      },
+      "triangles": 4320
+    },
+    {
+      "id": "723550347",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_45.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 223,
+        "gable": 0
+      },
+      "triangles": 460
+    },
+    {
+      "id": "723244728",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-152_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "723891039",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-203_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1152,
+        "gable": 0
+      },
+      "triangles": 2304
+    },
+    {
+      "id": "620145063",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-228_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1056,
+        "gable": 0
+      },
+      "triangles": 2112
+    },
+    {
+      "id": "723550348",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_44.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 195,
+        "gable": 0
+      },
+      "triangles": 406
+    },
+    {
+      "id": "723849991",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-082_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 912,
+        "gable": 0
+      },
+      "triangles": 1824
+    },
+    {
+      "id": "723891041",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-166_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 527,
+        "gable": 0
+      },
+      "triangles": 1054
+    },
+    {
+      "id": "620165718",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-220_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723550349",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_43.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 195,
+        "gable": 0
+      },
+      "triangles": 404
+    },
+    {
+      "id": "723849992",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-083_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 696,
+        "gable": 0
+      },
+      "triangles": 1392
+    },
+    {
+      "id": "723891042",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-167_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 11,
+        "gable": 0
+      },
+      "triangles": 44
+    },
+    {
+      "id": "620165720",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-218_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1992,
+        "gable": 0
+      },
+      "triangles": 3984
+    },
+    {
+      "id": "723550644",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_67.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 239,
+        "gable": 0
+      },
+      "triangles": 496
+    },
+    {
+      "id": "723849994",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-085_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 984,
+        "gable": 0
+      },
+      "triangles": 1968
+    },
+    {
+      "id": "723891043",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-168_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 408,
+        "gable": 0
+      },
+      "triangles": 816
+    },
+    {
+      "id": "620165728",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-214_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1104,
+        "gable": 0
+      },
+      "triangles": 2208
+    },
+    {
+      "id": "723550645",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_70.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 203,
+        "gable": 0
+      },
+      "triangles": 420
+    },
+    {
+      "id": "723849995",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-086_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723891044",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-169_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 23,
+        "gable": 0
+      },
+      "triangles": 92
+    },
+    {
+      "id": "620165981",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-210_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723550646",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_72.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 180,
+        "gable": 0
+      },
+      "triangles": 374
+    },
+    {
+      "id": "723849996",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-087_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 864,
+        "gable": 0
+      },
+      "triangles": 1728
+    },
+    {
+      "id": "723891045",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-170_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "620165989",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-212_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1008,
+        "gable": 0
+      },
+      "triangles": 2016
+    },
+    {
+      "id": "723550647",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_73.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 239,
+        "gable": 0
+      },
+      "triangles": 496
+    },
+    {
+      "id": "723849998",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-089_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 322,
+        "gable": 0
+      },
+      "triangles": 644
+    },
+    {
+      "id": "723891046",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-171_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 602,
+        "gable": 0
+      },
+      "triangles": 1204
+    },
+    {
+      "id": "620166976",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-209_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 960,
+        "gable": 0
+      },
+      "triangles": 1920
+    },
+    {
+      "id": "723550648",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_76.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 239,
+        "gable": 0
+      },
+      "triangles": 496
+    },
+    {
+      "id": "723849999",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-090_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 240,
+        "gable": 0
+      },
+      "triangles": 480
+    },
+    {
+      "id": "723891047",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-172_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "620166982",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-115_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "723550649",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_78.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 227,
+        "gable": 0
+      },
+      "triangles": 470
+    },
+    {
+      "id": "723850000",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-091_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 638,
+        "gable": 0
+      },
+      "triangles": 1276
+    },
+    {
+      "id": "723891048",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-173_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 535,
+        "gable": 0
+      },
+      "triangles": 1090
+    },
+    {
+      "id": "620167456",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-206_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 648,
+        "gable": 0
+      },
+      "triangles": 1296
+    },
+    {
+      "id": "723550650",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_79.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 239,
+        "gable": 0
+      },
+      "triangles": 496
+    },
+    {
+      "id": "723850001",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-092_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723891049",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-174_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 612,
+        "gable": 0
+      },
+      "triangles": 1224
+    },
+    {
+      "id": "620167460",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-203_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1248,
+        "gable": 0
+      },
+      "triangles": 2496
+    },
+    {
+      "id": "723550651",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_80.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 180,
+        "gable": 0
+      },
+      "triangles": 374
+    },
+    {
+      "id": "723850002",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-093_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723891050",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-175_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 451,
+        "gable": 0
+      },
+      "triangles": 902
+    },
+    {
+      "id": "620168151",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-121_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1272,
+        "gable": 0
+      },
+      "triangles": 2544
+    },
+    {
+      "id": "723550652",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_81.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 437,
+        "gable": 0
+      },
+      "triangles": 874
+    },
+    {
+      "id": "723850003",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-094_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1056,
+        "gable": 0
+      },
+      "triangles": 2112
+    },
+    {
+      "id": "723891424",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-184_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 169,
+        "gable": 0
+      },
+      "triangles": 352
+    },
+    {
+      "id": "620168152",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-122_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 768,
+        "gable": 0
+      },
+      "triangles": 1536
+    },
+    {
+      "id": "723550653",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_74.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 156,
+        "gable": 0
+      },
+      "triangles": 324
+    },
+    {
+      "id": "723850004",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-095_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 768,
+        "gable": 0
+      },
+      "triangles": 1536
+    },
+    {
+      "id": "723891426",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-188_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1224,
+        "gable": 0
+      },
+      "triangles": 2448
+    },
+    {
+      "id": "620168153",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-123_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 412,
+        "gable": 0
+      },
+      "triangles": 838
+    },
+    {
+      "id": "723550654",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_71.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 215,
+        "gable": 0
+      },
+      "triangles": 446
+    },
+    {
+      "id": "723850005",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-096_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 635,
+        "gable": 0
+      },
+      "triangles": 1270
+    },
+    {
+      "id": "723891428",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-232_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 14,
+        "gable": 0
+      },
+      "triangles": 56
+    },
+    {
+      "id": "620168156",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-127_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 242,
+        "gable": 0
+      },
+      "triangles": 484
+    },
+    {
+      "id": "723550655",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_68.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 117,
+        "gable": 0
+      },
+      "triangles": 246
+    },
+    {
+      "id": "723850006",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-071_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 408,
+        "gable": 0
+      },
+      "triangles": 816
+    },
+    {
+      "id": "723891429",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-233_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 16,
+        "gable": 0
+      },
+      "triangles": 64
+    },
+    {
+      "id": "620168158",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-129_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 403,
+        "gable": 0
+      },
+      "triangles": 806
+    },
+    {
+      "id": "723550656",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_69.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 161,
+        "gable": 0
+      },
+      "triangles": 338
+    },
+    {
+      "id": "723850007",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-072_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 984,
+        "gable": 0
+      },
+      "triangles": 1968
+    },
+    {
+      "id": "723891430",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-234_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "620168307",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-132_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 912,
+        "gable": 0
+      },
+      "triangles": 1824
+    },
+    {
+      "id": "723550657",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_75.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 161,
+        "gable": 0
+      },
+      "triangles": 338
+    },
+    {
+      "id": "723850010",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-076_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 24,
+        "gable": 0
+      },
+      "triangles": 96
+    },
+    {
+      "id": "723891431",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-235_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 15,
+        "gable": 0
+      },
+      "triangles": 60
+    },
+    {
+      "id": "620168310",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-137_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723550658",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_77.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 150,
+        "gable": 0
+      },
+      "triangles": 314
+    },
+    {
+      "id": "723850013",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-079_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 22,
+        "gable": 0
+      },
+      "triangles": 88
+    },
+    {
+      "id": "723891433",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-237_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 912,
+        "gable": 0
+      },
+      "triangles": 1824
+    },
+    {
+      "id": "620168706",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-138_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "780552662",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_66.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 126,
+        "gable": 0
+      },
+      "triangles": 262
+    },
+    {
+      "id": "723851087",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-059_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 743,
+        "gable": 0
+      },
+      "triangles": 1486
+    },
+    {
+      "id": "723891434",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-239_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 18,
+        "gable": 0
+      },
+      "triangles": 72
+    },
+    {
+      "id": "620168707",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-140_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "780552663",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_54.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 432,
+        "gable": 0
+      },
+      "triangles": 864
+    },
+    {
+      "id": "723851088",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-060_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 480,
+        "gable": 0
+      },
+      "triangles": 960
+    },
+    {
+      "id": "723891435",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-231_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1344,
+        "gable": 0
+      },
+      "triangles": 2688
+    },
+    {
+      "id": "620168708",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-143_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "780552675",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_60.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 153,
+        "gable": 0
+      },
+      "triangles": 318
+    },
+    {
+      "id": "723851089",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-061_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 624,
+        "gable": 0
+      },
+      "triangles": 1248
+    },
+    {
+      "id": "723891436",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-200_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 236,
+        "gable": 0
+      },
+      "triangles": 496
+    },
+    {
+      "id": "620168709",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-142_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 696,
+        "gable": 0
+      },
+      "triangles": 1392
+    },
+    {
+      "id": "780552676",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_56.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 240,
+        "gable": 0
+      },
+      "triangles": 498
+    },
+    {
+      "id": "723851090",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-062_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 513,
+        "gable": 0
+      },
+      "triangles": 1026
+    },
+    {
+      "id": "723891437",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-199_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 984,
+        "gable": 0
+      },
+      "triangles": 1968
+    },
+    {
+      "id": "620168711",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-146_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1200,
+        "gable": 0
+      },
+      "triangles": 2400
+    },
+    {
+      "id": "780552677",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_21.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 211,
+        "gable": 0
+      },
+      "triangles": 436
+    },
+    {
+      "id": "723851091",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-063_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 605,
+        "gable": 0
+      },
+      "triangles": 1210
+    },
+    {
+      "id": "723891438",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-198_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 552,
+        "gable": 0
+      },
+      "triangles": 1104
+    },
+    {
+      "id": "620168712",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-147_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1536,
+        "gable": 0
+      },
+      "triangles": 3072
+    },
+    {
+      "id": "780552678",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_22.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 183,
+        "gable": 0
+      },
+      "triangles": 380
+    },
+    {
+      "id": "723851092",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_01.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 336,
+        "gable": 0
+      },
+      "triangles": 672
+    },
+    {
+      "id": "723891439",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-197_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 384,
+        "gable": 0
+      },
+      "triangles": 768
+    },
+    {
+      "id": "620168713",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-148_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1728,
+        "gable": 0
+      },
+      "triangles": 3456
+    },
+    {
+      "id": "780552679",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_23.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 186,
+        "gable": 0
+      },
+      "triangles": 386
+    },
+    {
+      "id": "723851093",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_02.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 207,
+        "gable": 0
+      },
+      "triangles": 428
+    },
+    {
+      "id": "723891440",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-196_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 23,
+        "gable": 0
+      },
+      "triangles": 92
+    },
+    {
+      "id": "620168714",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-200_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1608,
+        "gable": 0
+      },
+      "triangles": 3216
+    },
+    {
+      "id": "780552680",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_19.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 171,
+        "gable": 0
+      },
+      "triangles": 354
+    },
+    {
+      "id": "723851094",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_04.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 600,
+        "gable": 0
+      },
+      "triangles": 1200
+    },
+    {
+      "id": "723891441",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-195_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "620168716",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-199_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 19,
+        "gable": 0
+      },
+      "triangles": 76
+    },
+    {
+      "id": "780552681",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_20.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 221,
+        "gable": 0
+      },
+      "triangles": 454
+    },
+    {
+      "id": "723851095",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_05.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "723891442",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-194_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 672,
+        "gable": 0
+      },
+      "triangles": 1344
+    },
+    {
+      "id": "620168717",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-198_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 585,
+        "gable": 0
+      },
+      "triangles": 1170
+    },
+    {
+      "id": "780552682",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_18.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 225,
+        "gable": 0
+      },
+      "triangles": 464
+    },
+    {
+      "id": "723851096",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_08.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 528,
+        "gable": 0
+      },
+      "triangles": 1056
+    },
+    {
+      "id": "723891444",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-192_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 432,
+        "gable": 0
+      },
+      "triangles": 864
+    },
+    {
+      "id": "620169221",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-194_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 720,
+        "gable": 0
+      },
+      "triangles": 1440
+    },
+    {
+      "id": "780552683",
+      "district": "Briarwood",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-013_17.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 150,
+        "gable": 0
+      },
+      "triangles": 314
+    },
+    {
+      "id": "723851098",
+      "district": "Northpointe",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-043_09.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 1551,
+        "gable": 0
+      },
+      "triangles": 3102
+    },
+    {
+      "id": "723891445",
+      "district": "Oxmoor Place",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/132X-04-191_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 504,
+        "gable": 0
+      },
+      "triangles": 1008
+    },
+    {
+      "id": "620169222",
+      "district": "Wellsgate",
+      "type": "residential",
+      "source": "https://dl.agd.cc/prc/ms/lafayette/146Y-23-193_00.pdf",
+      "date": "08/20/2026",
+      "applied": {
+        "courses": 504,
+        "gable": 0
+      },
+      "triangles": 1008
+    },
+    {
+      "id": "599911626",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "100 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/100-104%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 812,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "5-bay facade",
+        "window pattern: 6/6",
+        "segmental-arched window reveals",
+        "three-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "projecting canopy with supports"
+      ]
+    },
+    {
+      "id": "451755569",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "103 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/103%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 280,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: 2/2",
+        "segmental-arched window reveals",
+        "glass transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "balcony with railing",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "paneled or masonry bulkhead",
+        "oval-light door or entrance"
+      ]
+    },
+    {
+      "id": "599911625",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "106 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/106%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 444,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "6-bay facade",
+        "window pattern: 1/1",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "dentil cornice",
+        "bracketed cornice",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead",
+        "oval-light door or entrance"
+      ]
+    },
+    {
+      "id": "451755566",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "107 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/107%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 0,
+      "features": [
+        "main roof: gable",
+        "wall finish: brick",
+        "window pattern: casement",
+        "segmental-arched window reveals",
+        "multi-light transom",
+        "corbeled cornice or parapet",
+        "roof dormer",
+        "paired entrance doors"
+      ]
+    },
+    {
+      "id": "451755565",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "119 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/119%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 228,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "9-bay facade",
+        "window pattern: display",
+        "segmental-arched window reveals",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "paneled or masonry bulkhead",
+        "paired entrance doors"
+      ]
+    },
+    {
+      "id": "599922075",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "114 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/114%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 294,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "3-bay facade",
+        "window pattern: 6/6",
+        "segmental-arched window reveals",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922074",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "116 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/116%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 64,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: display",
+        "obscured transom",
+        "corbeled cornice or parapet",
+        "parapet profile"
+      ]
+    },
+    {
+      "id": "599922073",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "120 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/118%20-%20122%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 360,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "5-bay facade",
+        "window pattern: 6/6",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "balcony with railing",
+        "cast-iron storefront elements",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "479826748",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "139 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/139%20-%20145%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 388,
+      "features": [
+        "main roof: gable",
+        "wall finish: brick",
+        "7-bay facade",
+        "window pattern: 1/1",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922071",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "128 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/128%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 308,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "3-bay facade",
+        "window pattern: 6/6",
+        "two-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "cast-iron storefront elements",
+        "storefront pilasters",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922070",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "130 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/130%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 142,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "3-bay facade",
+        "window pattern: 1/1",
+        "projecting cornice",
+        "parapet profile",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922069",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "132 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/132%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 174,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "3-bay facade",
+        "window pattern: 6/6",
+        "projecting cornice",
+        "parapet profile",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922068",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "134 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/134%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 228,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: 6/6",
+        "flat brick window arches",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599922066",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "138 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/138%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 466,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "6-bay facade",
+        "window pattern: 1/1",
+        "segmental-arched window reveals",
+        "singel-light transom",
+        "corbeled cornice or parapet",
+        "bracketed cornice",
+        "projecting canopy with supports"
+      ]
+    },
+    {
+      "id": "599810034",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "152 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/152%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 224,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "2-bay facade",
+        "window pattern: multi-light",
+        "six-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "cast-iron storefront elements",
+        "projecting canopy with supports",
+        "paired entrance doors"
+      ]
+    },
+    {
+      "id": "599810029",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "158 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/154%20-%20158%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 268,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "6-bay facade",
+        "window pattern: display",
+        "corbeled cornice or parapet",
+        "bracketed cornice",
+        "parapet profile",
+        "added mansard roof feature"
+      ]
+    },
+    {
+      "id": "599827683",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "211 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/211%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 88,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "5-bay facade",
+        "window pattern: 6/6",
+        "two-light transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "paneled or masonry bulkhead",
+        "recessed entry"
+      ]
+    },
+    {
+      "id": "479826747",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "307 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/307%20-%20309%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 104,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "6-bay facade",
+        "window pattern: display",
+        "single-light transom",
+        "parapet profile",
+        "paneled or masonry bulkhead",
+        "added mansard roof feature",
+        "oval-light door or entrance"
+      ]
+    },
+    {
+      "id": "321045855",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "302 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/302%20-%20308%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 162,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "12-bay facade",
+        "window pattern: multi-light",
+        "single-light transom",
+        "corbeled cornice or parapet",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "269021192",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "400 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/400%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 78,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "11-bay facade",
+        "window pattern: display",
+        "single-light transom"
+      ]
+    },
+    {
+      "id": "479826744",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "403 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/401%20-%20403%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 140,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "4-bay facade",
+        "window pattern: display",
+        "obscured transom",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "storefront pilasters"
+      ]
+    },
+    {
+      "id": "479826746",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "415 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/415%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 41,
+      "features": [
+        "main roof: gable",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: casement",
+        "roof dormer"
+      ]
+    },
+    {
+      "id": "599497825",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "425 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/425%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 122,
+      "features": [
+        "main roof: flat",
+        "wall finish: stucco",
+        "6-bay facade",
+        "window pattern: display",
+        "parapet profile",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "269020978",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "426 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/426%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 24,
+      "features": [
+        "main roof: gable",
+        "wall finish: brick",
+        "4-bay facade",
+        "window pattern: multi-light",
+        "added mansard roof feature"
+      ]
+    },
+    {
+      "id": "269020722",
+      "district": "South Lamar commercial corridor",
+      "type": "photographed elevation",
+      "address": "430 SOUTH LAMAR BOULEVARD",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/south%20lamar/430%20south%20lamar.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 84,
+      "features": [
+        "wall finish: board",
+        "5-bay facade",
+        "window pattern: display",
+        "single-light transom",
+        "projecting cornice",
+        "parapet profile",
+        "added mansard roof feature"
+      ]
+    },
+    {
+      "id": "269020755",
+      "district": "University Avenue commercial corridor",
+      "type": "photographed elevation",
+      "address": "1013 UNIVERSITY AVENUE",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/university%20avenue/1013%20university%20avenue.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 378,
+      "features": [
+        "main roof: hip",
+        "wall finish: stucco",
+        "9-bay facade",
+        "window pattern: steel-casement",
+        "two-light transom",
+        "projecting cornice",
+        "projecting canopy with supports",
+        "recessed entry"
+      ]
+    },
+    {
+      "id": "790036967",
+      "district": "University Avenue commercial corridor",
+      "type": "photographed elevation",
+      "address": "1207 UNIVERSITY AVENUE",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/university%20avenue/1207%20university%20avenue.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 106,
+      "features": [
+        "main roof: flat",
+        "wall finish: board",
+        "6-bay facade",
+        "window pattern: multi-light",
+        "projecting cornice",
+        "parapet profile",
+        "projecting canopy with supports"
+      ]
+    },
+    {
+      "id": "599498949",
+      "district": "University Avenue commercial corridor",
+      "type": "photographed elevation",
+      "address": "1312 UNIVERSITY AVENUE",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/university%20avenue/1310%20-%201312%20university%20avenue.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 116,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: display",
+        "single-light transom",
+        "parapet profile",
+        "projecting canopy with supports",
+        "paneled or masonry bulkhead"
+      ]
+    },
+    {
+      "id": "599497824",
+      "district": "University Avenue commercial corridor",
+      "type": "photographed elevation",
+      "address": "1415 UNIVERSITY AVENUE",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/university%20avenue/1415%20university%20avenue.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 68,
+      "features": [
+        "main roof: hip",
+        "wall finish: stucco",
+        "9-bay facade",
+        "window pattern: steel-casement",
+        "projecting cornice"
+      ]
+    },
+    {
+      "id": "599497823",
+      "district": "University Avenue commercial corridor",
+      "type": "photographed elevation",
+      "address": "1417 UNIVERSITY AVENUE",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/university%20avenue/1417%20university%20avenue.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 128,
+      "features": [
+        "main roof: flat",
+        "wall finish: brick",
+        "3-bay facade",
+        "window pattern: display",
+        "corbeled cornice or parapet",
+        "parapet profile",
+        "storefront pilasters",
+        "added mansard roof feature",
+        "side loading/receiving bay"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "451755566",
+      "district": "Oxford Courthouse Square",
+      "type": "photographed elevation",
+      "address": "107 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/107%20courthouse%20square.pdf",
+      "date": "January 2000",
+      "matchedPieces": 1,
+      "triangles": 0,
+      "features": [
+        "main roof: gable",
+        "wall finish: brick",
+        "window pattern: casement",
+        "segmental-arched window reveals",
+        "multi-light transom",
+        "corbeled cornice or parapet",
+        "roof dormer",
+        "paired entrance doors"
+      ]
+    }
+  ]
+}

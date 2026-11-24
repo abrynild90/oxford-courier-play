@@ -1,0 +1,89 @@
+{
+  "residential": {
+    "Avent Acres Neighborhood": [
+      40,
+      40
+    ],
+    "North Lamar": [
+      40,
+      40
+    ],
+    "South Lamar": [
+      36,
+      40
+    ]
+  },
+  "namedNeighborhoods": {
+    "Audubon Park": [
+      19,
+      19
+    ],
+    "Briarwood": [
+      68,
+      68
+    ],
+    "Fieldstone Farms": [
+      30,
+      30
+    ],
+    "Northpointe": [
+      68,
+      68
+    ],
+    "Old Oaks": [
+      11,
+      11
+    ],
+    "Oxmoor Place": [
+      68,
+      68
+    ],
+    "The Gables at Northpointe": [
+      23,
+      23
+    ],
+    "The Mill": [
+      1,
+      1
+    ],
+    "The Retreat at Oxford": [
+      28,
+      28
+    ],
+    "Wellsgate": [
+      68,
+      68
+    ]
+  },
+  "photographed": {
+    "Oxford Courthouse Square": {
+      "denominator": 16,
+      "numerator": 16
+    },
+    "South Lamar commercial corridor": {
+      "denominator": 9,
+      "numerator": 9
+    },
+    "University Avenue commercial corridor": {
+      "denominator": 5,
+      "numerator": 5
+    }
+  },
+  "frozenTotal": 534,
+  "residentialSourceRows": 504,
+  "residentialWithSourceDeltas": 500,
+  "photoFacadeTargets": 30,
+  "photoFacadesWithNonzeroGeometry": 29,
+  "photoFacadesWithZeroTriangles": [
+    {
+      "address": "107 COURTHOUSE SQ",
+      "source": "https://www.oxfordms.net/documents/departments/planning/surveys/courthouse%20square/107%20courthouse%20square.pdf"
+    }
+  ],
+  "distinctBuildingsWithAddedGeometry": 530,
+  "distinctBuildingsWithNonzeroGeometry": 529,
+  "materialCourseBuildings": 500,
+  "gableFronts": 28,
+  "mixedMaterialBuildings": 107,
+  "mixedMaterialDatum": "Cladding pair documented; vertical split at 42 percent is an authoring inference."
+}

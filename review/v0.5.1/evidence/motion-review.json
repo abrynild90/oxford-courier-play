@@ -1,0 +1,3371 @@
+{
+  "format": "oxford-motion-human-review-v1",
+  "version": "0.5.1",
+  "rendererSHA256": "8db8dbcd594657e15449e70382e297779003931ce80aac6a8a86dc439b500a25",
+  "captureReport": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/capture-report.json",
+  "reviewed": true,
+  "reviewGuidance": "Filmstrips support temporal screening; inspect original frames at full resolution before marking a defect observed. Static grounding cannot prove mesh contact, so mark it unverified unless geometry or an explicit close-up supports the claim.",
+  "routes": [
+    {
+      "key": "square",
+      "title": "Oxford Square and courthouse",
+      "subject": "Historic courthouse square, storefront edges, street lamps and approach pavement",
+      "viewDirection": "Across the Square toward the courthouse frontage and surrounding storefronts",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/00-start.jpg",
+          "elapsedMS": 2280,
+          "position": [
+            4.58322087420673,
+            -9.246511597105586
+          ],
+          "speed": 0,
+          "yaw": -0.2208850348505403,
+          "cameraPosition": [
+            11.128631441707139,
+            158.22319528042627,
+            -38.395666396221976
+          ],
+          "cameraYaw": 0.22066303115307667,
+          "cameraPitch": -3.0960153786707805,
+          "loadedTiles": 5,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/01-motion.jpg",
+          "elapsedMS": 3218,
+          "position": [
+            4.323348309189499,
+            -8.402923616140333
+          ],
+          "speed": 2.6031593793565904,
+          "yaw": -0.3807063139561911,
+          "cameraPosition": [
+            6.849074417198629,
+            158.6974767398421,
+            -15.451693138316104
+          ],
+          "cameraYaw": 0.3560608477594202,
+          "cameraPitch": -2.9799924026372837,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/02-motion.jpg",
+          "elapsedMS": 4144,
+          "position": [
+            1.7671251495836462,
+            -5.502698363927062
+          ],
+          "speed": 5.954424555474311,
+          "yaw": -0.9738992703305424,
+          "cameraPosition": [
+            7.984859075362984,
+            158.7109452655312,
+            -10.148112992772235
+          ],
+          "cameraYaw": 0.9334345329823504,
+          "cameraPitch": -2.890046879283051,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/03-motion.jpg",
+          "elapsedMS": 5029,
+          "position": [
+            -4.3839045062771556,
+            -2.209381291204585
+          ],
+          "speed": 9.04114498454868,
+          "yaw": -1.0852487290054895,
+          "cameraPosition": [
+            2.7354119153724303,
+            158.68244948332836,
+            -5.893714387887157
+          ],
+          "cameraYaw": 1.069759123844109,
+          "cameraPitch": -2.833453673893758,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/04-motion.jpg",
+          "elapsedMS": 5928,
+          "position": [
+            -12.257473833167008,
+            2.9237433642007002
+          ],
+          "speed": 11.705221938107256,
+          "yaw": -0.9209857737156784,
+          "cameraPosition": [
+            -5.7292230355411355,
+            158.6195456828325,
+            -1.94004394476707
+          ],
+          "cameraYaw": 0.9125732055601304,
+          "cameraPitch": -2.902799456118269,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/05-motion.jpg",
+          "elapsedMS": 6825,
+          "position": [
+            -20.40298570173732,
+            9.356594604877875
+          ],
+          "speed": 9.549331557293668,
+          "yaw": -0.9016172430299566,
+          "cameraPosition": [
+            -13.999346093201487,
+            158.52905056525844,
+            4.279620635834949
+          ],
+          "cameraYaw": 0.8878286917892326,
+          "cameraPitch": -2.910846539926716,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/06-motion.jpg",
+          "elapsedMS": 7674,
+          "position": [
+            -25.67532168293251,
+            13.48419397494816
+          ],
+          "speed": 6.179970598177116,
+          "yaw": -0.9103254099865644,
+          "cameraPosition": [
+            -19.46257756467858,
+            158.46533874546157,
+            8.652981306755835
+          ],
+          "cameraYaw": 0.8961273637360948,
+          "cameraPitch": -2.9033910878596094,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/07-motion.jpg",
+          "elapsedMS": 8532,
+          "position": [
+            -29.719981696588636,
+            16.9560258509396
+          ],
+          "speed": 7.335087567070902,
+          "yaw": -0.7152866065138691,
+          "cameraPosition": [
+            -24.29411625732834,
+            158.39768536745063,
+            11.268266369778264
+          ],
+          "cameraYaw": 0.7316902033682338,
+          "cameraPitch": -2.9418165812910866,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/08-motion.jpg",
+          "elapsedMS": 9431,
+          "position": [
+            -32.10191198790061,
+            21.390346779641902
+          ],
+          "speed": 4.305754706297399,
+          "yaw": -0.31098373641191973,
+          "cameraPosition": [
+            -29.61407055602404,
+            158.31978583985946,
+            14.167186973655413
+          ],
+          "cameraYaw": 0.3188257577635131,
+          "cameraPitch": -2.983348860180017,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/09-motion.jpg",
+          "elapsedMS": 10355,
+          "position": [
+            -32.905668238938695,
+            24.673255655126898
+          ],
+          "speed": 3.4382732974338968,
+          "yaw": -0.16410481269014193,
+          "cameraPosition": [
+            -31.503430928834824,
+            158.28238138982454,
+            17.215027172215418
+          ],
+          "cameraYaw": 0.17422763259686663,
+          "cameraPitch": -2.9885997268644475,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/10-motion.jpg",
+          "elapsedMS": 11299,
+          "position": [
+            -32.19911503059157,
+            28.683917871076417
+          ],
+          "speed": 4.565532573019022,
+          "yaw": 0.52519841046871,
+          "cameraPosition": [
+            -35.58201015401747,
+            158.27003052759454,
+            21.79129309906111
+          ],
+          "cameraYaw": -0.4806053294530733,
+          "cameraPitch": -2.972775349360695,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/11-motion.jpg",
+          "elapsedMS": 12183,
+          "position": [
+            -29.067372900496434,
+            31.224896015813204
+          ],
+          "speed": 5.263112944489344,
+          "yaw": 1.240134618564544,
+          "cameraPosition": [
+            -36.157825218761204,
+            158.41243844974508,
+            28.173931226623296
+          ],
+          "cameraYaw": -1.1709717954360799,
+          "cameraPitch": -2.756282576711037,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/12-motion.jpg",
+          "elapsedMS": 13013,
+          "position": [
+            -24.105378199809106,
+            31.45362210995505
+          ],
+          "speed": 6.808964817534411,
+          "yaw": 1.6386535811969276,
+          "cameraPosition": [
+            -31.96188048890686,
+            158.75917314212785,
+            31.947483583753986
+          ],
+          "cameraYaw": -1.4123037367919837,
+          "cameraPitch": -1.1515318612153944,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/13-motion.jpg",
+          "elapsedMS": 13865,
+          "position": [
+            -18.26187389455537,
+            31.579769955554195
+          ],
+          "speed": 6.19198011598946,
+          "yaw": 1.4385276083008034,
+          "cameraPosition": [
+            -26.063630391077435,
+            159.04677206433894,
+            30.709751179723202
+          ],
+          "cameraYaw": -1.3821189540203809,
+          "cameraPitch": -2.2559375690026533,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/14-motion.jpg",
+          "elapsedMS": 14703,
+          "position": [
+            -13.892488484946904,
+            32.44923684191368
+          ],
+          "speed": 4.8940289091810945,
+          "yaw": 1.331053226305454,
+          "cameraPosition": [
+            -21.393967138972705,
+            159.24509897979908,
+            30.661887776792643
+          ],
+          "cameraYaw": -1.29247927977829,
+          "cameraPitch": -2.5742483795846294,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/15-motion.jpg",
+          "elapsedMS": 15567,
+          "position": [
+            -10.245233335782705,
+            33.388953336044146
+          ],
+          "speed": 3.562159455572507,
+          "yaw": 1.3144127567750437,
+          "cameraPosition": [
+            -17.612287361680576,
+            159.3681947542915,
+            31.457357112283542
+          ],
+          "cameraYaw": -1.274856217738741,
+          "cameraPitch": -2.605856832841605,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/16-motion.jpg",
+          "elapsedMS": 16407,
+          "position": [
+            -8.332160506930101,
+            33.88685784718721
+          ],
+          "speed": 0,
+          "yaw": 1.3184113881026653,
+          "cameraPosition": [
+            -15.45378154044594,
+            159.43021275194943,
+            32.04938072901419
+          ],
+          "cameraYaw": -1.2764749114344698,
+          "cameraPitch": -2.5886577487249216,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/square/attempt-0/17-finish.jpg",
+          "elapsedMS": 16538,
+          "position": [
+            -8.332160506930101,
+            33.88685784718721
+          ],
+          "speed": 0,
+          "yaw": 1.3184113881026653,
+          "cameraPosition": [
+            -15.413657210415394,
+            159.4312238495079,
+            32.06043040550356
+          ],
+          "cameraYaw": -1.276240751456276,
+          "cameraPitch": -2.58695394729288,
+          "loadedTiles": 35,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/square-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "no definite pop observed; sub-frame transitions unverified",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "No abrupt trim flicker seen in sampled images. Vehicle shadow remains attached. Exact prop/tree ground contact is unverified. The test route leaves the street near its end and cuts across lawn to its projected endpoint."
+      ],
+      "notes": "No abrupt trim flicker seen in sampled images. Vehicle shadow remains attached. Exact prop/tree ground contact is unverified. The test route leaves the street near its end and cuts across lawn to its projected endpoint."
+    },
+    {
+      "key": "grove",
+      "title": "University Avenue and Grove approach",
+      "subject": "University Avenue approach, campus lawn, tree canopy and academic facades at the Grove edge",
+      "viewDirection": "Along University Avenue toward the Grove and central campus",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 10,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/00-start.jpg",
+          "elapsedMS": 2503,
+          "position": [
+            -1026.0277273137333,
+            191.12670283432752
+          ],
+          "speed": 0,
+          "yaw": -1.61603162542165,
+          "cameraPosition": [
+            -813.0862766523447,
+            155.85880726463515,
+            145.1100292678046
+          ],
+          "cameraYaw": 1.3644827844463974,
+          "cameraPitch": -3.08400813065375,
+          "loadedTiles": 7,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/01-motion.jpg",
+          "elapsedMS": 3688,
+          "position": [
+            -1027.4683919204138,
+            190.9990876116049
+          ],
+          "speed": 4.081020673418398,
+          "yaw": -1.6879130865090195,
+          "cameraPosition": [
+            -1019.8987618355388,
+            155.04925298962758,
+            191.8127573311663
+          ],
+          "cameraYaw": 1.3802433595603174,
+          "cameraPitch": -0.9514942674817796,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/02-motion.jpg",
+          "elapsedMS": 4535,
+          "position": [
+            -1032.9854291923205,
+            190.3916889422564
+          ],
+          "speed": 9.217095317758076,
+          "yaw": -1.6534094647951916,
+          "cameraPosition": [
+            -1024.958234033866,
+            153.65337369965698,
+            191.1201206221326
+          ],
+          "cameraYaw": 1.3803634998446017,
+          "cameraPitch": -1.100494355495573,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/03-motion.jpg",
+          "elapsedMS": 5371,
+          "position": [
+            -1042.99678219409,
+            189.7940414381293
+          ],
+          "speed": 14.359421210654551,
+          "yaw": -1.6240351122857295,
+          "cameraPosition": [
+            -1034.5369055745027,
+            153.6935760076312,
+            190.24441616726287
+          ],
+          "cameraYaw": 1.4343554178129616,
+          "cameraPitch": -1.1724280597674144,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/04-motion.jpg",
+          "elapsedMS": 6271,
+          "position": [
+            -1054.9955959737667,
+            189.10281381084505
+          ],
+          "speed": 9.335411571873522,
+          "yaw": -1.6313541557825173,
+          "cameraPosition": [
+            -1046.8120701075252,
+            147.32131379980027,
+            189.59713847575418
+          ],
+          "cameraYaw": 1.3176142897033833,
+          "cameraPitch": -1.3347772856058349,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/05-motion.jpg",
+          "elapsedMS": 7112,
+          "position": [
+            -1060.8021496193403,
+            188.75008967060657
+          ],
+          "speed": 6.029103707957696,
+          "yaw": -1.631319703763521,
+          "cameraPosition": [
+            -1052.9730531690243,
+            154.65862414041666,
+            189.22494255247642
+          ],
+          "cameraYaw": 1.411629515497343,
+          "cameraPitch": -1.1834964725614485,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/06-motion.jpg",
+          "elapsedMS": 7970,
+          "position": [
+            -1064.8993237067814,
+            188.5028549776585
+          ],
+          "speed": 3.6930764984987663,
+          "yaw": -1.6308305915087742,
+          "cameraPosition": [
+            -1057.2758007647558,
+            154.48481662867377,
+            188.96135634569202
+          ],
+          "cameraYaw": 1.4081162803784815,
+          "cameraPitch": -1.195728024180084,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/07-motion.jpg",
+          "elapsedMS": 8802,
+          "position": [
+            -1067.1153667258077,
+            188.36988122031607
+          ],
+          "speed": 1.925573658484026,
+          "yaw": -1.6306462014665137,
+          "cameraPosition": [
+            -1059.6468582767902,
+            154.31371870687767,
+            188.81749565990543
+          ],
+          "cameraYaw": 1.406384370764557,
+          "cameraPitch": -1.2012312885538219,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/08-motion.jpg",
+          "elapsedMS": 9655,
+          "position": [
+            -1067.8716214425049,
+            188.32458361639698
+          ],
+          "speed": 0,
+          "yaw": -1.6305830549832578,
+          "cameraPosition": [
+            -1060.5823632453219,
+            154.2260338335796,
+            188.7609073434909
+          ],
+          "cameraYaw": 1.4059890099187917,
+          "cameraPitch": -1.2026278427798656,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/grove/attempt-0/09-finish.jpg",
+          "elapsedMS": 9858,
+          "position": [
+            -1067.8716214425049,
+            188.32458361639698
+          ],
+          "speed": 0,
+          "yaw": -1.6305830549832578,
+          "cameraPosition": [
+            -1060.58444410375,
+            154.22563589327893,
+            188.7607802234973
+          ],
+          "cameraYaw": 1.4059942097680278,
+          "cameraPitch": -1.2026166924163533,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/grove-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Trees remain stable while advancing; no clear trim flicker. A pale translucent crown/impostor overlaps the dark near tree at the Grove edge. A brief dark overhead polygon fills much of the view at frame 04, consistent with passing below nearby structure; the capture does not establish its exact source. Start/finish route includes grass and path rather than continuous road."
+      ],
+      "notes": "Trees remain stable while advancing; no clear trim flicker. A pale translucent crown/impostor overlaps the dark near tree at the Grove edge. A brief dark overhead polygon fills much of the view at frame 04, consistent with passing below nearby structure; the capture does not establish its exact source. Start/finish route includes grass and path rather than continuous road."
+    },
+    {
+      "key": "south-lamar",
+      "title": "South Lamar sidewalk",
+      "subject": "South Lamar streetscape, sidewalk, residential frontage and street trees",
+      "viewDirection": "Down the South Lamar sidewalk corridor toward homes and roadside trees",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/00-start.jpg",
+          "elapsedMS": 2962,
+          "position": [
+            -230.97787267693985,
+            1155.365022154633
+          ],
+          "speed": 0,
+          "yaw": -0.677611748016696,
+          "cameraPosition": [
+            -188.98925556859103,
+            154.39223447361317,
+            962.5968094518116
+          ],
+          "cameraYaw": 0.22767408711542075,
+          "cameraPitch": -3.1275894171851975,
+          "loadedTiles": 7,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/01-motion.jpg",
+          "elapsedMS": 3985,
+          "position": [
+            -231.492496199162,
+            1156.1246200474368
+          ],
+          "speed": 2.5055420057742923,
+          "yaw": -0.5096162424008717,
+          "cameraPosition": [
+            -227.9312474923286,
+            153.74070241254785,
+            1149.7522180161711
+          ],
+          "cameraYaw": 0.5030430394247318,
+          "cameraPitch": -2.9659869157247547,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/02-motion.jpg",
+          "elapsedMS": 4855,
+          "position": [
+            -232.1456279314032,
+            1159.372391097632
+          ],
+          "speed": 5.027033042577906,
+          "yaw": 0.07268598618508722,
+          "cameraPosition": [
+            -232.25728065827835,
+            153.80246412407467,
+            1151.6678767262017
+          ],
+          "cameraYaw": -0.039520335234765835,
+          "cameraPitch": -2.9918927628053473,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/03-motion.jpg",
+          "elapsedMS": 5711,
+          "position": [
+            -231.211954187771,
+            1165.0055014197203
+          ],
+          "speed": 8.096673589447168,
+          "yaw": 0.09582199944860412,
+          "cameraPosition": [
+            -232.235546790232,
+            153.7286792260167,
+            1157.0696526408947
+          ],
+          "cameraYaw": -0.11313944133148308,
+          "cameraPitch": -2.9942270249623713,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/04-motion.jpg",
+          "elapsedMS": 6552,
+          "position": [
+            -231.83547543724958,
+            1172.819896055069
+          ],
+          "speed": 10.50108622165243,
+          "yaw": -0.19496871470680843,
+          "cameraPosition": [
+            -230.3911646102579,
+            153.84864750310143,
+            1164.7773079690244
+          ],
+          "cameraYaw": 0.183101188306461,
+          "cameraPitch": -2.9963764070748122,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/05-motion.jpg",
+          "elapsedMS": 7391,
+          "position": [
+            -233.9085348810684,
+            1182.1853410343347
+          ],
+          "speed": 12.406679321378654,
+          "yaw": -0.2137432209316466,
+          "cameraPosition": [
+            -232.10781415898524,
+            154.2505672499594,
+            1174.0067095844922
+          ],
+          "cameraYaw": 0.2133670040316358,
+          "cameraPitch": -2.9994243482959115,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/06-motion.jpg",
+          "elapsedMS": 8242,
+          "position": [
+            -236.11069304363335,
+            1193.0014377789707
+          ],
+          "speed": 13.45108315639738,
+          "yaw": -0.1920606908069858,
+          "cameraPosition": [
+            -234.46943918880328,
+            154.61358779850562,
+            1184.6429691881654
+          ],
+          "cameraYaw": 0.19124191164581525,
+          "cameraPitch": -2.999733077005958,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/07-motion.jpg",
+          "elapsedMS": 9069,
+          "position": [
+            -237.729882167691,
+            1201.7675984261155
+          ],
+          "speed": 8.203373102402738,
+          "yaw": -0.17361719658518013,
+          "cameraPosition": [
+            -236.31976641171798,
+            154.77457935788345,
+            1193.7959663046022
+          ],
+          "cameraYaw": 0.172616180859013,
+          "cameraPitch": -2.9947006418542585,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/08-motion.jpg",
+          "elapsedMS": 9863,
+          "position": [
+            -238.5883006466612,
+            1206.7556988128576
+          ],
+          "speed": 4.787774868701123,
+          "yaw": -0.16833705148798722,
+          "cameraPosition": [
+            -237.28587925148656,
+            154.79907617962084,
+            1199.1039137477437
+          ],
+          "cameraYaw": 0.16661947887001172,
+          "cameraPitch": -2.9913273902946376,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/09-motion.jpg",
+          "elapsedMS": 10709,
+          "position": [
+            -239.14810572654628,
+            1210.0560023079904
+          ],
+          "speed": 3.497722252939894,
+          "yaw": -0.1689977167359883,
+          "cameraPosition": [
+            -237.87225929824478,
+            154.85913366988137,
+            1202.542415678583
+          ],
+          "cameraYaw": 0.16664432495289422,
+          "cameraPitch": -2.989586079146559,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/10-motion.jpg",
+          "elapsedMS": 11543,
+          "position": [
+            -240.24387308995477,
+            1213.146269758352
+          ],
+          "speed": 4.528259467166227,
+          "yaw": -0.597510107896459,
+          "cameraPosition": [
+            -236.37067582985608,
+            154.9103870634918,
+            1206.503115630012
+          ],
+          "cameraYaw": 0.5515252025931852,
+          "cameraPitch": -2.967064494668683,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/11-motion.jpg",
+          "elapsedMS": 12373,
+          "position": [
+            -242.23181868365208,
+            1214.924288894845
+          ],
+          "speed": 2.7629843890828005,
+          "yaw": -1.0856846880532651,
+          "cameraPosition": [
+            -235.73282108121626,
+            155.05725484083058,
+            1211.1016321190482
+          ],
+          "cameraYaw": 1.0400978074722145,
+          "cameraPitch": -2.84213832454435,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/12-motion.jpg",
+          "elapsedMS": 13202,
+          "position": [
+            -244.39656649408673,
+            1215.523205657443
+          ],
+          "speed": 2.7221876839757355,
+          "yaw": -1.5116763888220333,
+          "cameraPosition": [
+            -236.90224414048828,
+            155.21567192237006,
+            1214.7315024025363
+          ],
+          "cameraYaw": 1.3988426137951804,
+          "cameraPitch": -2.082284851878354,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/13-motion.jpg",
+          "elapsedMS": 14038,
+          "position": [
+            -246.87716550584608,
+            1215.0929913961484
+          ],
+          "speed": 3.3184142549138076,
+          "yaw": -1.9311576745696704,
+          "cameraPosition": [
+            -239.6889433827477,
+            155.3957402320096,
+            1217.516695784127
+          ],
+          "cameraYaw": 1.2000617779150013,
+          "cameraPitch": -0.42229734352206066,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/14-motion.jpg",
+          "elapsedMS": 14874,
+          "position": [
+            -249.88413120824217,
+            1213.7615101536564
+          ],
+          "speed": 4.972551520262376,
+          "yaw": -1.9657181229123373,
+          "cameraPosition": [
+            -242.80742199807247,
+            155.60357622686476,
+            1216.8344057908578
+          ],
+          "cameraYaw": 1.1428243716984903,
+          "cameraPitch": -0.3621223142909079,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/15-motion.jpg",
+          "elapsedMS": 15707,
+          "position": [
+            -252.94591330948603,
+            1212.7802771279132
+          ],
+          "speed": 3.2548911496537514,
+          "yaw": -1.7958548850528244,
+          "cameraPosition": [
+            -245.56958383284254,
+            155.7759950220505,
+            1214.5883709866916
+          ],
+          "cameraYaw": 1.2942576593803916,
+          "cameraPitch": -0.5763450535478246,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/16-motion.jpg",
+          "elapsedMS": 16562,
+          "position": [
+            -255.44737613938057,
+            1212.3494448053211
+          ],
+          "speed": 2.699033277594588,
+          "yaw": -1.6983358057089761,
+          "cameraPosition": [
+            -247.96710467608213,
+            155.89216062266857,
+            1213.363060458058
+          ],
+          "cameraYaw": 1.37155910077524,
+          "cameraPitch": -0.8564227054688537,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/south-lamar/attempt-0/17-motion.jpg",
+          "elapsedMS": 17386,
+          "position": [
+            -257.6765278507051,
+            1211.9476332357806
+          ],
+          "speed": 2.6983630199014117,
+          "yaw": -1.8974742067668304,
+          "cameraPosition": [
+            -250.43508207058372,
+            155.973007061196,
+            1214.0553363208714
+          ],
+          "cameraYaw": 1.233997330376538,
+          "cameraPitch": -0.47071805985223103,
+          "loadedTiles": 27,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/south-lamar-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "First two frames begin inside/under a canopy, which fills the upper camera view before clearing. Pale duplicate tree crowns are visible at some distances. No definite trim flicker; exact tree roots/prop contact unverified. Route crosses sidewalk/grass and a parking area."
+      ],
+      "notes": "First two frames begin inside/under a canopy, which fills the upper camera view before clearing. Pale duplicate tree crowns are visible at some distances. No definite trim flicker; exact tree roots/prop contact unverified. Route crosses sidewalk/grass and a parking area."
+    },
+    {
+      "key": "jackson-west",
+      "title": "Jackson Avenue West shopping corridor",
+      "subject": "Jackson Avenue West commercial frontage, parking edge and roadside signs",
+      "viewDirection": "Along the Jackson Avenue shopping corridor toward its retail frontage",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 11,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/00-start.jpg",
+          "elapsedMS": 2475,
+          "position": [
+            -4733.09,
+            454.18
+          ],
+          "speed": 0,
+          "yaw": 1.66,
+          "cameraPosition": [
+            -3807.0230029318072,
+            126.46936083950118,
+            357.4917578120069
+          ],
+          "cameraYaw": 1.4661332175405053,
+          "cameraPitch": -3.039931661850704,
+          "loadedTiles": 7,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/01-motion.jpg",
+          "elapsedMS": 3548,
+          "position": [
+            -4731.977860209506,
+            454.0768635434462
+          ],
+          "speed": 3.083559941667409,
+          "yaw": 1.6663889110862553,
+          "cameraPosition": [
+            -4739.490896413106,
+            118.69290900967101,
+            454.78712601713187
+          ],
+          "cameraYaw": -1.3922696804194854,
+          "cameraPitch": -1.0154809166887955,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/02-motion.jpg",
+          "elapsedMS": 4377,
+          "position": [
+            -4728.061150967994,
+            453.67920127061717
+          ],
+          "speed": 6.363093069655054,
+          "yaw": 1.67312180329102,
+          "cameraPosition": [
+            -4735.861201891728,
+            118.57837752121108,
+            454.48394057110363
+          ],
+          "cameraYaw": -1.3901501805881247,
+          "cameraPitch": -0.9718887927798736,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/03-motion.jpg",
+          "elapsedMS": 5207,
+          "position": [
+            -4721.564333743933,
+            453.07686003466387
+          ],
+          "speed": 9.287791396783453,
+          "yaw": 1.6539951950548968,
+          "cameraPosition": [
+            -4729.64113922722,
+            118.39804282702637,
+            453.76649376400786
+          ],
+          "cameraYaw": -1.4018795895349654,
+          "cameraPitch": -1.0521621811970336,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/04-motion.jpg",
+          "elapsedMS": 6047,
+          "position": [
+            -4712.686218400781,
+            452.3790209057916
+          ],
+          "speed": 11.867769253847772,
+          "yaw": 1.6477942726852588,
+          "cameraPosition": [
+            -4721.028196773286,
+            118.19054797050076,
+            453.02269682144237
+          ],
+          "cameraYaw": -1.4077833152975956,
+          "cameraPitch": -1.0825069291344795,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/05-motion.jpg",
+          "elapsedMS": 6859,
+          "position": [
+            -4703.509530286041,
+            451.6640753206469
+          ],
+          "speed": 7.545658931279192,
+          "yaw": 1.6492593890707625,
+          "cameraPosition": [
+            -4711.566719288213,
+            118.03068711704685,
+            452.29672786607586
+          ],
+          "cameraYaw": -1.4051322240092572,
+          "cameraPitch": -1.0816252874674646,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/06-motion.jpg",
+          "elapsedMS": 7649,
+          "position": [
+            -4698.23614329564,
+            451.24836793351
+          ],
+          "speed": 5.992336265411333,
+          "yaw": 1.649555691961687,
+          "cameraPosition": [
+            -4706.073555288071,
+            117.92560223394078,
+            451.8668784114511
+          ],
+          "cameraYaw": -1.403319399741756,
+          "cameraPitch": -1.0851115679440695,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/07-motion.jpg",
+          "elapsedMS": 8478,
+          "position": [
+            -4694.104466933287,
+            450.9224452654386
+          ],
+          "speed": 4.261075141087224,
+          "yaw": 1.6494606134856704,
+          "cameraPosition": [
+            -4701.781762731416,
+            117.86237538407657,
+            451.5277193300299
+          ],
+          "cameraYaw": -1.401606449793427,
+          "cameraPitch": -1.0911162695988739,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/08-motion.jpg",
+          "elapsedMS": 9255,
+          "position": [
+            -4691.610968315239,
+            450.7253482679695
+          ],
+          "speed": 2.3934786006077373,
+          "yaw": 1.6534471321219537,
+          "cameraPosition": [
+            -4699.113330626449,
+            117.79570909302578,
+            451.32971763784275
+          ],
+          "cameraYaw": -1.3989310295649047,
+          "cameraPitch": -1.0815842150131239,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/09-motion.jpg",
+          "elapsedMS": 10076,
+          "position": [
+            -4691.275255660718,
+            450.6961686848573
+          ],
+          "speed": 0,
+          "yaw": 1.6602215857015368,
+          "cameraPosition": [
+            -4698.546283692458,
+            117.78160497595174,
+            451.3480983976647
+          ],
+          "cameraYaw": -1.393183781880048,
+          "cameraPitch": -1.0477722409788126,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/jackson-west/attempt-0/10-finish.jpg",
+          "elapsedMS": 10155,
+          "position": [
+            -4691.275255660718,
+            450.6961686848573
+          ],
+          "speed": 0,
+          "yaw": 1.6602215857015368,
+          "cameraPosition": [
+            -4698.546172753871,
+            117.7816022119251,
+            451.34810118762397
+          ],
+          "cameraYaw": -1.3931823987215348,
+          "cameraPitch": -1.047770643932853,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/jackson-west-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Tree crowns are generally stable, but a pale translucent impostor/crown overlap appears as the camera approaches roadside foliage. No clear trim flicker. Vehicle shadow remains on pavement."
+      ],
+      "notes": "Tree crowns are generally stable, but a pale translucent impostor/crown overlap appears as the camera approaches roadside foliage. No clear trim flicker. Vehicle shadow remains on pavement."
+    },
+    {
+      "key": "avent",
+      "title": "Avent Street historic homes",
+      "subject": "Avent Street house and porch frontage, street verge and neighborhood canopy",
+      "viewDirection": "Street-to-house view toward 202 Avent Street front porch",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/00-start.jpg",
+          "elapsedMS": 2682,
+          "position": [
+            551.8861436293116,
+            -638.4321400488134
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346092769,
+          "cameraPosition": [
+            473.0361128292687,
+            142.27895470345618,
+            -559.347443435688
+          ],
+          "cameraYaw": -0.8268585857464049,
+          "cameraPitch": -0.05813691122674005,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/01-motion.jpg",
+          "elapsedMS": 4132,
+          "position": [
+            552.9404694783792,
+            -638.208257125036
+          ],
+          "speed": 3.0102895876266973,
+          "yaw": 1.3615573346092906,
+          "cameraPosition": [
+            545.5702802181434,
+            139.79507979913154,
+            -639.773294652888
+          ],
+          "cameraYaw": -1.3132897651725166,
+          "cameraPitch": -2.508699262219449,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/02-motion.jpg",
+          "elapsedMS": 5058,
+          "position": [
+            557.4077068535314,
+            -637.2596527010411
+          ],
+          "speed": 6.451206407178153,
+          "yaw": 1.3615573346093142,
+          "cameraPosition": [
+            549.7515048640073,
+            139.75425511264567,
+            -638.8854241719404
+          ],
+          "cameraYaw": -1.3150458089674308,
+          "cameraPitch": -2.518551265348525,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/03-motion.jpg",
+          "elapsedMS": 5888,
+          "position": [
+            563.4464541280216,
+            -635.9773428753244
+          ],
+          "speed": 8.306231454674752,
+          "yaw": 1.3615573346093057,
+          "cameraPosition": [
+            555.599818876846,
+            139.82598080923032,
+            -637.6435522767181
+          ],
+          "cameraYaw": -1.3169973044072238,
+          "cameraPitch": -2.5298208014818755,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/04-motion.jpg",
+          "elapsedMS": 6703,
+          "position": [
+            565.9708128793426,
+            -635.4413028850227
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8263124483897,
+            139.8869634112878,
+            -636.9584160686043
+          ],
+          "cameraYaw": -1.3118878091874016,
+          "cameraPitch": -2.501020066798325,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/05-motion.jpg",
+          "elapsedMS": 7530,
+          "position": [
+            565.9708245325114,
+            -635.4413004105073
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300421695033,
+            139.8870258872061,
+            -636.9576240735407
+          ],
+          "cameraYaw": -1.3118598686064666,
+          "cameraPitch": -2.5008686498238,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/06-motion.jpg",
+          "elapsedMS": 8373,
+          "position": [
+            565.9708331636912,
+            -635.4412985777022
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300514458691,
+            139.88702603828153,
+            -636.9576221037324
+          ],
+          "cameraYaw": -1.3118598637557204,
+          "cameraPitch": -2.500868623541896,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/07-motion.jpg",
+          "elapsedMS": 9230,
+          "position": [
+            565.9708331636912,
+            -635.4412985777022
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300514845357,
+            139.88702603890988,
+            -636.9576220955216
+          ],
+          "cameraYaw": -1.3118598634658751,
+          "cameraPitch": -2.5008686219714433,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/08-motion.jpg",
+          "elapsedMS": 10116,
+          "position": [
+            565.9708433658429,
+            -635.441296411306
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300616173435,
+            139.88702620356804,
+            -636.9576199438504
+          ],
+          "cameraYaw": -1.311859863985679,
+          "cameraPitch": -2.5008686247878478,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/09-motion.jpg",
+          "elapsedMS": 10958,
+          "position": [
+            565.970867717104,
+            -635.4412912403889
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300858203608,
+            139.8870265968671,
+            -636.9576148044123
+          ],
+          "cameraYaw": -1.311859865096939,
+          "cameraPitch": -2.500868630808711,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/10-motion.jpg",
+          "elapsedMS": 11857,
+          "position": [
+            565.9708687947063,
+            -635.4412910115633
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300871154603,
+            139.8870266179125,
+            -636.9576145294019
+          ],
+          "cameraYaw": -1.3118598634665533,
+          "cameraPitch": -2.5008686219751017,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/11-motion.jpg",
+          "elapsedMS": 12668,
+          "position": [
+            565.9708687947063,
+            -635.4412910115633
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300871155542,
+            139.8870266179139,
+            -636.9576145293822
+          ],
+          "cameraYaw": -1.3118598634658387,
+          "cameraPitch": -2.5008686219713656,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/12-motion.jpg",
+          "elapsedMS": 13512,
+          "position": [
+            565.9708687947063,
+            -635.4412910115633
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8300871155543,
+            139.88702661791393,
+            -636.9576145293821
+          ],
+          "cameraYaw": -1.3118598634658414,
+          "cameraPitch": -2.5008686219713385,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/13-motion.jpg",
+          "elapsedMS": 14315,
+          "position": [
+            565.9708906161526,
+            -635.4412863778448
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8301083708752,
+            139.8870269633129,
+            -636.9576100158785
+          ],
+          "cameraYaw": -1.3118598677095799,
+          "cameraPitch": -2.500868644964376,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/14-motion.jpg",
+          "elapsedMS": 15174,
+          "position": [
+            565.9709049732901,
+            -635.4412833291498
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8301227749857,
+            139.88702719737975,
+            -636.9576069572088
+          ],
+          "cameraYaw": -1.3118598673574686,
+          "cameraPitch": -2.5008686430565543,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/15-motion.jpg",
+          "elapsedMS": 16002,
+          "position": [
+            565.9709049732901,
+            -635.4412833291498
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8301232940511,
+            139.88702720581455,
+            -636.9576068469869
+          ],
+          "cameraYaw": -1.3118598634665013,
+          "cameraPitch": -2.5008686219748304,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/16-motion.jpg",
+          "elapsedMS": 16812,
+          "position": [
+            565.9709057802962,
+            -635.4412831577845
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.8301239443963,
+            139.88702721638265,
+            -636.957606708888
+          ],
+          "cameraYaw": -1.3118598646408524,
+          "cameraPitch": -2.5008686283375634,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-0/17-motion.jpg",
+          "elapsedMS": 17644,
+          "position": [
+            565.9709057802962,
+            -635.4412831577845
+          ],
+          "speed": 0,
+          "yaw": 1.3615573346093084,
+          "cameraPosition": [
+            558.83012410112,
+            139.8870272189294,
+            -636.9576066756081
+          ],
+          "cameraYaw": -1.3118598634660426,
+          "cameraPitch": -2.500868621972247,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/avent-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Attempt 0 repeatedly stops after leaving the street and driving across the lawn toward a building facade; endpoint is not on the road, so this is a test-path artifact rather than a verified traffic blockage. Attempt 1 completes but also traverses mapped lots/grass. Pale crown overlap visible; exact ground contacts unverified."
+      ],
+      "notes": "Attempt 0 repeatedly stops after leaving the street and driving across the lawn toward a building facade; endpoint is not on the road, so this is a test-path artifact rather than a verified traffic blockage. Attempt 1 completes but also traverses mapped lots/grass. Pale crown overlap visible; exact ground contacts unverified."
+    },
+    {
+      "key": "avent",
+      "title": "Avent Street historic homes",
+      "subject": "Avent Street house and porch frontage, street verge and neighborhood canopy",
+      "viewDirection": "Street-to-house view toward 202 Avent Street front porch",
+      "attempt": 1,
+      "attemptDirection": "reverse of frozen view",
+      "drivePass": true,
+      "frames": 16,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/00-start.jpg",
+          "elapsedMS": 2637,
+          "position": [
+            551.8861436293116,
+            -638.4321400488134
+          ],
+          "speed": 0,
+          "yaw": 4.50314998819907,
+          "cameraPosition": [
+            466.97111881025285,
+            142.897150894495,
+            -536.6550330649364
+          ],
+          "cameraYaw": -0.6538550173104989,
+          "cameraPitch": -0.04993337422550379,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/01-motion.jpg",
+          "elapsedMS": 3825,
+          "position": [
+            550.927178327,
+            -638.5506295984146
+          ],
+          "speed": 2.6230658354784833,
+          "yaw": 4.679838961332031,
+          "cameraPosition": [
+            558.4037645611054,
+            139.8517881930188,
+            -638.0187899617331
+          ],
+          "cameraYaw": 1.4108280799124846,
+          "cameraPitch": -1.2297518394902949,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/02-motion.jpg",
+          "elapsedMS": 4701,
+          "position": [
+            548.8336142915593,
+            -638.1855441732425
+          ],
+          "speed": 2.7856566621631074,
+          "yaw": 5.0838205556877165,
+          "cameraPosition": [
+            555.9838267144662,
+            139.97646751287084,
+            -640.5873968018689
+          ],
+          "cameraYaw": 1.1957670268027445,
+          "cameraPitch": -2.7215017424690235,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/03-motion.jpg",
+          "elapsedMS": 5527,
+          "position": [
+            546.7883101081391,
+            -636.7485861750156
+          ],
+          "speed": 2.7808410853637318,
+          "yaw": 5.558970089021151,
+          "cameraPosition": [
+            552.0155373689746,
+            140.0958684220111,
+            -642.1611180401371
+          ],
+          "cameraYaw": 0.7381036012758966,
+          "cameraPitch": -2.9373652207544043,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/04-motion.jpg",
+          "elapsedMS": 6403,
+          "position": [
+            544.8192466438536,
+            -634.4873554603206
+          ],
+          "speed": 4.313012557086871,
+          "yaw": 5.368905137121129,
+          "cameraPosition": [
+            550.581233996634,
+            140.18708896305134,
+            -639.4932096883613
+          ],
+          "cameraYaw": 0.8680313635511803,
+          "cameraPitch": -2.9097801094836804,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/05-motion.jpg",
+          "elapsedMS": 7302,
+          "position": [
+            540.7445453436492,
+            -633.331674244129
+          ],
+          "speed": 5.712880838873194,
+          "yaw": 4.647257722013801,
+          "cameraPosition": [
+            548.5044511288982,
+            140.5296796135276,
+            -633.3538329975638
+          ],
+          "cameraYaw": 1.4232619278126302,
+          "cameraPitch": -1.3895074940367265,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/06-motion.jpg",
+          "elapsedMS": 8136,
+          "position": [
+            535.2774074620775,
+            -634.7144442427061
+          ],
+          "speed": 7.7862456563201485,
+          "yaw": 4.407407050000564,
+          "cameraPosition": [
+            542.873647959856,
+            141.0549631973148,
+            -632.327407699747
+          ],
+          "cameraYaw": 1.2352871065246531,
+          "cameraPitch": -0.44667356419079796,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/07-motion.jpg",
+          "elapsedMS": 8979,
+          "position": [
+            528.107707359467,
+            -636.601736297034
+          ],
+          "speed": 9.814720505369195,
+          "yaw": 4.500458732195814,
+          "cameraPosition": [
+            536.0688610017991,
+            141.5853725639349,
+            -634.8142699456052
+          ],
+          "cameraYaw": 1.3126821043820138,
+          "cameraPitch": -0.5819127412342716,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/08-motion.jpg",
+          "elapsedMS": 9825,
+          "position": [
+            520.4764751873179,
+            -638.097445094622
+          ],
+          "speed": 7.589209271744605,
+          "yaw": 4.525132043864376,
+          "cameraPosition": [
+            528.3251779202471,
+            142.0753378218856,
+            -636.6097192238864
+          ],
+          "cameraYaw": 1.3355341694848915,
+          "cameraPitch": -0.6589305494044447,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/09-motion.jpg",
+          "elapsedMS": 10676,
+          "position": [
+            514.9617427283295,
+            -639.1557914195033
+          ],
+          "speed": 4.972246342549584,
+          "yaw": 4.519941080261463,
+          "cameraPosition": [
+            522.5753510117744,
+            142.4891176139888,
+            -637.6760027129797
+          ],
+          "cameraYaw": 1.3297495597917797,
+          "cameraPitch": -0.6574916687201664,
+          "loadedTiles": 25,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/10-motion.jpg",
+          "elapsedMS": 11545,
+          "position": [
+            511.6583050309932,
+            -639.804663561684
+          ],
+          "speed": 3.3855019261168273,
+          "yaw": 4.5172668023344995,
+          "cameraPosition": [
+            519.1240872188849,
+            142.7312621546969,
+            -638.3305065455323
+          ],
+          "cameraYaw": 1.326067827191868,
+          "cameraPitch": -0.6583844613859553,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/11-motion.jpg",
+          "elapsedMS": 12416,
+          "position": [
+            509.06431905897665,
+            -640.3543015913804
+          ],
+          "speed": 2.72295964656722,
+          "yaw": 4.430659991484519,
+          "cameraPosition": [
+            516.3488192843072,
+            142.8782531673141,
+            -638.4569418547602
+          ],
+          "cameraYaw": 1.265559997203763,
+          "cameraPitch": -0.5211287539170284,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/12-motion.jpg",
+          "elapsedMS": 13270,
+          "position": [
+            506.5942763995202,
+            -641.8377544840066
+          ],
+          "speed": 3.3488588639509063,
+          "yaw": 3.912893960148915,
+          "cameraPosition": [
+            512.1645437208995,
+            143.03064642579943,
+            -636.6922758836216
+          ],
+          "cameraYaw": 0.7898350824394232,
+          "cameraPitch": -0.21327512441520077,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/13-motion.jpg",
+          "elapsedMS": 14121,
+          "position": [
+            505.26691500189224,
+            -644.1594501984132
+          ],
+          "speed": 3.0373879512727484,
+          "yaw": 3.4151209672477494,
+          "cameraPosition": [
+            507.5649786314318,
+            143.08047222243584,
+            -637.0264793572944
+          ],
+          "cameraYaw": 0.29123754352511183,
+          "cameraPitch": -0.15823141661808324,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/14-motion.jpg",
+          "elapsedMS": 14989,
+          "position": [
+            505.1035861898726,
+            -646.1676585397925
+          ],
+          "speed": 0.11978834517235296,
+          "yaw": 3.04345846695299,
+          "cameraPosition": [
+            504.47313266519564,
+            143.06279746584667,
+            -638.8128424657588
+          ],
+          "cameraYaw": -0.09010506296066507,
+          "cameraPitch": -0.1534652581780758,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/avent/attempt-1/15-finish.jpg",
+          "elapsedMS": 15152,
+          "position": [
+            505.1035861898726,
+            -646.1676585397925
+          ],
+          "speed": 0,
+          "yaw": 3.04345846695299,
+          "cameraPosition": [
+            504.40200545692295,
+            143.0617255000534,
+            -638.8883003709288
+          ],
+          "cameraYaw": -0.09586265030017363,
+          "cameraPitch": -0.1542464391272681,
+          "loadedTiles": 30,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/avent-attempt-1-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Attempt 0 repeatedly stops after leaving the street and driving across the lawn toward a building facade; endpoint is not on the road, so this is a test-path artifact rather than a verified traffic blockage. Attempt 1 completes but also traverses mapped lots/grass. Pale crown overlap visible; exact ground contacts unverified."
+      ],
+      "notes": "Attempt 0 repeatedly stops after leaving the street and driving across the lawn toward a building facade; endpoint is not on the road, so this is a test-path artifact rather than a verified traffic blockage. Attempt 1 completes but also traverses mapped lots/grass. Pale crown overlap visible; exact ground contacts unverified."
+    },
+    {
+      "key": "apartment-court",
+      "title": "The Mark apartment court",
+      "subject": "Apartment court massing, landscaped shared space and access drive",
+      "viewDirection": "Into the apartment court toward the main residential blocks",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/00-start.jpg",
+          "elapsedMS": 2432,
+          "position": [
+            -2548.98,
+            2703.48
+          ],
+          "speed": 0,
+          "yaw": 1.11,
+          "cameraPosition": [
+            -1865.0639428584989,
+            154.58111700221724,
+            1963.0303692136793
+          ],
+          "cameraYaw": 0.7400014215633873,
+          "cameraPitch": -3.13704210376957,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/01-motion.jpg",
+          "elapsedMS": 3556,
+          "position": [
+            -2548.064383440792,
+            2703.8388264026894
+          ],
+          "speed": 2.7202515398044937,
+          "yaw": 1.289362161413721,
+          "cameraPosition": [
+            -2555.1872138531035,
+            153.2770439724297,
+            2701.457566203454
+          ],
+          "cameraYaw": -1.2321309545812649,
+          "cameraPitch": -2.6719172726841984,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/02-motion.jpg",
+          "elapsedMS": 4360,
+          "position": [
+            -2545.8500088574865,
+            2703.9882825028203
+          ],
+          "speed": 2.780674558653628,
+          "yaw": 1.711592412752866,
+          "cameraPosition": [
+            -2553.351993943948,
+            153.35107570510493,
+            2704.700998224203
+          ],
+          "cameraYaw": -1.38168273729553,
+          "cameraPitch": -0.9219657673976565,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/03-motion.jpg",
+          "elapsedMS": 5180,
+          "position": [
+            -2543.7796150637473,
+            2703.2264682009322
+          ],
+          "speed": 2.686932781514577,
+          "yaw": 2.1303502964557577,
+          "cameraPosition": [
+            -2550.338833647294,
+            153.4516458892574,
+            2706.930071704755
+          ],
+          "cameraYaw": -1.0178589625689933,
+          "cameraPitch": -0.28889027952398166,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/04-motion.jpg",
+          "elapsedMS": 6014,
+          "position": [
+            -2542.168525192794,
+            2701.6411257493864
+          ],
+          "speed": 2.685170047729794,
+          "yaw": 2.559842959712958,
+          "cameraPosition": [
+            -2546.5908889200796,
+            153.57573468341926,
+            2707.7402920640216
+          ],
+          "cameraYaw": -0.5993414177211687,
+          "cameraPitch": -0.1821973278004312,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/05-motion.jpg",
+          "elapsedMS": 6839,
+          "position": [
+            -2541.368557027406,
+            2699.570907124836
+          ],
+          "speed": 2.725645331978218,
+          "yaw": 2.9801199025075826,
+          "cameraPosition": [
+            -2542.9247264821965,
+            153.68005817278765,
+            2706.950608081926
+          ],
+          "cameraYaw": -0.1851540007362299,
+          "cameraPitch": -0.15290907866536566,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/06-motion.jpg",
+          "elapsedMS": 7637,
+          "position": [
+            -2541.3611899591024,
+            2697.427687551936
+          ],
+          "speed": 2.7366288028894665,
+          "yaw": 3.2527507249826706,
+          "cameraPosition": [
+            -2540.6771806888387,
+            153.75085648420975,
+            2704.9382929182743
+          ],
+          "cameraYaw": 0.09870018095207625,
+          "cameraPitch": -0.15124021509111,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/07-motion.jpg",
+          "elapsedMS": 8457,
+          "position": [
+            -2541.6933397830594,
+            2695.1715026891156
+          ],
+          "speed": 2.8924865708519976,
+          "yaw": 3.280252245925193,
+          "cameraPosition": [
+            -2540.5909220470935,
+            153.79682585623067,
+            2702.6511857043015
+          ],
+          "cameraYaw": 0.14131006558824946,
+          "cameraPitch": -0.15212362442428895,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/08-motion.jpg",
+          "elapsedMS": 9265,
+          "position": [
+            -2541.7734951143593,
+            2692.2271917783087
+          ],
+          "speed": 4.203106870669379,
+          "yaw": 3.0291676666406095,
+          "cameraPosition": [
+            -2542.33614263614,
+            153.8506233145653,
+            2699.8802369677214
+          ],
+          "cameraYaw": -0.0895152974839402,
+          "cameraPitch": -0.14929115464759482,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/09-motion.jpg",
+          "elapsedMS": 10049,
+          "position": [
+            -2540.7736475263087,
+            2688.7806024104825
+          ],
+          "speed": 5.301869302838422,
+          "yaw": 2.72292969883109,
+          "cameraPosition": [
+            -2543.714369980032,
+            153.97893235719042,
+            2695.9639965572737
+          ],
+          "cameraYaw": -0.3970920310576879,
+          "cameraPitch": -0.15981721160141618,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/10-motion.jpg",
+          "elapsedMS": 10841,
+          "position": [
+            -2538.45804707799,
+            2684.558182009229
+          ],
+          "speed": 6.466643037691259,
+          "yaw": 2.5999027539658113,
+          "cameraPosition": [
+            -2542.4891028523057,
+            154.1573808603027,
+            2691.3324445676635
+          ],
+          "cameraYaw": -0.5325697918357861,
+          "cameraPitch": -0.1694136098204744,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/11-motion.jpg",
+          "elapsedMS": 11631,
+          "position": [
+            -2536.0239762185433,
+            2680.5077729698123
+          ],
+          "speed": 4.7888947156242745,
+          "yaw": 2.607863652916644,
+          "cameraPosition": [
+            -2539.988183111491,
+            154.33911097479287,
+            2687.185544287188
+          ],
+          "cameraYaw": -0.5284546360939288,
+          "cameraPitch": -0.170785392158127,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/12-motion.jpg",
+          "elapsedMS": 12445,
+          "position": [
+            -2534.4468093887926,
+            2677.7957334685498
+          ],
+          "speed": 3.322131691064376,
+          "yaw": 2.6210025731855975,
+          "cameraPosition": [
+            -2538.2384942168815,
+            154.45353060399924,
+            2684.3923059941926
+          ],
+          "cameraYaw": -0.5148128222397832,
+          "cameraPitch": -0.17189747272039183,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/13-motion.jpg",
+          "elapsedMS": 13280,
+          "position": [
+            -2533.175345545621,
+            2675.5608970829876
+          ],
+          "speed": 2.8474060286171508,
+          "yaw": 2.626714310496242,
+          "cameraPosition": [
+            -2536.9032808982247,
+            154.5475891235419,
+            2682.1441231651806
+          ],
+          "cameraYaw": -0.5087420009624605,
+          "cameraPitch": -0.17197211751300584,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/14-motion.jpg",
+          "elapsedMS": 14095,
+          "position": [
+            -2531.9237009612693,
+            2673.7066089021446
+          ],
+          "speed": 2.7141216649855995,
+          "yaw": 2.3865466197211966,
+          "cameraPosition": [
+            -2536.8425618680717,
+            154.62762376148098,
+            2679.426361198262
+          ],
+          "cameraYaw": -0.7200443911971453,
+          "cameraPitch": -0.20060125213319172,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/15-motion.jpg",
+          "elapsedMS": 14889,
+          "position": [
+            -2530.135872635481,
+            2672.4618105139893
+          ],
+          "speed": 2.815170126359818,
+          "yaw": 1.9750162296247498,
+          "cameraPosition": [
+            -2536.9227522413667,
+            154.693408081341,
+            2675.754207780293
+          ],
+          "cameraYaw": -1.116159292268687,
+          "cameraPitch": -0.34849782731872747,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/16-motion.jpg",
+          "elapsedMS": 15670,
+          "position": [
+            -2528.0561646452306,
+            2672.038127255706
+          ],
+          "speed": 2.7468113636658766,
+          "yaw": 1.5728386663860174,
+          "cameraPosition": [
+            -2535.5880981649448,
+            154.73479948148045,
+            2672.408173753335
+          ],
+          "cameraYaw": -1.4174136188098885,
+          "cameraPitch": -1.3870190316341913,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/apartment-court/attempt-0/17-motion.jpg",
+          "elapsedMS": 16513,
+          "position": [
+            -2525.787718101387,
+            2672.547273436984
+          ],
+          "speed": 2.741014581205128,
+          "yaw": 1.1321806848906684,
+          "cameraPosition": [
+            -2532.7617713890586,
+            154.73749069925873,
+            2669.671692573665
+          ],
+          "cameraYaw": -1.133325666102734,
+          "cameraPitch": -2.778369402877349,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/apartment-court-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Start camera is within a nearby tree canopy for the first frame; it clears as the car moves. A translucent pale canopy/impostor is visible around the near 3D crown during approach. No repeated trim flicker seen. Exact vegetation ground contact unverified; generated route cuts across the court/grass."
+      ],
+      "notes": "Start camera is within a nearby tree canopy for the first frame; it clears as the car moves. A translucent pale canopy/impostor is visible around the near 3D crown during approach. No repeated trim flicker seen. Exact vegetation ground contact unverified; generated route cuts across the court/grass."
+    },
+    {
+      "key": "lake-patsy-pier",
+      "title": "Lake Patsy shoreline and pier",
+      "subject": "Lake Patsy water edge, access path, pier deck and railing",
+      "viewDirection": "From the pier entrance toward the lake and pier deck",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/00-start.jpg",
+          "elapsedMS": 2187,
+          "position": [
+            -2696.47,
+            -1232.49
+          ],
+          "speed": 0,
+          "yaw": -2.11,
+          "cameraPosition": [
+            -1903.8307002081451,
+            127.53770076059503,
+            -882.9815054425593
+          ],
+          "cameraYaw": 1.1543313737463505,
+          "cameraPitch": -0.04148911357745225,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/01-motion.jpg",
+          "elapsedMS": 3316,
+          "position": [
+            -2697.0372008159907,
+            -1232.8245600539176
+          ],
+          "speed": 1.9717175048758013,
+          "yaw": -2.0969351081087497,
+          "cameraPosition": [
+            -2690.6024038789765,
+            114.9603443829708,
+            -1229.05925076384
+          ],
+          "cameraYaw": 1.023406456283102,
+          "cameraPitch": -0.29504788526644865,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/02-motion.jpg",
+          "elapsedMS": 4099,
+          "position": [
+            -2698.975663699497,
+            -1233.891389878655
+          ],
+          "speed": 2.748047758577025,
+          "yaw": -2.0520234843116243,
+          "cameraPosition": [
+            -2692.2994140555365,
+            114.95854431997351,
+            -1230.3632185818929
+          ],
+          "cameraYaw": 1.065633907891864,
+          "cameraPitch": -0.31580885177523177,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/03-motion.jpg",
+          "elapsedMS": 4874,
+          "position": [
+            -2700.8583022520766,
+            -1234.8266169835501
+          ],
+          "speed": 2.7966216479715884,
+          "yaw": -2.0125904671608277,
+          "cameraPosition": [
+            -2694.046422635103,
+            114.95622289145433,
+            -1231.5664243271654
+          ],
+          "cameraYaw": 1.1031509997394626,
+          "cameraPitch": -0.3399376479768411,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/04-motion.jpg",
+          "elapsedMS": 5644,
+          "position": [
+            -2700.884759416278,
+            -1234.83911411351
+          ],
+          "speed": 0,
+          "yaw": -2.011332268861269,
+          "cameraPosition": [
+            -2694.2818143375557,
+            114.95587784171268,
+            -1231.725831791149
+          ],
+          "cameraYaw": 1.1058663809429627,
+          "cameraPitch": -0.34838432515462936,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/05-motion.jpg",
+          "elapsedMS": 6413,
+          "position": [
+            -2700.884849296452,
+            -1234.839156475757
+          ],
+          "speed": 0,
+          "yaw": -2.0109249811462937,
+          "cameraPosition": [
+            -2694.280708274793,
+            114.95587759799206,
+            -1231.7286377492246
+          ],
+          "cameraYaw": 1.1062514262847447,
+          "cameraPitch": -0.34866593036684773,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/06-motion.jpg",
+          "elapsedMS": 7188,
+          "position": [
+            -2700.884939613319,
+            -1234.8391989950956
+          ],
+          "speed": 0,
+          "yaw": -2.010534999666573,
+          "cameraPosition": [
+            -2694.2795931001824,
+            114.9558774719962,
+            -1231.7312408380194
+          ],
+          "cameraYaw": 1.1066167435274952,
+          "cameraPitch": -0.34893116243484384,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/07-motion.jpg",
+          "elapsedMS": 7962,
+          "position": [
+            -2700.885137100913,
+            -1234.839291852762
+          ],
+          "speed": 0,
+          "yaw": -2.0101317987254723,
+          "cameraPosition": [
+            -2694.2785229397527,
+            114.95587721639066,
+            -1231.733990868422
+          ],
+          "cameraYaw": 1.1069957307013087,
+          "cameraPitch": -0.3492063761479314,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/08-motion.jpg",
+          "elapsedMS": 8729,
+          "position": [
+            -2700.8852410783584,
+            -1234.8393406840735
+          ],
+          "speed": 0,
+          "yaw": -2.0097446960803445,
+          "cameraPosition": [
+            -2694.2774198184356,
+            114.95587706351925,
+            -1231.7366223919005
+          ],
+          "cameraYaw": 1.1073611982045226,
+          "cameraPitch": -0.34947281064132485,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/09-motion.jpg",
+          "elapsedMS": 9500,
+          "position": [
+            -2700.885315761227,
+            -1234.8393757371632
+          ],
+          "speed": 0,
+          "yaw": -2.009366847693137,
+          "cameraPosition": [
+            -2694.276332311171,
+            114.95587694494951,
+            -1231.7391593136845
+          ],
+          "cameraYaw": 1.1077161742400115,
+          "cameraPitch": -0.34973218436590653,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/10-motion.jpg",
+          "elapsedMS": 10271,
+          "position": [
+            -2700.8854851781007,
+            -1234.839455160553
+          ],
+          "speed": 0,
+          "yaw": -2.0089560384088756,
+          "cameraPosition": [
+            -2694.27522693255,
+            114.95587671815498,
+            -1231.7419366855536
+          ],
+          "cameraYaw": 1.1081010697668165,
+          "cameraPitch": -0.3500133656908932,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/11-motion.jpg",
+          "elapsedMS": 11045,
+          "position": [
+            -2700.8856162264187,
+            -1234.8395165272786
+          ],
+          "speed": 0,
+          "yaw": -2.008572368255366,
+          "cameraPosition": [
+            -2694.2741571842184,
+            114.95587654804979,
+            -1231.7445351641572
+          ],
+          "cameraYaw": 1.1084619310102202,
+          "cameraPitch": -0.3502773804699443,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/12-motion.jpg",
+          "elapsedMS": 11820,
+          "position": [
+            -2700.885706650258,
+            -1234.8395588186481
+          ],
+          "speed": 0,
+          "yaw": -2.0081846720038974,
+          "cameraPosition": [
+            -2694.273049871588,
+            114.95587641437584,
+            -1231.7471485760686
+          ],
+          "cameraYaw": 1.1088264900428588,
+          "cameraPitch": -0.35054499520820565,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/13-motion.jpg",
+          "elapsedMS": 12590,
+          "position": [
+            -2700.8857859039235,
+            -1234.8395958609444
+          ],
+          "speed": 0,
+          "yaw": -2.0077713959722305,
+          "cameraPosition": [
+            -2694.2718720906914,
+            114.95587628418626,
+            -1231.749908663912
+          ],
+          "cameraYaw": 1.1092133082569082,
+          "cameraPitch": -0.35082970544984865,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/14-motion.jpg",
+          "elapsedMS": 13366,
+          "position": [
+            -2700.8859859158297,
+            -1234.8396892422045
+          ],
+          "speed": 0,
+          "yaw": -2.0073739891319717,
+          "cameraPosition": [
+            -2694.2708082469103,
+            114.95587604875827,
+            -1231.7526210837925
+          ],
+          "cameraYaw": 1.1095870947418573,
+          "cameraPitch": -0.3511039672047205,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/15-motion.jpg",
+          "elapsedMS": 14138,
+          "position": [
+            -2700.8859859158297,
+            -1234.8396892422045
+          ],
+          "speed": 0,
+          "yaw": -2.006982831233702,
+          "cameraPosition": [
+            -2694.269637304259,
+            114.95587599904307,
+            -1231.7552231454401
+          ],
+          "cameraYaw": 1.109954070361998,
+          "cameraPitch": -0.3513757174018859,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/16-motion.jpg",
+          "elapsedMS": 14912,
+          "position": [
+            -2700.886170200669,
+            -1234.8397751216187
+          ],
+          "speed": 0,
+          "yaw": -2.0065965725803605,
+          "cameraPosition": [
+            -2694.268625473997,
+            114.95587573881446,
+            -1231.7578734011913
+          ],
+          "cameraYaw": 1.1103174154118545,
+          "cameraPitch": -0.3516441963317183,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-0/17-motion.jpg",
+          "elapsedMS": 15687,
+          "position": [
+            -2700.8863252096635,
+            -1234.8398472602198
+          ],
+          "speed": 0,
+          "yaw": -2.0062020255720365,
+          "cameraPosition": [
+            -2694.267527452917,
+            114.95587556968802,
+            -1231.7605430143005
+          ],
+          "cameraYaw": 1.1106881835368139,
+          "cameraPitch": -0.3519176081223337,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/lake-patsy-pier-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Attempt 0 is held near the pier by a nearby slow-moving vehicle; it does not visually traverse the scene. Reverse attempt leaves the pier across lawn, so lake and water animation are only seen briefly at start. A pale canopy impostor appears in the later tree approach. Water temporal motion and shoreline contact are not verified by this pass."
+      ],
+      "notes": "Attempt 0 is held near the pier by a nearby slow-moving vehicle; it does not visually traverse the scene. Reverse attempt leaves the pier across lawn, so lake and water animation are only seen briefly at start. A pale canopy impostor appears in the later tree approach. Water temporal motion and shoreline contact are not verified by this pass."
+    },
+    {
+      "key": "lake-patsy-pier",
+      "title": "Lake Patsy shoreline and pier",
+      "subject": "Lake Patsy water edge, access path, pier deck and railing",
+      "viewDirection": "From the pier entrance toward the lake and pier deck",
+      "attempt": 1,
+      "attemptDirection": "reverse of frozen view",
+      "drivePass": true,
+      "frames": 18,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/00-start.jpg",
+          "elapsedMS": 2235,
+          "position": [
+            -2696.47,
+            -1232.49
+          ],
+          "speed": 0,
+          "yaw": 1.0315926535897932,
+          "cameraPosition": [
+            -1974.592397420061,
+            126.55258774930199,
+            -915.5491705039193
+          ],
+          "cameraYaw": 1.1576975147053616,
+          "cameraPitch": -0.04346936678063894,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/01-motion.jpg",
+          "elapsedMS": 3363,
+          "position": [
+            -2695.744572371731,
+            -1232.0486503064076
+          ],
+          "speed": 2.407216324680496,
+          "yaw": 1.0163182016848644,
+          "cameraPosition": [
+            -2702.1278899392323,
+            114.95458289157052,
+            -1235.9694655982548
+          ],
+          "cameraYaw": -0.9998474019437289,
+          "cameraPitch": -2.8570101636496323,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/02-motion.jpg",
+          "elapsedMS": 4149,
+          "position": [
+            -2693.885092747651,
+            -1230.8400836435667
+          ],
+          "speed": 2.816381251364246,
+          "yaw": 0.972978847495886,
+          "cameraPosition": [
+            -2700.1492579443684,
+            114.77766829615209,
+            -1235.0602838722577
+          ],
+          "cameraYaw": -0.9588358723465995,
+          "cameraPitch": -2.874206623156332,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/03-motion.jpg",
+          "elapsedMS": 4931,
+          "position": [
+            -2692.127842050669,
+            -1229.5877482923465
+          ],
+          "speed": 2.7910026144455067,
+          "yaw": 0.9307136756015009,
+          "cameraPosition": [
+            -2698.2120480468534,
+            114.59759308830202,
+            -1234.070954819141
+          ],
+          "cameraYaw": -0.9180430804675674,
+          "cameraPitch": -2.889069665411291,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/04-motion.jpg",
+          "elapsedMS": 5697,
+          "position": [
+            -2690.427476925516,
+            -1228.2642678038565
+          ],
+          "speed": 2.838904369223128,
+          "yaw": 0.888510416208887,
+          "cameraPosition": [
+            -2696.3205178992507,
+            114.40822856370163,
+            -1233.002169224819
+          ],
+          "cameraYaw": -0.8771047368259354,
+          "cameraPitch": -2.9015553063805606,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/05-motion.jpg",
+          "elapsedMS": 6482,
+          "position": [
+            -2688.7295289253634,
+            -1226.821474775973
+          ],
+          "speed": 2.9098650769513132,
+          "yaw": 0.8448652793345865,
+          "cameraPosition": [
+            -2694.408594099374,
+            114.18938501803044,
+            -1231.8109113001738
+          ],
+          "cameraYaw": -0.8346292551601646,
+          "cameraPitch": -2.913225218492916,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/06-motion.jpg",
+          "elapsedMS": 7253,
+          "position": [
+            -2687.101918643868,
+            -1225.311578918206
+          ],
+          "speed": 2.8629292116819167,
+          "yaw": 0.8013801019968313,
+          "cameraPosition": [
+            -2692.5634211388806,
+            113.96939003309356,
+            -1230.5465062735022
+          ],
+          "cameraYaw": -0.7922778816276242,
+          "cameraPitch": -2.9233344186882855,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/07-motion.jpg",
+          "elapsedMS": 8027,
+          "position": [
+            -2685.5215004062834,
+            -1223.7112147874814
+          ],
+          "speed": 2.930404011931053,
+          "yaw": 0.7573241422216855,
+          "cameraPosition": [
+            -2690.750421029321,
+            113.79871133941072,
+            -1229.184153520451
+          ],
+          "cameraYaw": -0.7493528051877025,
+          "cameraPitch": -2.933209400188924,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/08-motion.jpg",
+          "elapsedMS": 8801,
+          "position": [
+            -2683.99848977503,
+            -1222.0258901788402
+          ],
+          "speed": 2.943659642253547,
+          "yaw": 0.7128297822092832,
+          "cameraPosition": [
+            -2688.9812760663763,
+            113.63532198598371,
+            -1227.7280954244804
+          ],
+          "cameraYaw": -0.7058207155389243,
+          "cameraPitch": -2.9412637359779668,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/09-motion.jpg",
+          "elapsedMS": 9586,
+          "position": [
+            -2682.503139876964,
+            -1220.212531199327
+          ],
+          "speed": 2.9664706006264034,
+          "yaw": 0.6667896096341813,
+          "cameraPosition": [
+            -2687.2198349091223,
+            113.48824858272256,
+            -1226.1395324466926
+          ],
+          "cameraYaw": -0.6607639147479455,
+          "cameraPitch": -2.9493477173440414,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/10-motion.jpg",
+          "elapsedMS": 10368,
+          "position": [
+            -2681.0868820948185,
+            -1218.3239352677049
+          ],
+          "speed": 3.014002785236266,
+          "yaw": 0.6205493230154128,
+          "cameraPosition": [
+            -2685.5289078535293,
+            113.39453323170966,
+            -1224.4670862931723
+          ],
+          "cameraYaw": -0.6154241954801474,
+          "cameraPitch": -2.95590671913768,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/11-motion.jpg",
+          "elapsedMS": 11144,
+          "position": [
+            -2679.7541049092397,
+            -1216.3636349879212
+          ],
+          "speed": 3.064838977908106,
+          "yaw": 0.5741158900801695,
+          "cameraPosition": [
+            -2683.9078810911087,
+            113.30223900078246,
+            -1222.7082271454185
+          ],
+          "cameraYaw": -0.5697854589850505,
+          "cameraPitch": -2.961506896416733,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 12,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/12-motion.jpg",
+          "elapsedMS": 11924,
+          "position": [
+            -2678.48636500481,
+            -1214.2964704653207
+          ],
+          "speed": 3.140605064282396,
+          "yaw": 0.5266147191465905,
+          "cameraPosition": [
+            -2682.337034364264,
+            113.21900084584108,
+            -1220.8346651982417
+          ],
+          "cameraYaw": -0.5231020526106165,
+          "cameraPitch": -2.9669051689993666,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 13,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/13-motion.jpg",
+          "elapsedMS": 12704,
+          "position": [
+            -2677.30143239318,
+            -1212.13907948288
+          ],
+          "speed": 3.2217555859850755,
+          "yaw": 0.4783993589312453,
+          "cameraPosition": [
+            -2680.8349985272953,
+            113.14164974269102,
+            -1218.8586656386824
+          ],
+          "cameraYaw": -0.47565327783305505,
+          "cameraPitch": -2.971501294987438,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 14,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/14-motion.jpg",
+          "elapsedMS": 13475,
+          "position": [
+            -2676.225137405985,
+            -1210.017697876675
+          ],
+          "speed": 2.8864616308859543,
+          "yaw": 0.5080104661625404,
+          "cameraPosition": [
+            -2679.788781532029,
+            113.10488600011942,
+            -1216.6919065019454
+          ],
+          "cameraYaw": -0.4920551392409226,
+          "cameraPitch": -2.9704729642681693,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 15,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/15-motion.jpg",
+          "elapsedMS": 14249,
+          "position": [
+            -2674.9694241832926,
+            -1208.180166230076
+          ],
+          "speed": 2.913437930768062,
+          "yaw": 0.6895568789598039,
+          "cameraPosition": [
+            -2679.6547481303173,
+            113.10546879240508,
+            -1214.1203706556328
+          ],
+          "cameraYaw": -0.6683548236811008,
+          "cameraPitch": -2.9490415794360145,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 16,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/16-motion.jpg",
+          "elapsedMS": 15032,
+          "position": [
+            -2673.3420415711976,
+            -1206.542088971784
+          ],
+          "speed": 3.0023376905751324,
+          "yaw": 0.8712556616378282,
+          "cameraPosition": [
+            -2679.0319747640788,
+            113.06316538410807,
+            -1211.5397687803807
+          ],
+          "cameraYaw": -0.8463496321265772,
+          "cameraPitch": -2.912723161232337,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 17,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/lake-patsy-pier/attempt-1/17-motion.jpg",
+          "elapsedMS": 15811,
+          "position": [
+            -2671.3937462266304,
+            -1205.184199946605
+          ],
+          "speed": 3.141728690962078,
+          "yaw": 1.0501911005835072,
+          "cameraPosition": [
+            -2677.8909210579895,
+            113.08820399044227,
+            -1209.0952725289553
+          ],
+          "cameraYaw": -1.0195694658067298,
+          "cameraPitch": -2.852282821441383,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/lake-patsy-pier-attempt-1-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Attempt 0 is held near the pier by a nearby slow-moving vehicle; it does not visually traverse the scene. Reverse attempt leaves the pier across lawn, so lake and water animation are only seen briefly at start. A pale canopy impostor appears in the later tree approach. Water temporal motion and shoreline contact are not verified by this pass."
+      ],
+      "notes": "Attempt 0 is held near the pier by a nearby slow-moving vehicle; it does not visually traverse the scene. Reverse attempt leaves the pier across lawn, so lake and water animation are only seen briefly at start. A pale canopy impostor appears in the later tree approach. Water temporal motion and shoreline contact are not verified by this pass."
+    },
+    {
+      "key": "woodbine",
+      "title": "Woodbine Drive at the city edge",
+      "subject": "Woodbine Drive edge neighborhood, open terrain, roadway and distant tree line",
+      "viewDirection": "Along Woodbine Drive toward the city-edge neighborhood and open land",
+      "attempt": 0,
+      "attemptDirection": "frozen view",
+      "drivePass": true,
+      "frames": 12,
+      "frameMetadata": [
+        {
+          "index": 0,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/00-start.jpg",
+          "elapsedMS": 2230,
+          "position": [
+            3714.26,
+            -539.7
+          ],
+          "speed": 0,
+          "yaw": -1.28,
+          "cameraPosition": [
+            2895.310712825103,
+            138.568567979471,
+            -430.2381661964297
+          ],
+          "cameraYaw": -1.438742913048803,
+          "cameraPitch": -0.07111763626590328,
+          "loadedTiles": 10,
+          "failedTiles": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/01-motion.jpg",
+          "elapsedMS": 3321,
+          "position": [
+            3713.362125956952,
+            -539.4935151441694
+          ],
+          "speed": 2.4876115748864702,
+          "yaw": -1.4005462636801151,
+          "cameraPosition": [
+            3720.7227417852246,
+            133.0031892786519,
+            -540.927116938385
+          ],
+          "cameraYaw": 1.3347976478098569,
+          "cameraPitch": -2.445845155673572,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/02-motion.jpg",
+          "elapsedMS": 4112,
+          "position": [
+            3710.343166408823,
+            -539.1407993531337
+          ],
+          "speed": 5.196987591007,
+          "yaw": -1.4560483945815819,
+          "cameraPosition": [
+            3718.04475499538,
+            133.1165859340757,
+            -539.986554885583
+          ],
+          "cameraYaw": 1.385128545204631,
+          "cameraPitch": -2.2109063369743094,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/03-motion.jpg",
+          "elapsedMS": 4878,
+          "position": [
+            3705.415709988856,
+            -538.2929406119291
+          ],
+          "speed": 7.79401695977969,
+          "yaw": -1.3507277404250664,
+          "cameraPosition": [
+            3713.2307128436396,
+            133.13543022243798,
+            -539.9428241029208
+          ],
+          "cameraYaw": 1.313084943463601,
+          "cameraPitch": -2.5346893118812197,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/04-motion.jpg",
+          "elapsedMS": 5649,
+          "position": [
+            3698.7013180376794,
+            -536.5793553806014
+          ],
+          "speed": 10.12694493043014,
+          "yaw": -1.3086552069555468,
+          "cameraPosition": [
+            3706.6290130843654,
+            133.17866176034752,
+            -538.6963062995876
+          ],
+          "cameraYaw": 1.2732746033714006,
+          "cameraPitch": -2.6313972779114856,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/05-motion.jpg",
+          "elapsedMS": 6424,
+          "position": [
+            3690.6587364735065,
+            -534.4479271595447
+          ],
+          "speed": 10.806002145042724,
+          "yaw": -1.3160126216529477,
+          "cameraPosition": [
+            3698.6800098429167,
+            133.22558923208555,
+            -536.5455358824289
+          ],
+          "cameraYaw": 1.2789818375013569,
+          "cameraPitch": -2.624115039023877,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/06-motion.jpg",
+          "elapsedMS": 7207,
+          "position": [
+            3684.1559924246503,
+            -532.7683622476317
+          ],
+          "speed": 7.304234149054914,
+          "yaw": -1.3191303509412005,
+          "cameraPosition": [
+            3691.8863199644434,
+            133.28631045086476,
+            -534.7568866156083
+          ],
+          "cameraYaw": 1.28072475362116,
+          "cameraPitch": -2.609248490294054,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/07-motion.jpg",
+          "elapsedMS": 7980,
+          "position": [
+            3679.3517376887244,
+            -531.5327375720244
+          ],
+          "speed": 5.471500159001025,
+          "yaw": -1.318800525537763,
+          "cameraPosition": [
+            3686.9353995124325,
+            133.35414021645857,
+            -533.4847067700605
+          ],
+          "cameraYaw": 1.2798631636873399,
+          "cameraPitch": -2.6055151967294146,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 8,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/08-motion.jpg",
+          "elapsedMS": 8758,
+          "position": [
+            3676.073518076301,
+            -530.6878535437542
+          ],
+          "speed": 3.670677682238677,
+          "yaw": -1.3183435104029604,
+          "cameraPosition": [
+            3683.483481139755,
+            133.4439206668802,
+            -532.5989748114205
+          ],
+          "cameraYaw": 1.2784285893496252,
+          "cameraPitch": -2.6000902346345875,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 9,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/09-motion.jpg",
+          "elapsedMS": 9529,
+          "position": [
+            3673.6276734694575,
+            -530.050101888824
+          ],
+          "speed": 3.097487362102907,
+          "yaw": -1.2934058892574731,
+          "cameraPosition": [
+            3680.950830644715,
+            133.50957812862023,
+            -532.0375999875856
+          ],
+          "cameraYaw": 1.2624082845102738,
+          "cameraPitch": -2.6268606368230047,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 10,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/10-motion.jpg",
+          "elapsedMS": 10305,
+          "position": [
+            3672.4804669177884,
+            -529.627096149733
+          ],
+          "speed": 0,
+          "yaw": -1.130614838962766,
+          "cameraPosition": [
+            3679.102515349772,
+            133.54422011939894,
+            -532.7313855490634
+          ],
+          "cameraYaw": 1.1072205693916464,
+          "cameraPitch": -2.7926413087579505,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        },
+        {
+          "index": 11,
+          "file": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/woodbine/attempt-0/11-finish.jpg",
+          "elapsedMS": 10371,
+          "position": [
+            3672.4804669177884,
+            -529.627096149733
+          ],
+          "speed": 0,
+          "yaw": -1.130614838962766,
+          "cameraPosition": [
+            3679.0935091239144,
+            133.5443863265253,
+            -532.7345343701031
+          ],
+          "cameraYaw": 1.1067211519273126,
+          "cameraPitch": -2.7927940272240845,
+          "loadedTiles": 29,
+          "failedTiles": 0
+        }
+      ],
+      "filmstrip": "/Users/newfaculty/Desktop/Oxford/verification/illustrated/motion-visual-0.5.1-attempts/manual-review/woodbine-attempt-0-filmstrip.jpg",
+      "visualStatus": "observed_issue",
+      "trimFlicker": "not observed in 700 ms sampled frames; faster flicker unverified",
+      "floatingProps": "no clear floating object observed; exact mesh-to-ground contact unverified",
+      "crownOrLodPopping": "pale translucent crown overlap observed",
+      "groundContact": "vehicle shadow follows vehicle; exact tree/prop contact unverified",
+      "otherDefects": [
+        "Roadside tree silhouettes remain visible through the pass; pale translucent impostor crowns overlap nearby foliage at some distances. No clear trim flicker. Vehicle shadow remains on pavement. Exact tree ground contact is unverified."
+      ],
+      "notes": "Roadside tree silhouettes remain visible through the pass; pale translucent impostor crowns overlap nearby foliage at some distances. No clear trim flicker. Vehicle shadow remains on pavement. Exact tree ground contact is unverified."
+    }
+  ],
+  "reviewMethod": "Human visual screening of chronological 700 ms JPEG filmstrips for every station and both retained retry sequences; full-resolution frame spot checks for prominent apparent defects. The image sequences are discrete samples, not continuous video."
+}
