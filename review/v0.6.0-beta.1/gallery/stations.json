@@ -1,0 +1,146 @@
+[
+  {
+    "x": 4.58322087420673,
+    "z": -9.246511597105586,
+    "yaw": -0.2208850348505403,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "square-drive",
+    "title": "Oxford Square and courthouse \u00b7 drive"
+  },
+  {
+    "x": 4.58322087420673,
+    "z": -9.246511597105586,
+    "yaw": -0.2208850348505403,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "square-walk",
+    "title": "Oxford Square and courthouse \u00b7 walk"
+  },
+  {
+    "x": -1026.0277273137333,
+    "z": 191.12670283432752,
+    "yaw": -1.61603162542165,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "grove-drive",
+    "title": "University Avenue and Grove approach \u00b7 drive"
+  },
+  {
+    "x": -1026.0277273137333,
+    "z": 191.12670283432752,
+    "yaw": -1.61603162542165,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "grove-walk",
+    "title": "University Avenue and Grove approach \u00b7 walk"
+  },
+  {
+    "x": -230.97787267693985,
+    "z": 1155.365022154633,
+    "yaw": -0.677611748016696,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "south-lamar-drive",
+    "title": "South Lamar sidewalk \u00b7 drive"
+  },
+  {
+    "x": -230.97787267693985,
+    "z": 1155.365022154633,
+    "yaw": -0.677611748016696,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "south-lamar-walk",
+    "title": "South Lamar sidewalk \u00b7 walk"
+  },
+  {
+    "x": -4733.09,
+    "z": 454.18,
+    "yaw": 1.66,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "jackson-west-drive",
+    "title": "Jackson Avenue West shopping corridor \u00b7 drive"
+  },
+  {
+    "x": -4733.09,
+    "z": 454.18,
+    "yaw": 1.66,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "jackson-west-walk",
+    "title": "Jackson Avenue West shopping corridor \u00b7 walk"
+  },
+  {
+    "x": 551.8861436293116,
+    "z": -638.4321400488134,
+    "yaw": 1.3615573346092769,
+    "pitch": 0.05,
+    "height": "driver",
+    "key": "avent-drive",
+    "title": "Avent Street historic homes \u00b7 drive"
+  },
+  {
+    "x": 551.8861436293116,
+    "z": -638.4321400488134,
+    "yaw": 1.3615573346092769,
+    "pitch": 0.05,
+    "height": "walker",
+    "key": "avent-walk",
+    "title": "Avent Street historic homes \u00b7 walk"
+  },
+  {
+    "x": -2548.98,
+    "z": 2703.48,
+    "yaw": 1.11,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "apartment-court-drive",
+    "title": "The Mark apartment court \u00b7 drive"
+  },
+  {
+    "x": -2548.98,
+    "z": 2703.48,
+    "yaw": 1.11,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "apartment-court-walk",
+    "title": "The Mark apartment court \u00b7 walk"
+  },
+  {
+    "x": -2696.47,
+    "z": -1232.49,
+    "yaw": -2.11,
+    "pitch": -0.045,
+    "height": "driver",
+    "key": "lake-patsy-pier-drive",
+    "title": "Lake Patsy shoreline and pier \u00b7 drive"
+  },
+  {
+    "x": -2696.47,
+    "z": -1232.49,
+    "yaw": -2.11,
+    "pitch": -0.045,
+    "height": "walker",
+    "key": "lake-patsy-pier-walk",
+    "title": "Lake Patsy shoreline and pier \u00b7 walk"
+  },
+  {
+    "x": 3714.26,
+    "z": -539.7,
+    "yaw": -1.28,
+    "pitch": -0.025,
+    "height": "driver",
+    "key": "woodbine-drive",
+    "title": "Woodbine Drive at the city edge \u00b7 drive"
+  },
+  {
+    "x": 3714.26,
+    "z": -539.7,
+    "yaw": -1.28,
+    "pitch": -0.025,
+    "height": "walker",
+    "key": "woodbine-walk",
+    "title": "Woodbine Drive at the city edge \u00b7 walk"
+  }
+]
