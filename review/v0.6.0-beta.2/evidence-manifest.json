@@ -246,6 +246,13 @@
       "sha256": "46f8494436796067a2d81eb3263b45d68db51f0d9d5e9a79c53babc26b9d65dd"
     },
     {
+      "file": "evidence/retry-soak.json",
+      "sources": [
+        "backend/retry/soak.json"
+      ],
+      "sha256": "e6242b4ff2074476c4126bd1678e2f3059e75fea71a2e460780c2f0933f45c46"
+    },
+    {
       "file": "evidence/roof-correction-sources.json",
       "sources": [
         "sources/blender/flat-roof-corrections.json",

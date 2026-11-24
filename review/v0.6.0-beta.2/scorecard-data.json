@@ -1,7 +1,7 @@
 {
   "version": "v0.6.0-beta.2",
   "commit": "31743c600c0e7b38a5e1f2b074afbadf495fdf53",
-  "summary": "Oxford Courier v0.6.0-beta.2 is source- and archive-verified at commit 31743c600c0e7b38a5e1f2b074afbadf495fdf53; nine bespoke landmark assets (three Square, six Campus) and 466 footprint parts across 33 blocks are inventoried. Beta.2 reports still pending are explicitly marked; 2 scorecard rows currently have no qualifying beta.2 run.",
+  "summary": "Nine bespoke Oxford landmarks and 466 footprint-derived building parts ship in the browser and Mac releases. Both browsers completed the Square-to-Grove handoff and a full shift. Blinded AI place recognition reached 11/24 against 7/24 on version 0.4.0. Independent verification of every visible elevation remains open across both the Square and campus.",
   "method": "Only exact beta.2 hash/tag reports count as beta.2 measurements. Results taken from beta.1 are labeled as beta.1 and linked to its scorecard. A report still being written or with a mismatched bundle is excluded from candidate measurements. Source, CI and archive links are provided with access labels where required.",
   "links": [
     [
@@ -554,11 +554,15 @@
       "30-minute streaming soak",
       "Beta.1: 33.9 equivalent min; retained 0.00% geometry / 0.00% textures",
       "30 minutes; report comparable, retained-growth percentages, and tile issues",
-      "Beta.2 in progress/incomplete: 29.1 wall min elapsed; 24.3/30 settled-snapshot min, 6 samples; comparable=not recorded; retained geometry not recorded%, textures not recorded%; tag match. Thirty-minute comparable coverage is incomplete. First run stopped behind traffic on East Jackson at 24.3 comparable min.",
+      "Beta.2 complete: 38.5 wall min elapsed; 33.6/30 settled-snapshot min, 8 samples; comparable=True; retained geometry 0%, textures 0%; tag match. First run stopped behind traffic on East Jackson at 24.3 comparable min. Retry driver used 0 reverse-and-replan maneuvers.",
       [
         [
           "initial soak",
           "evidence/initial-soak.json"
+        ],
+        [
+          "retry soak",
+          "evidence/retry-soak.json"
         ],
         [
           "Earlier scorecard (v0.6.0-beta.1)",
